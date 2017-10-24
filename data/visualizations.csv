@@ -1,0 +1,1498 @@
+Level1,Level2,Level3,Level4,Citations
+2005-2008,0,Causal inference in sensorimotor integration,A Bayesian Model of Conditioned Perception,0
+2005-2008,0,Causal inference in sensorimotor integration,Characterizing response behavior in multisensory perception with conflicting cues,0.38
+2005-2008,0,Causal inference in sensorimotor integration,"Multisensory Encoding, Decoding, and Identification",0.893
+2014-2017,1,Online Learning with Gaussian Payoffs and Side Observations,Causal Bandits: Learning Good Interventions via Causal Inference,0.083
+2011-2014,2,Adaptive dropout for training deep neural networks,Altitude Training: Strong Bounds for Single-Layer Dropout,54.561
+2011-2014,2,Adaptive dropout for training deep neural networks,Variational Dropout and the Local Reparameterization Trick,0.052
+2011-2014,2,Adaptive dropout for training deep neural networks,Improved Dropout for Shallow and Deep Learning,0.105
+2014-2017,3,Bayesian Optimization with Exponential Convergence,Gaussian Process Bandit Optimisation with Multi-fidelity Evaluations,83.099
+2002-2005,4,Infinite latent feature models and the Indian buffet process,Modeling Dyadic Data with Binary Latent Factors,2.075
+2002-2005,4,Infinite latent feature models and the Indian buffet process,A Nonparametric Bayesian Method for Inferring Features From Similarity Judgments,0.059
+2002-2005,4,Infinite latent feature models and the Indian buffet process,Particle Filtering for Nonparametric Bayesian Matrix Factorization,0.146
+2002-2005,4,Infinite latent feature models and the Indian buffet process,The Infinite Gamma-Poisson Feature Model,0.146
+2002-2005,4,Infinite latent feature models and the Indian buffet process,Analyzing human feature learning as nonparametric Bayesian inference,61.661
+2002-2005,4,Infinite latent feature models and the Indian buffet process,Indian Buffet Processes with Power-law Behavior,0.175
+2002-2005,4,Infinite latent feature models and the Indian buffet process,Large Scale Nonparametric Bayesian Inference: Data Parallelisation in the Indian Buffet Process,25.456
+2002-2005,4,Infinite latent feature models and the Indian buffet process,Sharing Features among Dynamical Systems with Beta Processes,29.19
+2002-2005,4,Infinite latent feature models and the Indian buffet process,Construction of Nonparametric Bayesian Models from Parametric Bayes Equations,2.629
+2002-2005,4,Infinite latent feature models and the Indian buffet process,Bayesian Nonparametric Models on Decomposable Graphs,676.467
+2002-2005,4,Infinite latent feature models and the Indian buffet process,Learning invariant features using the Transformed Indian Buffet Process,4.317
+2002-2005,4,Infinite latent feature models and the Indian buffet process,The Kernel Beta Process,2.495
+2002-2005,4,Infinite latent feature models and the Indian buffet process,Inferring Interaction Networks using the IBP applied to microRNA Target Prediction,3.026
+2002-2005,4,Infinite latent feature models and the Indian buffet process,Infinite Latent SVM for Classification and Multi-task Learning,143.547
+2002-2005,4,Infinite latent feature models and the Indian buffet process,Truncation-free Online Variational Inference for Bayesian Nonparametric Models,0.16
+2002-2005,4,Infinite latent feature models and the Indian buffet process,Nonparametric Max-Margin Matrix Factorization for Collaborative Prediction,3.339
+2002-2005,4,Infinite latent feature models and the Indian buffet process,Effective Split-Merge Monte Carlo Methods for Nonparametric Models of Sequential Data,0.196
+2002-2005,4,Infinite latent feature models and the Indian buffet process,Augment-and-Conquer Negative Binomial Processes,6.953
+2002-2005,4,Infinite latent feature models and the Indian buffet process,Factorial LDA: Sparse Multi-Dimensional Text Models,3.649
+2002-2005,4,Infinite latent feature models and the Indian buffet process,Joint Modeling of a Matrix with Associated Text via Latent Binary Features,0.59
+2002-2005,4,Infinite latent feature models and the Indian buffet process,Bayesian nonparametric models for bipartite graphs,20.844
+2002-2005,4,Infinite latent feature models and the Indian buffet process,Restricting exchangeable nonparametric distributions,6.95
+2002-2005,4,Infinite latent feature models and the Indian buffet process,Efficient Online Inference for Bayesian Nonparametric Relational Models,21.257
+2002-2005,4,Infinite latent feature models and the Indian buffet process,Beta-Negative Binomial Process and Exchangeable ?Random Partitions for Mixed-Membership Modeling,3.933
+2002-2005,4,Infinite latent feature models and the Indian buffet process,"Streaming, Distributed Variational Inference for Bayesian Nonparametrics",0.322
+2002-2005,4,Infinite latent feature models and the Indian buffet process,Finite-Dimensional BFRY Priors and Variational Bayesian Inference for Power Law Models,14.103
+2005-2008,5,Infinite latent feature models and the Indian buffet process,Modeling Dyadic Data with Binary Latent Factors,2.395
+2005-2008,5,Infinite latent feature models and the Indian buffet process,A Nonparametric Bayesian Method for Inferring Features From Similarity Judgments,228.9
+2005-2008,5,Infinite latent feature models and the Indian buffet process,Particle Filtering for Nonparametric Bayesian Matrix Factorization,5.4
+2005-2008,5,Infinite latent feature models and the Indian buffet process,The Infinite Gamma-Poisson Feature Model,0
+2005-2008,5,Infinite latent feature models and the Indian buffet process,Analyzing human feature learning as nonparametric Bayesian inference,194.019
+2005-2008,5,Infinite latent feature models and the Indian buffet process,Indian Buffet Processes with Power-law Behavior,4.082
+2005-2008,5,Infinite latent feature models and the Indian buffet process,Large Scale Nonparametric Bayesian Inference: Data Parallelisation in the Indian Buffet Process,8.985
+2005-2008,5,Infinite latent feature models and the Indian buffet process,Sharing Features among Dynamical Systems with Beta Processes,0.215
+2005-2008,5,Infinite latent feature models and the Indian buffet process,Construction of Nonparametric Bayesian Models from Parametric Bayes Equations,4.4
+2005-2008,5,Infinite latent feature models and the Indian buffet process,Bayesian Nonparametric Models on Decomposable Graphs,0.424
+2005-2008,5,Infinite latent feature models and the Indian buffet process,Learning invariant features using the Transformed Indian Buffet Process,56.194
+2005-2008,5,Infinite latent feature models and the Indian buffet process,The Kernel Beta Process,54.735
+2005-2008,5,Infinite latent feature models and the Indian buffet process,Inferring Interaction Networks using the IBP applied to microRNA Target Prediction,5.87
+2005-2008,5,Infinite latent feature models and the Indian buffet process,Infinite Latent SVM for Classification and Multi-task Learning,10.513
+2005-2008,5,Infinite latent feature models and the Indian buffet process,Truncation-free Online Variational Inference for Bayesian Nonparametric Models,20.811
+2005-2008,5,Infinite latent feature models and the Indian buffet process,Nonparametric Max-Margin Matrix Factorization for Collaborative Prediction,0.225
+2005-2008,5,Infinite latent feature models and the Indian buffet process,Effective Split-Merge Monte Carlo Methods for Nonparametric Models of Sequential Data,0.134
+2005-2008,5,Infinite latent feature models and the Indian buffet process,Augment-and-Conquer Negative Binomial Processes,1.126
+2005-2008,5,Infinite latent feature models and the Indian buffet process,Factorial LDA: Sparse Multi-Dimensional Text Models,5.8
+2005-2008,5,Infinite latent feature models and the Indian buffet process,Joint Modeling of a Matrix with Associated Text via Latent Binary Features,0.672
+2005-2008,5,Infinite latent feature models and the Indian buffet process,Bayesian nonparametric models for bipartite graphs,3.552
+2005-2008,5,Infinite latent feature models and the Indian buffet process,Restricting exchangeable nonparametric distributions,273.401
+2005-2008,5,Infinite latent feature models and the Indian buffet process,Efficient Online Inference for Bayesian Nonparametric Relational Models,3.761
+2005-2008,5,Infinite latent feature models and the Indian buffet process,Beta-Negative Binomial Process and Exchangeable ?Random Partitions for Mixed-Membership Modeling,264.336
+2005-2008,5,Infinite latent feature models and the Indian buffet process,"Streaming, Distributed Variational Inference for Bayesian Nonparametrics",2.195
+2005-2008,5,Infinite latent feature models and the Indian buffet process,Finite-Dimensional BFRY Priors and Variational Bayesian Inference for Power Law Models,281.418
+2011-2014,6,Linear decision rule as aspiration for simple decision heuristics,Learning From Small Samples: An Analysis of Simple Decision Heuristics,0.399
+1999-2002,7,Prodding the ROC Curve: Constrained Optimization of Classifier Performance,Confidence Intervals for the Area Under the ROC Curve,75.119
+1993-1996,8,Independent Component Analysis of Electroencephalographic Data,Extended ICA Removes Artifacts from Electroencephalographic Recordings,0.61
+2008-2011,9,Efficient Minimization of Decomposable Submodular Functions,From MAP to Marginals: Variational Inference in Bayesian Submodular Models,0.767
+2008-2011,9,Efficient Minimization of Decomposable Submodular Functions,Cooperative Graphical Models,28.2
+2008-2011,10,Evaluating the inverse decision-making approach to preference learning,Rational inference of relative preferences,72.6
+2008-2011,10,Evaluating the inverse decision-making approach to preference learning,Magnitude-sensitive preference formation`,144.1
+2011-2014,11,Evaluating the inverse decision-making approach to preference learning,Rational inference of relative preferences,0
+2011-2014,11,Evaluating the inverse decision-making approach to preference learning,Magnitude-sensitive preference formation`,1.4
+1987-1990,12,A Programmable Analog Neural Computer and Simulator,A Reconfigurable Analog VLSI Neural Network Chip,6.2
+2011-2014,13,"Stochastic Gradient Descent, Weighted Sampling, and the Randomized Kaczmarz algorithm",SGD Algorithms based on Incomplete U-statistics: Large-Scale Minimization of Empirical Risk,0
+2014-2017,0,"Stochastic Gradient Descent, Weighted Sampling, and the Randomized Kaczmarz algorithm",SGD Algorithms based on Incomplete U-statistics: Large-Scale Minimization of Empirical Risk,0.6
+1987-1990,1,Presynaptic Neural Information Processing,"Does the Neuron ""Learn"" like the Synapse?",3.2
+2005-2008,2,Speakers optimize information density through syntactic reduction,Inference and communication in the game of Password,0
+2005-2008,2,Speakers optimize information density through syntactic reduction,Why are some word orders more common than others? A uniform information density account,0.115
+2008-2011,3,An LP View of the M-best MAP problem,Maximum Margin Multi-Label Structured Prediction,0.455
+2008-2011,3,An LP View of the M-best MAP problem,Multiple Choice Learning: Learning to Produce Multiple Structured Outputs,0.373
+2011-2014,4,Expectation Propagation in Gaussian Process Dynamical Systems,Gaussian Process Volatility Model,0.132
+2011-2014,5,Robustness and risk-sensitivity in Markov decision processes,Policy Gradient for Coherent Risk Measures,0.051
+1999-2002,6,Dynamical Causal Learning,The Rescorla-Wagner Algorithm and Maximum Likelihood Estimation of Causal Parameters,0.947
+1999-2002,6,Dynamical Causal Learning,Augmented Rescorla-Wagner and Maximum Likelihood Estimation,2.496
+2002-2005,7,Dynamical Causal Learning,The Rescorla-Wagner Algorithm and Maximum Likelihood Estimation of Causal Parameters,0
+2002-2005,7,Dynamical Causal Learning,Augmented Rescorla-Wagner and Maximum Likelihood Estimation,0
+2008-2011,8,Why The Brain Separates Face Recognition From Object Recognition,Learning invariant representations and applications to face verification,0
+2011-2014,9,Why The Brain Separates Face Recognition From Object Recognition,Learning invariant representations and applications to face verification,0
+2011-2014,10,Optimal kernel choice for large-scale two-sample tests,Statistical analysis of coupled time series with Kernel Cross-Spectral Density operators.,0.15
+2011-2014,10,Optimal kernel choice for large-scale two-sample tests,"B-test: A Non-parametric, Low Variance Kernel Two-sample Test",0.15
+2011-2014,10,Optimal kernel choice for large-scale two-sample tests,Fast Two-Sample Testing with Analytic Representations of Probability Measures,0.265
+2011-2014,10,Optimal kernel choice for large-scale two-sample tests,Interpretable Distribution Features with Maximum Testing Power,0.569
+2011-2014,10,Optimal kernel choice for large-scale two-sample tests,Multivariate tests of association based on univariate tests,0.144
+2002-2005,11,Saliency Based on Information Maximization,Graph-Based Visual Saliency,0.194
+2002-2005,11,Saliency Based on Information Maximization,Dynamic visual attention: searching for coding length increments,0.201
+2005-2008,12,Saliency Based on Information Maximization,Graph-Based Visual Saliency,0.712
+2005-2008,12,Saliency Based on Information Maximization,Dynamic visual attention: searching for coding length increments,30.314
+1993-1996,13,A Variational Principle for Model-based Morphing,Example-Based Image Synthesis of Articulated Figures,0.167
+1996-1999,0,A Variational Principle for Model-based Morphing,Example-Based Image Synthesis of Articulated Figures,0.138
+1990-1993,1,Learning to categorize objects using temporal coherence,Learning Temporally Persistent Hierarchical Representations,0.051
+1990-1993,1,Learning to categorize objects using temporal coherence,JPMAX: Learning to Recognize Moving Objects as a Model-fitting Problem,0
+2008-2011,2,Neurometric function analysis of population codes,Evaluating neuronal codes for inference using Fisher information,0
+2008-2011,2,Neurometric function analysis of population codes,Implicit encoding of prior probabilities in optimal neural populations,0.175
+2005-2008,3,Modeling homophily and stochastic equivalence in symmetric relational data,Gaussian Process Models for Link Analysis and Transfer Learning,0.056
+2005-2008,3,Modeling homophily and stochastic equivalence in symmetric relational data,Confidence Sets for Network Structure,0.189
+2005-2008,3,Modeling homophily and stochastic equivalence in symmetric relational data,Random function priors for exchangeable arrays with applications to graphs and relational data,0.2
+2005-2008,3,Modeling homophily and stochastic equivalence in symmetric relational data,Random function priors for exchangeable arrays with applications to graphs and relational data,9.727
+2005-2008,3,Modeling homophily and stochastic equivalence in symmetric relational data,Stochastic blockmodel approximation of a graphon: Theory and consistent estimation,0.282
+2005-2008,3,Modeling homophily and stochastic equivalence in symmetric relational data,Reducing the Rank in Relational Factorization Models by Including Observable Patterns,10.97
+2005-2008,3,Modeling homophily and stochastic equivalence in symmetric relational data,Bayesian latent structure discovery from multi-neuron recordings,2.912
+2008-2011,4,A concave regularization technique for sparse mixture models,On Algorithms for Sparse Multi-factor NMF,0.059
+2011-2014,5,A concave regularization technique for sparse mixture models,On Algorithms for Sparse Multi-factor NMF,0.068
+2005-2008,6,Supervised Topic Models,Latent Support Measure Machines for Bag-of-Words Data Classification,0.056
+2008-2011,7,Neural Implementation of Hierarchical Bayesian Inference by Importance Sampling,Rational inference of relative preferences,0.175
+1999-2002,8,Sampling Techniques for Kernel Methods,Hierarchical Eigensolver for Transition Matrices in Spectral Methods,0.134
+1999-2002,8,Sampling Techniques for Kernel Methods,QUIC-SVD: Fast SVD Using Cosine Trees,0.061
+2002-2005,9,Online Learning of Non-stationary Sequences,Nearly Tight Bounds for the Continuum-Armed Bandit Problem,0.359
+1990-1993,10,Diffusion Approximations for the Constant Learning Rate Backpropagation Algorithm and Resistence to Local Minima,Asymptotics of Gradient-based Neural Network Training Algorithms,2.463
+2011-2014,11,Robust learning of low-dimensional dynamics from large neural ensembles,Clustered factor analysis of multineuronal spike data,3.181
+1993-1996,12,Examples of learning curves from a modified VC-formalism,MLP Can Provably Generalize Much Better than VC-bounds Indicate,1.679
+2011-2014,13,Algorithm selection by rational metareasoning as a model of human strategy selection,Human Decision-Making under Limited Time,0.242
+2014-2017,0,Algorithm selection by rational metareasoning as a model of human strategy selection,Human Decision-Making under Limited Time,4.161
+2011-2014,1,Bayesian inference for low rank spatiotemporal neural receptive fields,On Prior Distributions and Approximate Inference for Structured Variables,0.156
+2005-2008,2,Conditional mean field,Sequential Monte Carlo for Graphical Models,0.397
+2005-2008,3,Progressive mixture rules are deviation suboptimal,Greedy Model Averaging,1.936
+1999-2002,4,Laplacian Eigenmaps and Spectral Techniques for Embedding and Clustering,Locality Preserving Projections,3.458
+2011-2014,5,One-shot learning by inverting a compositional causal process,Unsupervised Learning by Program Synthesis,0.077
+2011-2014,5,One-shot learning by inverting a compositional causal process,Softstar: Heuristic-Guided Probabilistic Inference,0.161
+2011-2014,5,One-shot learning by inverting a compositional causal process,Ladder Variational Autoencoders,2.965
+2014-2017,6,Copula variational inference,Stein Variational Gradient Descent: A General Purpose Bayesian Inference Algorithm,0.343
+2014-2017,6,Copula variational inference,Scaling Factorial Hidden Markov Models: Stochastic Variational Inference without Messages,0.097
+2008-2011,7,Large Margin Multi-Task Metric Learning,Similarity Component Analysis,0.08
+2011-2014,8,Sequence to Sequence Learning with Neural Networks,"Parallel Multi-Dimensional LSTM, With Application to Fast Biomedical Volumetric Image Segmentation",2.055
+2014-2017,9,Sequence to Sequence Learning with Neural Networks,"Parallel Multi-Dimensional LSTM, With Application to Fast Biomedical Volumetric Image Segmentation",1.087
+2011-2014,10,Learning Stochastic Inverses,Just-In-Time Learning for Fast and Flexible Inference,0.803
+2005-2008,11,How SVMs can estimate quantiles and the median,Sparsity of SVMs that use the epsilon-insensitive loss,0.468
+1993-1996,12,A Practical Monte Carlo Implementation of Bayesian Learning,Gaussian Processes for Regression,282.819
+2008-2011,13,Spike timing-dependent plasticity as dynamic filter,Towards a learning-theoretic analysis of spike-timing dependent plasticity,10.027
+2005-2008,0,Natural Actor-Critic for Road Traffic Optimisation,A Unifying Perspective of Parametric Policy Search Methods for Markov Decision Processes,0.474
+2005-2008,1,A general agnostic active learning algorithm,Linear Classification and Selective Sampling Under Low Noise Conditions,1.09
+2005-2008,1,A general agnostic active learning algorithm,Sufficient Conditions for Agnostic Active Learnable,0.2
+2005-2008,1,A general agnostic active learning algorithm,Multi-View Active Learning in the Non-Realizable Case,0.344
+2005-2008,1,A general agnostic active learning algorithm,Agnostic Active Learning Without Constraints,0.418
+2005-2008,1,A general agnostic active learning algorithm,Active Learning with a Drifting Distribution,0.374
+2005-2008,1,A general agnostic active learning algorithm,Lower Bounds for Passive and Active Learning,1.507
+2005-2008,1,A general agnostic active learning algorithm,Agnostic Selective Classification,0.426
+2005-2008,1,A general agnostic active learning algorithm,Active Learning Ranking from Pairwise Preferences with Almost Optimal Query Complexity,0.526
+2005-2008,1,A general agnostic active learning algorithm,Auditing: Active Learning with Outcome-Dependent Query Costs,0.069
+2005-2008,1,A general agnostic active learning algorithm,Statistical Active Learning Algorithms,0.057
+2005-2008,1,A general agnostic active learning algorithm,Beyond Disagreement-Based Agnostic Active Learning,337.8
+2005-2008,1,A general agnostic active learning algorithm,Active Regression by Stratification,7.1
+2005-2008,1,A general agnostic active learning algorithm,Convergence Rates of Active Learning for Maximum Likelihood Estimation,397
+2005-2008,1,A general agnostic active learning algorithm,Efficient and Parsimonious Agnostic Active Learning,0.103
+2005-2008,1,A general agnostic active learning algorithm,Active Learning from Weak and Strong Labelers,0.673
+2005-2008,1,A general agnostic active learning algorithm,Active Learning with Oracle Epiphany,0.82
+2005-2008,1,A general agnostic active learning algorithm,Active Learning from Imperfect Labelers,4.426
+2005-2008,1,A general agnostic active learning algorithm,Search Improves Label for Active Learning,0.12
+2008-2011,2,Free energy score space,Documents as multiple overlapping windows into grids of counts,0.123
+1987-1990,3,An Optimality Principle for Unsupervised Learning,Unsupervised Learning of Mixtures of Multiple Causes in Binary Data,1.26
+2011-2014,4,Near-optimal sample compression for nearest neighbors,Active Nearest-Neighbor Learning in Metric Spaces,0.323
+2014-2017,5,Near-optimal sample compression for nearest neighbors,Active Nearest-Neighbor Learning in Metric Spaces,15.364
+1999-2002,6,Structure Learning in Human Causal Induction,The Rescorla-Wagner Algorithm and Maximum Likelihood Estimation of Causal Parameters,1.305
+1999-2002,6,Structure Learning in Human Causal Induction,Augmented Rescorla-Wagner and Maximum Likelihood Estimation,0.494
+1993-1996,7,A Charge-Based CMOS Parallel Analog Vector Quantizer,Stochastic Mixed-Signal VLSI Architecture for High-Dimensional Kernel Machines,0.685
+2011-2014,8,Demixing odors - fast inference in olfaction,Fast Sampling-Based Inference in Balanced Neuronal Networks,12.475
+2008-2011,9,Efficient Match Kernel between Sets of Features for Visual Recognition,Kernel Descriptors for Visual Recognition,0.208
+2008-2011,9,Efficient Match Kernel between Sets of Features for Visual Recognition,Hierarchical Matching Pursuit for Image Classification: Architecture and Fast Algorithms,1.679
+2014-2017,10,Optimal Tagging with Markov Chain Optimization,The Power of Optimization from Samples,19.577
+2011-2014,11,Multivariate f-divergence Estimation With Confidence,"Nonparametric von Mises Estimators for Entropies, Divergences and Mutual Informations",0.06
+2014-2017,12,Multivariate f-divergence Estimation With Confidence,"Nonparametric von Mises Estimators for Entropies, Divergences and Mutual Informations",104.4
+2005-2008,13,Estimating divergence functionals and the likelihood ratio by penalized convex risk minimization,Convex Multiple-Instance Learning by Estimating Likelihood Ratio,413.3
+2008-2011,0,Supervised Clustering,Orbit Regularization,40.3
+2008-2011,0,Supervised Clustering,Expectation-Maximization for Learning Determinantal Point Processes,17.1
+1993-1996,1,Separating Style and Content,Using matrices to model symbolic relationship,7.541
+1993-1996,1,Separating Style and Content,What Are the Invariant Occlusive Components of Image Patches? A Probabilistic Generative Approach,3.39
+1996-1999,2,Separating Style and Content,Using matrices to model symbolic relationship,28.709
+1996-1999,2,Separating Style and Content,What Are the Invariant Occlusive Components of Image Patches? A Probabilistic Generative Approach,0.648
+1999-2002,3,Learning Attractor Landscapes for Learning Motor Primitives,Probabilistic Movement Primitives,0.063
+1999-2002,3,Learning Attractor Landscapes for Learning Motor Primitives,Model-Based Relative Entropy Stochastic Search,0.124
+2002-2005,4,Learning Attractor Landscapes for Learning Motor Primitives,Probabilistic Movement Primitives,0.361
+2002-2005,4,Learning Attractor Landscapes for Learning Motor Primitives,Model-Based Relative Entropy Stochastic Search,1.554
+1999-2002,5,Motivated Reinforcement Learning,Reward Design via Online Gradient Ascent,0.444
+2005-2008,6,Clustering appearance and shape by learning jigsaws,Nonparametric Bayesian Texture Learning and Synthesis,0.234
+2005-2008,6,Clustering appearance and shape by learning jigsaws,Learned Region Sparsity and Diversity Also Predicts Visual Attention,24.105
+2005-2008,7,Towards a general independent subspace analysis,A Kernel Statistical Test of Independence,13.553
+1993-1996,8,Learning from Demonstration,Probabilistic Movement Primitives,1.041
+1996-1999,9,Learning from Demonstration,Probabilistic Movement Primitives,0.29
+2005-2008,10,Learning and using relational theories,Abstraction and Relational learning,0.335
+2005-2008,10,Learning and using relational theories,Quantification and the language of thought,0.244
+2005-2008,11,Statistical Analysis of Semi-Supervised Regression,Statistical Analysis of Semi-Supervised Learning: The Limit of Infinite Unlabelled Data,24
+2005-2008,12,Collapsed Variational Inference for HDP,Online Learning of Nonparametric Mixture Models via Sequential Variational Approximation,206
+2005-2008,12,Collapsed Variational Inference for HDP,Analysis of Brain States from Multi-Region LFP Time-Series,4
+2008-2011,13,Crowdclustering,Semi-Crowdsourced Clustering: Generalizing Crowd Labeling by Robust Distance Metric Learning,22.4
+2008-2011,13,Crowdclustering,Crowdsourced Clustering: Querying Edges vs Triangles,0.3
+2011-2014,0,Crowdclustering,Semi-Crowdsourced Clustering: Generalizing Crowd Labeling by Robust Distance Metric Learning,6
+2011-2014,0,Crowdclustering,Crowdsourced Clustering: Querying Edges vs Triangles,6.47
+1990-1993,1,Training Neural Networks with Deficient Data,Combining Estimators Using Non-Constant Weighting Functions,5.864
+1990-1993,1,Training Neural Networks with Deficient Data,Efficient Methods for Dealing with Missing Data in Supervised Learning,0.88
+1993-1996,2,Training Neural Networks with Deficient Data,Combining Estimators Using Non-Constant Weighting Functions,0.15
+1993-1996,2,Training Neural Networks with Deficient Data,Efficient Methods for Dealing with Missing Data in Supervised Learning,0.296
+2008-2011,3,Learning Non-Linear Combinations of Kernels,Learning Kernels with Radiuses of Minimum Enclosing Balls,0.254
+2008-2011,4,Rates of convergence for the cluster tree,Cluster Trees on Manifolds,0
+2008-2011,4,Rates of convergence for the cluster tree,"Graphons, mergeons, and so on!",0
+2008-2011,4,Rates of convergence for the cluster tree,Statistical Inference for Cluster Trees,0
+1993-1996,5,Hidden Markov Decision Trees,Call-Based Fraud Detection in Mobile Communication Networks Using a Hierarchical Regime-Switching Model,0.074
+1996-1999,6,Hidden Markov Decision Trees,Call-Based Fraud Detection in Mobile Communication Networks Using a Hierarchical Regime-Switching Model,0.476
+2008-2011,7,Efficient Large-Scale Distributed Training of Conditional Maximum Entropy Models,Communication-Efficient Algorithms for Statistical Optimization,0.452
+1993-1996,8,Gaussian Processes for Regression,Regression with Input-dependent Noise: A Gaussian Process Treatment,0.409
+1993-1996,8,Gaussian Processes for Regression,Mean Field Methods for Classification with Gaussian Processes,0.053
+1993-1996,8,Gaussian Processes for Regression,General Bounds on Bayes Errors for Regression with Gaussian Processes,0.445
+1993-1996,8,Gaussian Processes for Regression,Efficient Approaches to Gaussian Process Classification,0.107
+1993-1996,8,Gaussian Processes for Regression,"Bayesian Model Selection for Support Vector Machines, Gaussian Processes and Other Kernel Classifiers",0.159
+1993-1996,8,Gaussian Processes for Regression,The Infinite Gaussian Mixture Model,0.664
+1993-1996,8,Gaussian Processes for Regression,Predictive App roaches for Choosing Hyperparameters in Gaussian Processes,0.158
+1993-1996,8,Gaussian Processes for Regression,Learning Curves for Gaussian Processes Regression: A Framework for Good Approximations,0.129
+1993-1996,8,Gaussian Processes for Regression,Computing with Finite and Infinite Networks,0.052
+1993-1996,8,Gaussian Processes for Regression,Infinite Mixtures of Gaussian Process Experts,0.26
+1993-1996,8,Gaussian Processes for Regression,Bayesian Monte Carlo,12.147
+1993-1996,8,Gaussian Processes for Regression,Gaussian Process Priors with Uncertain Inputs Application to Multiple-Step Ahead Time Series Forecasting,0.102
+1993-1996,8,Gaussian Processes for Regression,Nonstationary Covariance Functions for Gaussian Process Regression,2.919
+1993-1996,8,Gaussian Processes for Regression,Warped Gaussian Processes,0.612
+1993-1996,8,Gaussian Processes for Regression,Fast Gaussian Process Regression using KD-Trees,0.156
+1993-1996,8,Gaussian Processes for Regression,Sparse Gaussian Processes using Pseudo-inputs,0.351
+1993-1996,8,Gaussian Processes for Regression,Bayesian Warped Gaussian Processes,0.078
+1993-1996,8,Gaussian Processes for Regression,Bayesian optimization under mixed constraints  with a slack-variable augmented Lagrangian,1.854
+2002-2005,9,Warped Gaussian Processes,Heavy-Tailed Process Priors for Selective Shrinkage,0.632
+2002-2005,9,Warped Gaussian Processes,Copula Processes,0.793
+2002-2005,9,Warped Gaussian Processes,Implicitly Constrained Gaussian Process Regression for Monocular Non-Rigid Pose Estimation,0.925
+1999-2002,10,Online Learning with Kernels,Dual Space Gradient Descent for Online Learning,0.182
+2002-2005,11,Non-linear CCA and PCA by Alignment of Local Models,The Infinite Hierarchical Factor Regression Model,0.615
+2002-2005,12,Correlated Topic Models,Sparse Overcomplete Latent Variable Decomposition of Counts Data,0.115
+2005-2008,13,Correlated Topic Models,Sparse Overcomplete Latent Variable Decomposition of Counts Data,0.233
+2008-2011,0,Noisy Generalized Binary Search,Active Learning for Probabilistic Hypotheses Using the Maximum Gibbs Error Criterion,0.549
+2011-2014,1,Streaming Variational Bayes,Coresets for Scalable Bayesian Logistic Regression,0.101
+2005-2008,2,Improving on Expectation Propagation,Approximate inference in latent Gaussian-Markov models from continuous time observations,0.082
+2008-2011,3,Improving on Expectation Propagation,Approximate inference in latent Gaussian-Markov models from continuous time observations,0.357
+2014-2017,4,A class of network models recoverable by spectral clustering,Graph Clustering: Block-models and model free results,0.288
+2002-2005,5,Confidence Intervals for the Area Under the ROC Curve,Learning to Rank with Nonsmooth Cost Functions,0.137
+2005-2008,6,Mixed Membership Stochastic Blockmodels,Random function priors for exchangeable arrays with applications to graphs and relational data,0.215
+2005-2008,6,Mixed Membership Stochastic Blockmodels,Random function priors for exchangeable arrays with applications to graphs and relational data,3.292
+2005-2008,6,Mixed Membership Stochastic Blockmodels,Capturing Semantically Meaningful Word Dependencies with an Admixture of Poisson MRFs,0.084
+2005-2008,6,Mixed Membership Stochastic Blockmodels,Reducing the Rank in Relational Factorization Models by Including Observable Patterns,0.209
+2008-2011,7,Mixed Membership Stochastic Blockmodels,Random function priors for exchangeable arrays with applications to graphs and relational data,0.266
+2008-2011,7,Mixed Membership Stochastic Blockmodels,Random function priors for exchangeable arrays with applications to graphs and relational data,0.536
+2008-2011,7,Mixed Membership Stochastic Blockmodels,Capturing Semantically Meaningful Word Dependencies with an Admixture of Poisson MRFs,0.209
+2008-2011,7,Mixed Membership Stochastic Blockmodels,Reducing the Rank in Relational Factorization Models by Including Observable Patterns,0.181
+2011-2014,8,Deep content-based music recommendation,SoundNet: Learning Sound Representations from Unlabeled Video,0.068
+2011-2014,8,Deep content-based music recommendation,Collaborative Recurrent Autoencoder: Recommend while Learning to Fill in the Blanks,0.063
+2011-2014,9,Priors for Diversity in Generative Latent Variable Models,Expectation-Maximization for Learning Determinantal Point Processes,0.47
+2002-2005,10,Coarse sample complexity bounds for active learning,Active learning for misspecified generalized linear models,1.792
+2002-2005,10,Coarse sample complexity bounds for active learning,A general agnostic active learning algorithm,9.463
+2002-2005,10,Coarse sample complexity bounds for active learning,Nearest-Neighbor-Based Active Learning for Rare Category Detection,0.379
+2002-2005,10,Coarse sample complexity bounds for active learning,Sufficient Conditions for Agnostic Active Learnable,1.756
+2002-2005,10,Coarse sample complexity bounds for active learning,Multi-View Active Learning in the Non-Realizable Case,0
+2002-2005,10,Coarse sample complexity bounds for active learning,Agnostic Active Learning Without Constraints,16.4
+2002-2005,10,Coarse sample complexity bounds for active learning,Near-Optimal Bayesian Active Learning with Noisy Observations,9.8
+2002-2005,10,Coarse sample complexity bounds for active learning,Extensions of Generalized Binary Search to Group Identification and Exponential Costs,0.9
+2002-2005,10,Coarse sample complexity bounds for active learning,Active Learning with a Drifting Distribution,0.8
+2002-2005,10,Coarse sample complexity bounds for active learning,Active Learning Ranking from Pairwise Preferences with Almost Optimal Query Complexity,0.2
+2002-2005,10,Coarse sample complexity bounds for active learning,Buy-in-Bulk Active Learning,0.6
+2002-2005,10,Coarse sample complexity bounds for active learning,Statistical Active Learning Algorithms,26.9
+2002-2005,10,Coarse sample complexity bounds for active learning,Beyond Disagreement-Based Agnostic Active Learning,0
+2002-2005,10,Coarse sample complexity bounds for active learning,Convergence Rates of Active Learning for Maximum Likelihood Estimation,0
+2002-2005,10,Coarse sample complexity bounds for active learning,Efficient and Parsimonious Agnostic Active Learning,0
+2002-2005,10,Coarse sample complexity bounds for active learning,Active Learning from Weak and Strong Labelers,0.156
+2002-2005,10,Coarse sample complexity bounds for active learning,Active Learning from Imperfect Labelers,0.082
+2002-2005,10,Coarse sample complexity bounds for active learning,Search Improves Label for Active Learning,0.068
+2005-2008,11,Coarse sample complexity bounds for active learning,Active learning for misspecified generalized linear models,0.097
+2005-2008,11,Coarse sample complexity bounds for active learning,A general agnostic active learning algorithm,0.087
+2005-2008,11,Coarse sample complexity bounds for active learning,Nearest-Neighbor-Based Active Learning for Rare Category Detection,0.213
+2005-2008,11,Coarse sample complexity bounds for active learning,Sufficient Conditions for Agnostic Active Learnable,0.322
+2005-2008,11,Coarse sample complexity bounds for active learning,Multi-View Active Learning in the Non-Realizable Case,0.37
+2005-2008,11,Coarse sample complexity bounds for active learning,Agnostic Active Learning Without Constraints,0.055
+2005-2008,11,Coarse sample complexity bounds for active learning,Near-Optimal Bayesian Active Learning with Noisy Observations,41.696
+2005-2008,11,Coarse sample complexity bounds for active learning,Extensions of Generalized Binary Search to Group Identification and Exponential Costs,1.482
+2005-2008,11,Coarse sample complexity bounds for active learning,Active Learning with a Drifting Distribution,0.304
+2005-2008,11,Coarse sample complexity bounds for active learning,Active Learning Ranking from Pairwise Preferences with Almost Optimal Query Complexity,9.65
+2005-2008,11,Coarse sample complexity bounds for active learning,Buy-in-Bulk Active Learning,0.309
+2005-2008,11,Coarse sample complexity bounds for active learning,Statistical Active Learning Algorithms,0.251
+2005-2008,11,Coarse sample complexity bounds for active learning,Beyond Disagreement-Based Agnostic Active Learning,33.605
+2005-2008,11,Coarse sample complexity bounds for active learning,Convergence Rates of Active Learning for Maximum Likelihood Estimation,0.393
+2005-2008,11,Coarse sample complexity bounds for active learning,Efficient and Parsimonious Agnostic Active Learning,46.692
+2005-2008,11,Coarse sample complexity bounds for active learning,Active Learning from Weak and Strong Labelers,1.349
+2005-2008,11,Coarse sample complexity bounds for active learning,Active Learning from Imperfect Labelers,76.108
+2005-2008,11,Coarse sample complexity bounds for active learning,Search Improves Label for Active Learning,7.377
+1990-1993,12,Fast Non-Linear Dimension Reduction,Nonlinear Image Interpolation using Manifold Learning,3.212
+1993-1996,13,Fast Non-Linear Dimension Reduction,Nonlinear Image Interpolation using Manifold Learning,8.809
+1987-1990,0,Winner-Take-All Networks of O(N) Complexity,A Neural Network Classifier for the I100 OCR Chip,0.465
+2008-2011,1,The Maximal Causes of Natural Scenes are Edge Filters,Unsupervised learning models of primary cortical receptive fields and receptive field plasticity,0.356
+1993-1996,2,Factorial Hidden Markov Models,Bayesian Map Learning in Dynamic Environments,50.33
+1993-1996,2,Factorial Hidden Markov Models,Context as Filtering,3.307
+1993-1996,2,Factorial Hidden Markov Models,Nonparametric Bayesian Models for Unsupervised Event Coreference Resolution,6.064
+1993-1996,2,Factorial Hidden Markov Models,Selective Prediction of Financial Trends with Hidden Markov Models,0.078
+1993-1996,2,Factorial Hidden Markov Models,SDP Relaxation with Randomized Rounding for Energy Disaggregation,0.951
+2005-2008,3,Near-optimal Regret Bounds for Reinforcement Learning,Sample Complexity of Episodic Fixed-Horizon Reinforcement Learning,0.225
+2008-2011,4,Near-optimal Regret Bounds for Reinforcement Learning,Sample Complexity of Episodic Fixed-Horizon Reinforcement Learning,0.162
+2005-2008,5,Using matrices to model symbolic relationship,"Interaction Networks for Learning about Objects, Relations and Physics",0.904
+2008-2011,6,Using matrices to model symbolic relationship,"Interaction Networks for Learning about Objects, Relations and Physics",2.598
+1987-1990,7,Time Dependent Adaptive Neural Networks,Adjoint-Functions and Temporal Learning Algorithms in Neural Networks,0.78
+1996-1999,8,Predictive Sequence Learning in Recurrent Neocortical Circuits,Citcuits for VLSI Implementation of Temporally Asymmetric Hebbian Learning,18.601
+1999-2002,9,Predictive Sequence Learning in Recurrent Neocortical Circuits,Citcuits for VLSI Implementation of Temporally Asymmetric Hebbian Learning,3.32
+2008-2011,10,Learning Bounds for Importance Weighting,Sample Complexity Bounds for Iterative Stochastic Policy Optimization,1.322
+1996-1999,11,Model Selection for Support Vector Machines,Fast Graph Laplacian Regularized Kernel Learning via Semidefinite?Quadratic?Linear Programming,14.034
+1999-2002,12,Model Selection for Support Vector Machines,Fast Graph Laplacian Regularized Kernel Learning via Semidefinite?Quadratic?Linear Programming,5.595
+1996-1999,13,Recognizing Evoked Potentials in a Virtual Environment,Classifying Single Trial EEG: Towards Brain Computer Interfacing,6.818
+1999-2002,0,Recognizing Evoked Potentials in a Virtual Environment,Classifying Single Trial EEG: Towards Brain Computer Interfacing,1.694
+2011-2014,1,Accelerating Stochastic Gradient Descent using Predictive Variance Reduction,SGD Algorithms based on Incomplete U-statistics: Large-Scale Minimization of Empirical Risk,3.114
+1993-1996,2,Computing with Infinite Networks,Mean Field Methods for Classification with Gaussian Processes,2.946
+1993-1996,2,Computing with Infinite Networks,General Bounds on Bayes Errors for Regression with Gaussian Processes,12.416
+1993-1996,2,Computing with Infinite Networks,Learning Curves for Gaussian Processes Regression: A Framework for Good Approximations,2.052
+1993-1996,2,Computing with Infinite Networks,Computing with Finite and Infinite Networks,4.658
+1996-1999,3,Computing with Infinite Networks,Mean Field Methods for Classification with Gaussian Processes,15.824
+1996-1999,3,Computing with Infinite Networks,General Bounds on Bayes Errors for Regression with Gaussian Processes,0.928
+1996-1999,3,Computing with Infinite Networks,Learning Curves for Gaussian Processes Regression: A Framework for Good Approximations,5.747
+1996-1999,3,Computing with Infinite Networks,Computing with Finite and Infinite Networks,0.065
+2002-2005,4,Information Bottleneck for Gaussian Variables,Receptive Fields without Spike-Triggering,19.494
+2002-2005,5,Sparse Gaussian Processes using Pseudo-inputs,Understanding Probabilistic Sparse Gaussian Process Approximations,0.999
+2005-2008,6,Sparse Gaussian Processes using Pseudo-inputs,Understanding Probabilistic Sparse Gaussian Process Approximations,0.136
+2005-2008,7,Accelerated Variational Dirichlet Process Mixtures,Analysis of Brain States from Multi-Region LFP Time-Series,1.417
+2011-2014,8,New Rules for Domain Independent Lifted MAP Inference,Fast Lifted MAP Inference via Partitioning,17.416
+2014-2017,9,New Rules for Domain Independent Lifted MAP Inference,Fast Lifted MAP Inference via Partitioning,9.579
+1993-1996,10,Active Learning with Statistical Models,Probabilistic Modeling for Face Orientation Discrimination: Learning from Labeled and Unlabeled Data,26.151
+2008-2011,11,How Do Humans Teach: On Curriculum Learning and Teaching Dimension,Optimal Teaching for Limited-Capacity Human Learners,18.492
+2011-2014,12,How Do Humans Teach: On Curriculum Learning and Teaching Dimension,Optimal Teaching for Limited-Capacity Human Learners,0.182
+2011-2014,13,Learning Networks of Heterogeneous Influence,Learning Influence Functions from Incomplete Observations,3.267
+1999-2002,0,Direct value-approximation for factored MDPs,Value-Directed Compression of POMDPs,0.083
+1999-2002,0,Direct value-approximation for factored MDPs,Linear Program Approximations for Factored Continuous-State Markov Decision Processes,7.286
+1999-2002,1,Automatic Alignment of Local Representations,Adaptive Manifold Learning,0.723
+2002-2005,2,Automatic Alignment of Local Representations,Adaptive Manifold Learning,0.342
+2005-2008,3,Neural characterization in partially observed populations of spiking neurons,Sequence learning with hidden units in spiking neural networks,1.492
+2005-2008,3,Neural characterization in partially observed populations of spiking neurons,Inferring neural population dynamics from multiple partial recordings of the same neural circuit,0.251
+2005-2008,3,Neural characterization in partially observed populations of spiking neurons,On the relations of LFPs & Neural Spike Trains,0.12
+1999-2002,4,A kernel method for multi-labelled classification,Reverse Multi-Label Learning,3.621
+1999-2002,4,A kernel method for multi-labelled classification,Transduction with Matrix Completion: Three Birds with One Stone,0.365
+1999-2002,4,A kernel method for multi-labelled classification,Sparse Bayesian Multi-Task Learning,1.337
+1999-2002,4,A kernel method for multi-labelled classification,Feature-aware Label Space Dimension Reduction for Multi-label Classification,0.472
+1999-2002,5,Semi-supervised MarginBoost,Regularized Boost for Semi-Supervised Learning,0.144
+2008-2011,6,Structured sparsity-inducing norms through submodular functions,Network Flow Algorithms for Structured Sparsity,0.582
+2008-2011,6,Structured sparsity-inducing norms through submodular functions,Efficient Minimization of Decomposable Submodular Functions,0.098
+2008-2011,6,Structured sparsity-inducing norms through submodular functions,Prismatic Algorithm for Discrete D.C. Programming Problem,0.378
+2008-2011,6,Structured sparsity-inducing norms through submodular functions,Shaping Level Sets with Submodular Functions,0.301
+2008-2011,6,Structured sparsity-inducing norms through submodular functions,A Convex Formulation for Learning Scale-Free Networks via Submodular Relaxation,0.48
+2008-2011,6,Structured sparsity-inducing norms through submodular functions,Learning as MAP Inference in Discrete Graphical Models,0.051
+2008-2011,6,Structured sparsity-inducing norms through submodular functions,On the Convergence Rate of Decomposable Submodular Function Minimization,1.543
+2008-2011,6,Structured sparsity-inducing norms through submodular functions,From MAP to Marginals: Variational Inference in Bayesian Submodular Models,1.609
+2008-2011,6,Structured sparsity-inducing norms through submodular functions,Partition-wise Linear Models,0.051
+2008-2011,6,Structured sparsity-inducing norms through submodular functions,LASSO with Non-linear Measurements is Equivalent to One With Linear Measurements,0.51
+2008-2011,6,Structured sparsity-inducing norms through submodular functions,Maximization of Approximately Submodular Functions,1.409
+1996-1999,7,Exploiting Generative Models in Discriminative Classifiers,Speech Recognition using SVMs,1.097
+2005-2008,8,Continuously-adaptive discretization for message-passing algorithms,Particle-based Variational Inference for Continuous Systems,0.135
+2008-2011,9,Continuously-adaptive discretization for message-passing algorithms,Particle-based Variational Inference for Continuous Systems,0.108
+2008-2011,10,Variational Inference over Combinatorial Spaces,Bayesian Pedigree Analysis using Measure Factorization,0.274
+2008-2011,11,Variational Gaussian Process Dynamical Systems,Phoneme Classification using Constrained Variational Gaussian Process Dynamical System,1.184
+2011-2014,12,Variational Gaussian Process Dynamical Systems,Phoneme Classification using Constrained Variational Gaussian Process Dynamical System,0.739
+2008-2011,13,Gaussian sampling by local perturbations,Training sparse natural image models with a fast Gibbs sampler of an extended state space,0.142
+2008-2011,13,Gaussian sampling by local perturbations,On Sampling from the Gibbs Distribution with Random Maximum A-Posteriori Perturbations,0.081
+2008-2011,13,Gaussian sampling by local perturbations,Analyzing Hogwild Parallel Gaussian Gibbs Sampling,2.052
+1999-2002,0,Manifold Parzen Windows,Submanifold density estimation,0.428
+1999-2002,0,Manifold Parzen Windows,Learning Probability Measures with respect to Optimal Transport Metrics,0.746
+2002-2005,1,Manifold Parzen Windows,Submanifold density estimation,1.211
+2002-2005,1,Manifold Parzen Windows,Learning Probability Measures with respect to Optimal Transport Metrics,0.143
+1999-2002,2,Reducing multiclass to binary by coupling probability estimates,A Generalized Bradley-Terry Model: From Group Competition to Individual Skill,0.227
+2002-2005,3,Perspectives on Sparse Bayesian Learning,Using Bayesian Dynamical Systems for Motion Template Libraries,14.037
+2002-2005,4,A Model for Learning the Semantics of Pictures,Who's In the Picture,0.686
+2014-2017,5,Skip-Thought Vectors,Multimodal Residual Learning for Visual QA,1.917
+2008-2011,6,Spatial Normalized Gamma Processes,Construction of Dependent Dirichlet Processes based on Poisson Processes,27.827
+2008-2011,6,Spatial Normalized Gamma Processes,Coupling Nonparametric Mixtures via Latent Dirichlet Processes,49.731
+2005-2008,7,Efficient multiple hyperparameter learning for log-linear models,<var>\theta</var>,8.813
+1993-1996,8,Exponentially many local minima for single neurons,Worst-case Loss Bounds for Single Neurons,4.518
+1993-1996,8,Exponentially many local minima for single neurons,On the Computational Efficiency of Training Neural Networks,29.464
+2005-2008,9,Evaluating probabilities under high-dimensional latent variable models,The Doubly Correlated Nonparametric Topic Model,1.738
+2005-2008,9,Evaluating probabilities under high-dimensional latent variable models,Continuous Relaxations for Discrete Hamiltonian Monte Carlo,3.228
+2005-2008,9,Evaluating probabilities under high-dimensional latent variable models,RNADE: The real-valued neural autoregressive density-estimator,6.95
+2008-2011,10,Evaluating probabilities under high-dimensional latent variable models,The Doubly Correlated Nonparametric Topic Model,1.26
+2008-2011,10,Evaluating probabilities under high-dimensional latent variable models,Continuous Relaxations for Discrete Hamiltonian Monte Carlo,0.129
+2008-2011,10,Evaluating probabilities under high-dimensional latent variable models,RNADE: The real-valued neural autoregressive density-estimator,0.964
+1999-2002,11,Multiagent Planning with Factored MDPs,Symbolic Opportunistic Policy Iteration for Factored-Action MDPs,6.186
+2011-2014,12,Matrix reconstruction with the local max norm,Online Optimization for Max-Norm Regularization,0.07
+2011-2014,13,Efficient Online Inference for Bayesian Nonparametric Relational Models,On the relations of LFPs & Neural Spike Trains,7.753
+2005-2008,0,Interpreting the neural code with Formal Concept Analysis,Categories and Functional Units: An Infinite Hierarchical Model for Brain Activations,2.669
+2008-2011,1,Interpreting the neural code with Formal Concept Analysis,Categories and Functional Units: An Infinite Hierarchical Model for Brain Activations,0.432
+1993-1996,2,Improving Elevator Performance Using Reinforcement Learning,Convergent Temporal-Difference Learning with Arbitrary Smooth Function Approximation,1.06
+1990-1993,3,HARMONET: A Neural Net for Harmonizing Chorales in the Style of J. S. Bach,Bach in a Box - Real-Time Harmony,0.108
+2014-2017,4,Combinatorial Bandits Revisited,Combinatorial semi-bandit with known covariance,0.055
+1999-2002,5,Explaining Away in Weight Space,Dynamical Causal Learning,0.06
+1999-2002,6,Convolution Kernels for Natural Language,Kernels for Structured Natural Language Data,5.041
+2005-2008,7,Approximate inference using planar graph decomposition,Efficient Exact Inference in Planar Ising Models,0.06
+2005-2008,7,Approximate inference using planar graph decomposition,Randomized Pruning: Efficiently Calculating Expectations in Large Dynamic Programs,0.06
+2005-2008,7,Approximate inference using planar graph decomposition,MAP estimation in Binary MRFs via Bipartite Multi-cuts,67.179
+2005-2008,7,Approximate inference using planar graph decomposition,Learning as MAP Inference in Discrete Graphical Models,67.179
+2005-2008,7,Approximate inference using planar graph decomposition,Projecting Ising Model Parameters for Fast Mixing,3.633
+2005-2008,7,Approximate inference using planar graph decomposition,Multilabel Structured Output Learning with Random Spanning Trees of Max-Margin Markov Networks,3.633
+2011-2014,8,Multimodal Learning with Deep Boltzmann Machines,Expressing an Image Stream with a Sequence of Natural Sentences,0.184
+2011-2014,9,Optimal Neural Codes for Control and Estimation,A Tractable Approximation to Optimal Point Process Filtering: Application to Neural Encoding,0.342
+2014-2017,10,Optimal Neural Codes for Control and Estimation,A Tractable Approximation to Optimal Point Process Filtering: Application to Neural Encoding,1.259
+1990-1993,11,Neural Network Model Selection Using Asymptotic Jackknife Estimator and Cross-Validation Method,Assessing and Improving Neural Network Predictions by the Bootstrap Algorithm,0.066
+1990-1993,11,Neural Network Model Selection Using Asymptotic Jackknife Estimator and Cross-Validation Method,Robust Parameter Estimation and Model Selection for Neural Network Regression,0.514
+2014-2017,12,Active Learning from Weak and Strong Labelers,Gaussian Process Bandit Optimisation with Multi-fidelity Evaluations,0.054
+2014-2017,12,Active Learning from Weak and Strong Labelers,The Multi-fidelity Multi-armed Bandit,0.553
+2008-2011,13,Empirical models of spiking in neural populations,Spectral learning of linear dynamics from generalised-linear observations with application to neural population data,0
+2008-2011,13,Empirical models of spiking in neural populations,A Bayesian model for identifying hierarchically organised states in neural population activity,0.069
+2008-2011,13,Empirical models of spiking in neural populations,Clustered factor analysis of multineuronal spike data,0.221
+2008-2011,13,Empirical models of spiking in neural populations,Spatio-temporal Representations of Uncertainty in Spiking Neural Networks,0.105
+2008-2011,13,Empirical models of spiking in neural populations,Extracting Latent Structure From Multiple Interacting Neural Populations,59.386
+2011-2014,0,Empirical models of spiking in neural populations,Spectral learning of linear dynamics from generalised-linear observations with application to neural population data,4.914
+2011-2014,0,Empirical models of spiking in neural populations,A Bayesian model for identifying hierarchically organised states in neural population activity,1.081
+2011-2014,0,Empirical models of spiking in neural populations,Clustered factor analysis of multineuronal spike data,0.053
+2011-2014,0,Empirical models of spiking in neural populations,Spatio-temporal Representations of Uncertainty in Spiking Neural Networks,0.066
+2011-2014,0,Empirical models of spiking in neural populations,Extracting Latent Structure From Multiple Interacting Neural Populations,0.264
+2008-2011,1,Phase transition in the family of p-resistances,Analyzing the Harmonic Structure in Graph-Based Learning,0.428
+2008-2011,1,Phase transition in the family of p-resistances,From random walks to distances on unweighted graphs,0.139
+2011-2014,2,Phase transition in the family of p-resistances,Analyzing the Harmonic Structure in Graph-Based Learning,13.716
+2011-2014,2,Phase transition in the family of p-resistances,From random walks to distances on unweighted graphs,0.759
+2005-2008,3,Variational inference for Markov jump processes,Approximate inference in continuous time Gaussian-Jump processes,0.188
+2005-2008,3,Variational inference for Markov jump processes,Approximate inference in latent Gaussian-Markov models from continuous time observations,1.917
+2008-2011,4,Learning the context of a category,Inductive reasoning about chimeric creatures,0.057
+1999-2002,5,Bayesian time series classification,Adaptive Classification by Variational Kalman Filtering,5.637
+1999-2002,6,On Spectral Clustering: Analysis and an algorithm,A Three Tiered Approach for Articulated Object Action Modeling and Recognition,0.765
+1999-2002,6,On Spectral Clustering: Analysis and an algorithm,Fundamental Limitations of Spectral Clustering,42.775
+2011-2014,7,Inferring neural population dynamics from multiple partial recordings of the same neural circuit,Deterministic Symmetric Positive Semidefinite Matrix Completion,0.573
+2011-2014,8,On Lifting the Gibbs Sampling Algorithm,An Integer Polynomial Programming Based Framework for Lifted MAP Inference,5.282
+2005-2008,9,A Scalable Hierarchical Distributed Language Model,A Neural Autoregressive Topic Model,0.08
+2005-2008,9,A Scalable Hierarchical Distributed Language Model,An Autoencoder Approach to Learning Bilingual Word Representations,0.945
+2008-2011,10,A Scalable Hierarchical Distributed Language Model,A Neural Autoregressive Topic Model,0.421
+2008-2011,10,A Scalable Hierarchical Distributed Language Model,An Autoencoder Approach to Learning Bilingual Word Representations,0.074
+1987-1990,11,Spoken Letter Recognition,Speech Recognition using SVMs,0.083
+1990-1993,12,Spoken Letter Recognition,Speech Recognition using SVMs,0.158
+1999-2002,13,Natural Language Grammar Induction Using a Constituent-Context Model,Unsupervised Learning of a Probabilistic Grammar for Object Detection and Parsing,0.186
+1999-2002,13,Natural Language Grammar Induction Using a Constituent-Context Model,"Rapid Inference on a Novel AND/OR graph for Object Detection, Segmentation and Parsing",0.074
+2002-2005,0,Dual-Tree Fast Gauss Transforms,Linear-time Algorithms for Pairwise Statistical Problems,0.253
+2005-2008,1,Dual-Tree Fast Gauss Transforms,Linear-time Algorithms for Pairwise Statistical Problems,2.501
+2005-2008,2,The Tradeoffs of Large Scale Learning,SGD Algorithms based on Incomplete U-statistics: Large-Scale Minimization of Empirical Risk,3.716
+2008-2011,3,Parallelized Stochastic Gradient Descent,Communication-Efficient Algorithms for Statistical Optimization,0.11
+2011-2014,4,Parametric Task Learning,Joint quantile regression in vector-valued RKHSs,0.1
+1999-2002,5,An Impossibility Theorem for Clustering,Measures of Clustering Quality: A Working Set of Axioms for Clustering,0
+1999-2002,5,An Impossibility Theorem for Clustering,Towards Property-Based Classification of Clustering Paradigms,0.4
+2002-2005,6,An Impossibility Theorem for Clustering,Measures of Clustering Quality: A Working Set of Axioms for Clustering,0.1
+2002-2005,6,An Impossibility Theorem for Clustering,Towards Property-Based Classification of Clustering Paradigms,0.6
+2005-2008,7,Learning to parse images of articulated bodies,Articulated Pose Estimation by a Graphical Model with Image Dependent Pairwise Relations,0.1
+1999-2002,8,Products of Gaussians,Accelerating Bayesian Inference over Nonlinear Differential Equations with Gaussian Processes,0.416
+1999-2002,9,Grouping and dimensionality reduction by locally linear embedding,Self-Tuning Spectral Clustering,5.949
+1999-2002,9,Grouping and dimensionality reduction by locally linear embedding,Sparse Manifold Clustering and Embedding,0.604
+1999-2002,10,Thin Junction Trees,Analyzing Hogwild Parallel Gaussian Gibbs Sampling,0.104
+2008-2011,11,Compositionality of optimal control laws,An Approximate Inference Approach to Temporal Optimization in Optimal Control,6.556
+2008-2011,11,Compositionality of optimal control laws,Sample Efficient Path Integral Control under Uncertainty,0.64
+2008-2011,12,Spectral Methods for Learning Multivariate Latent Tree Structure,Discovering Hidden Variables in Noisy-Or Networks using Quartet Tests,0.173
+2011-2014,13,Spectral Methods for Learning Multivariate Latent Tree Structure,Discovering Hidden Variables in Noisy-Or Networks using Quartet Tests,2.836
+2008-2011,0,Inference with Multivariate Heavy-Tails in Linear Models,Affine Independent Variational Inference,8.693
+2008-2011,0,Inference with Multivariate Heavy-Tails in Linear Models,Probabilistic Inference with Generating Functions for Poisson Latent Variable Models,0.149
+2011-2014,1,Sinkhorn Distances: Lightspeed Computation of Optimal Transport,Learning with a Wasserstein Loss,1.606
+2002-2005,2,Adaptive Manifold Learning,MLLE: Modified Locally Linear Embedding Using Multiple Weights,0.081
+1996-1999,3,Monte Carlo POMDPs,The Unscented Particle Filter,0.193
+1996-1999,3,Monte Carlo POMDPs,Exponential Family PCA for Belief Compression in POMDPs,0.062
+1996-1999,3,Monte Carlo POMDPs,Bayesian Policy Learning with Trans-Dimensional MCMC,0.399
+1996-1999,3,Monte Carlo POMDPs,Random Sampling of States in Dynamic Programming,0.134
+1996-1999,3,Monte Carlo POMDPs,Bayesian Model of Behaviour in Economic Games,0.102
+1996-1999,3,Monte Carlo POMDPs,Bayes-Adaptive Simulation-based Search with Value Function Approximation,1.357
+1999-2002,4,Monte Carlo POMDPs,The Unscented Particle Filter,0.214
+1999-2002,4,Monte Carlo POMDPs,Exponential Family PCA for Belief Compression in POMDPs,0.316
+1999-2002,4,Monte Carlo POMDPs,Bayesian Policy Learning with Trans-Dimensional MCMC,0.218
+1999-2002,4,Monte Carlo POMDPs,Random Sampling of States in Dynamic Programming,0.185
+1999-2002,4,Monte Carlo POMDPs,Bayesian Model of Behaviour in Economic Games,0.183
+1999-2002,4,Monte Carlo POMDPs,Bayes-Adaptive Simulation-based Search with Value Function Approximation,1.314
+1987-1990,5,Learning to Control an Unstable System with Forward Modeling,Fast Learning with Predictive Forward Models,0.062
+2005-2008,6,Reducing statistical dependencies in natural signals using radial Gaussianization,Hierarchical Modeling of Local Image Features through ,2.365
+2008-2011,7,Reducing statistical dependencies in natural signals using radial Gaussianization,Hierarchical Modeling of Local Image Features through ,0.08
+2008-2011,8,Bilinear classifiers for visual recognition,Multilinear Subspace Regression: An Orthogonal Tensor Decomposition Approach,0.916
+1990-1993,9,Figure of Merit Training for Detection and Spotting,Using Voice Transformations to Create Additional Training Talkers for Word Spotting,0.059
+1993-1996,10,Figure of Merit Training for Detection and Spotting,Using Voice Transformations to Create Additional Training Talkers for Word Spotting,0.137
+1996-1999,11,Agglomerative Information Bottleneck,Data Clustering by Markovian Relaxation and the Information Bottleneck Method,0.576
+1999-2002,12,Agglomerative Information Bottleneck,Data Clustering by Markovian Relaxation and the Information Bottleneck Method,0.344
+2014-2017,13,Double or Nothing: Multiplicative Incentive Mechanisms for Crowdsourcing,Eliciting Categorical Data for Optimal Aggregation,0.054
+2011-2014,0,Ensemble weighted kernel estimators for multivariate entropy estimation,Multivariate f-divergence Estimation With Confidence,0.1
+1993-1996,1,A Mixture Model System for Medical and Machine Diagnosis,On Input Selection with Reversible Jump Markov Chain Monte Carlo Sampling,0.175
+2014-2017,2,Composing graphical models with neural networks for structured representations and fast inference,Scaling Factorial Hidden Markov Models: Stochastic Variational Inference without Messages,0.061
+2011-2014,3,ImageNet Classification with Deep Convolutional Neural Networks,Deep Networks with Internal Selective Attention through Feedback Connections,0.375
+2011-2014,3,ImageNet Classification with Deep Convolutional Neural Networks,Weakly-supervised Discovery of Visual Pattern Configurations,1.484
+2011-2014,3,ImageNet Classification with Deep Convolutional Neural Networks,Deep Joint Task Learning for Generic Object Extraction,0.276
+2011-2014,3,ImageNet Classification with Deep Convolutional Neural Networks,"Parallel Multi-Dimensional LSTM, With Application to Fast Biomedical Volumetric Image Segmentation",1.437
+2011-2014,3,ImageNet Classification with Deep Convolutional Neural Networks,Preconditioned Spectral Descent for Deep Learning,0.202
+2002-2005,4,Simplicial Mixtures of Markov Chains: Distributed Modelling of Dynamic User Profiles,The Infinite Markov Model,0.286
+2005-2008,5,A recipe for optimizing a time-histogram,Bayesian binning beats approximate alternatives: estimating peri-stimulus time histograms,2.05
+1999-2002,6,A Generalization of Principal Components Analysis to the Exponential Family,Generalized Nonnegative Matrix Approximations with Bregman Divergences,1.569
+2002-2005,7,Robust design of biological experiments,Selecting Observations against Adversarial Objectives,10.852
+2002-2005,7,Robust design of biological experiments,Active Learning by Querying Informative and Representative Examples,0.082
+2005-2008,8,Robust design of biological experiments,Selecting Observations against Adversarial Objectives,0.071
+2005-2008,8,Robust design of biological experiments,Active Learning by Querying Informative and Representative Examples,0.276
+2011-2014,9,A quasi-Newton proximal splitting method,Proximal Newton-type methods for convex optimization,0.13
+2005-2008,10,Spatial Latent Dirichlet Allocation,A ``Shape Aware'' Model for semi-supervised Learning of Objects and its Context,1.287
+2014-2017,11,Global Optimality of Local Search for Low Rank Matrix Recovery,Matrix Completion has No Spurious Local Minimum,0.286
+1999-2002,12,Incremental A*,Speeding up the Parti-Game Algorithm,0.083
+1999-2002,12,Incremental A*,ARA*: Anytime A* with Provable Bounds on Sub-Optimality,0.135
+2011-2014,13,Machine Teaching for Bayesian Learners in the Exponential Family,Optimal Teaching for Limited-Capacity Human Learners,0.652
+2008-2011,0,Slice sampling covariance hyperparameters of latent Gaussian models,Optimal Reinforcement Learning for Gaussian Systems,0.717
+2008-2011,0,Slice sampling covariance hyperparameters of latent Gaussian models,Multi-Task Bayesian Optimization,0.296
+2008-2011,0,Slice sampling covariance hyperparameters of latent Gaussian models,Bayesian Nonlinear Support Vector Machines and Discriminative Factor Modeling,27.743
+2008-2011,0,Slice sampling covariance hyperparameters of latent Gaussian models,Unlocking neural population non-stationarities using hierarchical dynamics models,30.867
+2008-2011,0,Slice sampling covariance hyperparameters of latent Gaussian models,MCMC for Variationally Sparse Gaussian Processes,0.403
+2008-2011,0,Slice sampling covariance hyperparameters of latent Gaussian models,MCMC for Variationally Sparse Gaussian Processes,0.364
+2011-2014,1,Learning from Distributions via Support Measure Machines,Latent Support Measure Machines for Bag-of-Words Data Classification,0
+2011-2014,1,Learning from Distributions via Support Measure Machines,Cross-Domain Matching for Bag-of-Words Data via Kernel Embeddings of Latent Distributions,0
+2008-2011,2,Prediction strategies without loss,The Pareto Regret Frontier,0
+2008-2011,2,Prediction strategies without loss,The Pareto Regret Frontier for Bandits,0.1
+2011-2014,3,Prediction strategies without loss,The Pareto Regret Frontier,1.044
+2011-2014,3,Prediction strategies without loss,The Pareto Regret Frontier for Bandits,7.034
+1990-1993,4,Modeling Applications with the Focused Gamma Net,A Comparison of Discrete-Time Operator Models for Nonlinear System Identification,75.716
+2008-2011,5,Algorithms and hardness results for parallel large margin learning,Accelerated Mini-Batch Stochastic Dual Coordinate Ascent,0.254
+2011-2014,6,Algorithms and hardness results for parallel large margin learning,Accelerated Mini-Batch Stochastic Dual Coordinate Ascent,0.146
+1987-1990,7,What Size Net Gives Valid Generalization?,Generalization and Parameter Estimation in Feedforward Nets: Some Experiments,7.427
+2008-2011,8,Maximum Margin Multi-Label Structured Prediction,Multiple Choice Learning: Learning to Produce Multiple Structured Outputs,19.768
+2011-2014,9,Maximum Margin Multi-Label Structured Prediction,Multiple Choice Learning: Learning to Produce Multiple Structured Outputs,0.191
+2011-2014,10,Communication-Efficient Algorithms for Statistical Optimization,Online and Stochastic Gradient Methods for Non-decomposable Loss Functions,0
+2011-2014,10,Communication-Efficient Algorithms for Statistical Optimization,Communication-Efficient Distributed Dual Coordinate Ascent,0
+1987-1990,11,A self-organizing multiple-view representation of 3D objects,Plasticity Kernels and Temporal Statistics,16.9
+2014-2017,12,Spatial Transformer Networks,"Attend, Infer, Repeat: Fast Scene Understanding with Generative Models",9.4
+2014-2017,12,Spatial Transformer Networks,Universal Correspondence Network,1.16
+2011-2014,13,Bayesian active learning with localized priors for fast receptive field characterization,Bayesian inference for low rank spatiotemporal neural receptive fields,19.351
+2011-2014,13,Bayesian active learning with localized priors for fast receptive field characterization,Fast Active Set Methods for Online Spike Inference from Calcium Imaging,19.351
+2011-2014,0,Reflection methods for user-friendly submodular optimization,On the Convergence Rate of Decomposable Submodular Function Minimization,0.379
+2011-2014,0,Reflection methods for user-friendly submodular optimization,From MAP to Marginals: Variational Inference in Bayesian Submodular Models,0.521
+2011-2014,0,Reflection methods for user-friendly submodular optimization,Cooperative Graphical Models,1.591
+2002-2005,1,Gaussian Process Dynamical Models,Phoneme Classification using Constrained Variational Gaussian Process Dynamical System,1.469
+2002-2005,1,Gaussian Process Dynamical Models,Expectation Propagation in Gaussian Process Dynamical Systems,0.766
+2005-2008,2,Gaussian Process Dynamical Models,Phoneme Classification using Constrained Variational Gaussian Process Dynamical System,73.742
+2005-2008,2,Gaussian Process Dynamical Models,Expectation Propagation in Gaussian Process Dynamical Systems,0.1
+2008-2011,3,Copula Processes,Heavy-Tailed Process Priors for Selective Shrinkage,5.5
+1999-2002,4,Programmable Reinforcement Learning Agents,Bayesian Hierarchical Reinforcement Learning,5.2
+1996-1999,5,Bayesian Transduction,The Kernel Gibbs Sampler,0
+1999-2002,6,Bayesian Transduction,The Kernel Gibbs Sampler,0
+2005-2008,7,Learning annotated hierarchies from relational data,Bayesian Agglomerative Clustering with Coalescents,27.5
+2008-2011,8,Probabilistic amplitude and frequency demodulation,Tree-structured Gaussian Process Approximations,48.2
+2008-2011,8,Probabilistic amplitude and frequency demodulation,Stochastic Expectation Propagation,0.183
+2011-2014,9,Probabilistic amplitude and frequency demodulation,Tree-structured Gaussian Process Approximations,1.575
+2011-2014,9,Probabilistic amplitude and frequency demodulation,Stochastic Expectation Propagation,0.168
+1990-1993,10,Learning Global Direct Inverse Kinematics,Global Regularization of Inverse Kinematics for Redundant Manipulators,0.309
+2002-2005,11,Bayesian inference in spiking neurons,Probabilistic Computation in Spiking Populations,0.147
+2002-2005,11,Bayesian inference in spiking neurons,Sensory Adaptation within a Bayesian Framework for Perception,0.057
+2011-2014,12,Identifying and attacking the saddle point problem in high-dimensional non-convex optimization,Training Very Deep Networks,0.106
+2014-2017,13,Identifying and attacking the saddle point problem in high-dimensional non-convex optimization,Training Very Deep Networks,0.469
+2011-2014,0,Proximal Newton-type methods for convex optimization,QUIC & DIRTY: A Quadratic Approximation Approach for Dirty Statistical Models,0.469
+2011-2014,1,Robust Low Rank Kernel Embeddings of Multivariate Distributions,Kernel Mean Estimation via Spectral Filtering,0.554
+2008-2011,2,Random Projections for ,Random Projection Trees Revisited,0.544
+2008-2011,2,Random Projections for ,Quantized Random Projections and Non-Linear Estimation of Cosine Similarity,0.211
+2008-2011,3,Learning to Hash with Binary Reconstructive Embeddings,Learning Image Descriptors with the Boosting-Trick,3.837
+2011-2014,4,Structure estimation for discrete graphical models: Generalized covariance matrices and their inverses,Robust Multimodal Graph Matching: Sparse Coding Meets Graph Matching,0.485
+2011-2014,5,Tighten after Relax: Minimax-Optimal Sparse PCA in Polynomial Time,Principal Differences Analysis: Interpretable Characterization of Differences between Distributions,6.887
+2014-2017,6,Tighten after Relax: Minimax-Optimal Sparse PCA in Polynomial Time,Principal Differences Analysis: Interpretable Characterization of Differences between Distributions,1.983
+2011-2014,7,Learning optimal spike-based representations,Spatio-temporal Representations of Uncertainty in Spiking Neural Networks,0.333
+2011-2014,7,Learning optimal spike-based representations,Unsupervised learning of an efficient short-term memory network,0.074
+2005-2008,8,Learnability and the doubling dimension,Near-optimal sample compression for nearest neighbors,4.984
+2005-2008,8,Learnability and the doubling dimension,Improved Error Bounds for Tree Representations of Metric Spaces,2.061
+2008-2011,9,Fast subtree kernels on graphs,Discriminative Clustering by Regularized Information Maximization,12.1
+2008-2011,9,Fast subtree kernels on graphs,Halting in Random Walk Kernels,12.148
+2008-2011,9,Fast subtree kernels on graphs,A Structural Smoothing Framework For Robust Graph Comparison,0.399
+2005-2008,10,Clustering via LP-based Stabilities,Minimizing Sparse High-Order Energies by Submodular Vertex-Cover,0.531
+2008-2011,11,Clustering via LP-based Stabilities,Minimizing Sparse High-Order Energies by Submodular Vertex-Cover,0.211
+2011-2014,12,Probabilistic Principal Geodesic Analysis,A Locally Adaptive Normal Distribution,4.276
+2005-2008,13,Online Prediction on Large Diameter Graphs,Label Selection on Graphs,0.15
+2008-2011,0,Online Prediction on Large Diameter Graphs,Label Selection on Graphs,19.092
+2002-2005,1,Intrinsically Motivated Reinforcement Learning,Reward Design via Online Gradient Ascent,0.26
+2002-2005,2,Ideal Observers for Detecting Motion: Correspondence Noise,Model selection and velocity estimation using novel priors for motion patterns,9.22
+2002-2005,2,Ideal Observers for Detecting Motion: Correspondence Noise,Functional form of motion priors in human motion perception,2.371
+2005-2008,3,Ideal Observers for Detecting Motion: Correspondence Noise,Model selection and velocity estimation using novel priors for motion patterns,0.653
+2005-2008,3,Ideal Observers for Detecting Motion: Correspondence Noise,Functional form of motion priors in human motion perception,0.808
+2002-2005,4,Measure Based Regularization,Convergence of Laplacian Eigenmaps,0.076
+2002-2005,4,Measure Based Regularization,Statistical Analysis of Semi-Supervised Learning: The Limit of Infinite Unlabelled Data,0.707
+2002-2005,5,Newscast EM,Distributed Inference for Latent Dirichlet Allocation,1.204
+2002-2005,5,Newscast EM,Asynchronous Distributed Learning of Topic Models,1.611
+2002-2005,5,Newscast EM,Extending Gossip Algorithms to Distributed Estimation of U-statistics,0.331
+2002-2005,6,Learning a Distance Metric from Relative Comparisons,Online Metric Learning and Fast Similarity Search,0.367
+2011-2014,7,Spectral learning of linear dynamics from generalised-linear observations with application to neural population data,Recurrent linear models of simultaneously-recorded neural   populations,0.251
+2011-2014,7,Spectral learning of linear dynamics from generalised-linear observations with application to neural population data,Robust learning of low-dimensional dynamics from large neural ensembles,1.005
+1987-1990,8,An Analog Self-Organizing Neural Network Chip,A Reconfigurable Analog VLSI Neural Network Chip,0.198
+1987-1990,8,An Analog Self-Organizing Neural Network Chip,The Effects of Circuit Integration on a Feature Map Vector Quantizer,0.953
+2005-2008,9,Active learning for misspecified generalized linear models,Active Estimation of F-Measures,48.9
+2005-2008,9,Active learning for misspecified generalized linear models,Agnostic Active Learning Without Constraints,53.3
+1990-1993,10,Some Solutions to the Missing Feature Problem in Vision,Combining Estimators Using Non-Constant Weighting Functions,5.2
+1990-1993,10,Some Solutions to the Missing Feature Problem in Vision,Efficient Methods for Dealing with Missing Data in Supervised Learning,1.3
+2011-2014,11,Convex Deep Learning via Normalized Kernels,Tensor Switching Networks,52.615
+2014-2017,12,Convex Deep Learning via Normalized Kernels,Tensor Switching Networks,23.045
+1987-1990,13,An Efficient Implementation of the Back-propagation Algorithm on the Connection Machine CM-2,Back Propagation Implementation on the Adaptive Solutions CNAPS Neurocomputer Chip,0.075
+2002-2005,0,"Learning vehicular dynamics, with application to modeling helicopters",Robust Value Function Approximation Using Bilinear Programming,0.355
+2005-2008,1,"Learning vehicular dynamics, with application to modeling helicopters",Robust Value Function Approximation Using Bilinear Programming,0.139
+2005-2008,2,Syntactic Topic Models,Construction of Dependent Dirichlet Processes based on Poisson Processes,3.202
+2008-2011,3,Syntactic Topic Models,Construction of Dependent Dirichlet Processes based on Poisson Processes,3.915
+2005-2008,4,New Outer Bounds on the Marginal Polytope,The Recurrent Temporal Restricted Boltzmann Machine,54.36
+2005-2008,4,New Outer Bounds on the Marginal Polytope,MAP estimation in Binary MRFs via Bipartite Multi-cuts,0.17
+2005-2008,4,New Outer Bounds on the Marginal Polytope,Message Passing Inference for Large Scale Graphical Models with High Order Potentials,0.157
+2011-2014,5,Pass-efficient unsupervised feature selection,Column Selection via Adaptive Sampling,1.045
+2011-2014,6,A statistical model for tensor PCA,Online and Differentially-Private Tensor Decomposition,3.873
+2014-2017,7,A statistical model for tensor PCA,Online and Differentially-Private Tensor Decomposition,3.338
+1996-1999,8,Bayesian PCA,Automatic Choice of Dimensionality for PCA,0.722
+1996-1999,8,Bayesian PCA,Heterogeneous Component Analysis,0.108
+1996-1999,8,Bayesian PCA,Multi-Label Prediction via Sparse Infinite CCA,2.452
+1996-1999,8,Bayesian PCA,Probabilistic Relational PCA,0.393
+1996-1999,8,Bayesian PCA,Variational Gaussian-process factor analysis for modeling spatio-temporal data,7.17
+1996-1999,8,Bayesian PCA,Nonnegative dictionary learning in the exponential noise model for adaptive music signal representation,3.286
+1996-1999,8,Bayesian PCA,Global Solution of Fully-Observed Variational Bayesian Matrix Factorization is Column-Wise Independent,17.306
+1996-1999,8,Bayesian PCA,Bayesian Spike-Triggered Covariance Analysis,0.068
+1996-1999,8,Bayesian PCA,Perfect Dimensionality Recovery by Variational Bayesian PCA,13.5
+1996-1999,8,Bayesian PCA,Probabilistic Principal Geodesic Analysis,6.4
+1996-1999,8,Bayesian PCA,Analysis of Variational Bayesian Latent Dirichlet Allocation: Weaker Sparsity Than MAP,71.5
+2008-2011,9,Learning To Count Objects in Images,"Attend, Infer, Repeat: Fast Scene Understanding with Generative Models",0
+1990-1993,10,Hierarchies of adaptive experts,Adaptively Growing Hierarchical Mixtures of Experts,0
+1990-1993,10,Hierarchies of adaptive experts,Unsupervised Classification of 3D Objects from 2D Views,0.3
+2005-2008,11,PG-means: learning the number of clusters in data,Dip-means: an incremental clustering method for estimating the number of clusters,0
+1999-2002,12,Discriminative Direction for Kernel Classifiers,Discriminating Deformable Shape Classes,0.1
+2011-2014,13,Phase Retrieval using Alternating Minimization,A Non-convex One-Pass Framework for Generalized Factorization Machine and Rank-One Matrix Sensing,0.5
+1999-2002,0,(Not) Bounding the True Error,PAC-Bayes & Margins,0
+2011-2014,1,Extracting regions of interest from biological images with convolutional sparse block coding,Automatic Neuron Detection in Calcium Imaging Data Using Convolutional Networks,7.2
+2002-2005,2,Gradient Flow Independent Component Analysis in Micropower VLSI,Large Margin Multi-channel Analog-to-Digital Conversion with Applications to Neural Prosthesis,0
+2002-2005,2,Gradient Flow Independent Component Analysis in Micropower VLSI,Blind source separation for over-determined delayed mixtures,0.335
+2005-2008,3,Gradient Flow Independent Component Analysis in Micropower VLSI,Large Margin Multi-channel Analog-to-Digital Conversion with Applications to Neural Prosthesis,3.452
+2005-2008,3,Gradient Flow Independent Component Analysis in Micropower VLSI,Blind source separation for over-determined delayed mixtures,0.101
+2008-2011,4,Multi-armed bandits on implicit metric spaces,Optimistic Optimization of a Deterministic Function without the Knowledge of its Smoothness,1.937
+2011-2014,5,Multi-armed bandits on implicit metric spaces,Optimistic Optimization of a Deterministic Function without the Knowledge of its Smoothness,0.312
+2002-2005,6,Bayesian models of human action understanding,Help or Hinder: Bayesian Models of Social Goal Inference,1.196
+2005-2008,7,Bayesian models of human action understanding,Help or Hinder: Bayesian Models of Social Goal Inference,0.128
+2005-2008,8,Ensemble Clustering using Semidefinite Programming,Graph-based Consensus Maximization among Multiple Supervised and Unsupervised Models,0.105
+2014-2017,9,Bayesian dark knowledge,Bootstrap Model Aggregation for Distributed Statistical Learning,0.064
+2014-2017,9,Bayesian dark knowledge,Bayesian Optimization with Robust Bayesian Neural Networks,0.086
+2014-2017,9,Bayesian dark knowledge,A Theoretically Grounded Application of Dropout in Recurrent Neural Networks,0.331
+2014-2017,9,Bayesian dark knowledge,Conditional Generative Moment-Matching Networks,0.527
+2014-2017,9,Bayesian dark knowledge,Natural-Parameter Networks: A Class of Probabilistic Neural Networks,0.09
+1993-1996,10,Hierarchical Mixtures of Experts Methodology Applied to Continuous Speech Recognition,Adaptively Growing Hierarchical Mixtures of Experts,0.715
+2002-2005,11,A Hierarchical Compositional System for Rapid Object Detection,"Rapid Inference on a Novel AND/OR graph for Object Detection, Segmentation and Parsing",0.105
+2005-2008,12,A Hierarchical Compositional System for Rapid Object Detection,"Rapid Inference on a Novel AND/OR graph for Object Detection, Segmentation and Parsing",0.2
+1987-1990,13,Maximum Likelihood Competitive Learning,Neural Control for Rolling Mills: Incorporating Domain Theories to Overcome Data Deficiency,0.355
+1987-1990,13,Maximum Likelihood Competitive Learning,Some Solutions to the Missing Feature Problem in Vision,0.06
+1987-1990,13,Maximum Likelihood Competitive Learning,Unsupervised Learning of Mixtures of Multiple Causes in Binary Data,0.103
+2002-2005,0,Locality Preserving Projections,Tensor Subspace Analysis,0.686
+2002-2005,0,Locality Preserving Projections,Laplacian Score for Feature Selection,2.815
+2002-2005,0,Locality Preserving Projections,Dimensionality Reduction Using the Sparse Linear Model,0.251
+2011-2014,1,Ancestor Sampling for Particle Gibbs,Gaussian Process Volatility Model,0.075
+2011-2014,2,Large Scale Distributed Deep Networks,The Sound of APALM Clapping: Faster Nonsmooth Nonconvex Optimization with Stochastic Asynchronous PALM,0.12
+2005-2008,3,Adaptive Forward-Backward Greedy Algorithm for Sparse Learning with Linear Models,Boosting with Spatial Regularization,0.105
+2008-2011,4,Adaptive Forward-Backward Greedy Algorithm for Sparse Learning with Linear Models,Boosting with Spatial Regularization,0.529
+1987-1990,5,Statistical Prediction with Kanerva's Sparse Distributed Memory,Predicting Weather Using a Genetic Memory: A Combination of Kanerva's Sparse Distributed Memory with Holland's Genetic Algorithms,1.624
+1996-1999,6,Data Visualization and Feature Selection: New Algorithms for Nongaussian Data,Feature Selection by Maximum Marginal Diversity,0.536
+1999-2002,7,Data Visualization and Feature Selection: New Algorithms for Nongaussian Data,Feature Selection by Maximum Marginal Diversity,0.317
+2008-2011,8,The Multidimensional Wisdom of Crowds,Bayesian Bias Mitigation for Crowdsourcing,0.328
+1996-1999,9,Learning Lie Groups for Invariant Visual Perception,Learning transport operators for image manifolds,0.147
+1999-2002,10,The Use of Classifiers in Sequential Inference,Online Learning via Global Feedback for Phrase Recognition,0.118
+1996-1999,11,Inference in Multilayer Networks via Large Deviation Bounds,Gaussian Fields for Approximate Inference in Layered Sigmoid Belief Networks,3.059
+2008-2011,12,Implicit encoding of prior probabilities in optimal neural populations,Efficient coding provides a direct link between prior and likelihood in perceptual Bayesian inference,1.567
+2008-2011,12,Implicit encoding of prior probabilities in optimal neural populations,"Optimal Neural Tuning Curves for Arbitrary Stimulus Distributions: Discrimax, Infomax and Minimum ",0.25
+2008-2011,12,Implicit encoding of prior probabilities in optimal neural populations,Optimal Neural Population Codes for High-dimensional Stimulus Variables,0.231
+2008-2011,12,Implicit encoding of prior probabilities in optimal neural populations,Optimal prior-dependent neural population codes under shared input noise,5.388
+2011-2014,13,A Safe Screening Rule for Sparse Logistic Regression,Regularization Path of Cross-Validation Error Lower Bounds,0.312
+2014-2017,0,A Safe Screening Rule for Sparse Logistic Regression,Regularization Path of Cross-Validation Error Lower Bounds,9.848
+2008-2011,1,Robust Lasso with missing and grossly corrupted observations,Robust Gaussian Graphical Modeling with the Trimmed Graphical Lasso,1.462
+2011-2014,2,Robust Lasso with missing and grossly corrupted observations,Robust Gaussian Graphical Modeling with the Trimmed Graphical Lasso,0.309
+1999-2002,3,Half-Lives of EigenFlows for Spectral Clustering,Hierarchical Eigensolver for Transition Matrices in Spectral Methods,0.383
+2002-2005,4,Half-Lives of EigenFlows for Spectral Clustering,Hierarchical Eigensolver for Transition Matrices in Spectral Methods,0.402
+2005-2008,5,Efficient sparse coding algorithms,Learning Horizontal Connections in a Sparse Coding Model of Natural Images,0.607
+2005-2008,5,Efficient sparse coding algorithms,Sparse deep belief net model for visual area V2,0.055
+2005-2008,5,Efficient sparse coding algorithms,Exploring Large Feature Spaces with Hierarchical Multiple Kernel Learning,0.255
+2005-2008,5,Efficient sparse coding algorithms,An Homotopy Algorithm for the Lasso with Online Observations,0.785
+2005-2008,5,Efficient sparse coding algorithms,Semi-supervised Learning with Weakly-Related Unlabeled Data : Towards Better Text Categorization,0.291
+2005-2008,5,Efficient sparse coding algorithms,Sparse Online Learning via Truncated Gradient,0.073
+2005-2008,5,Efficient sparse coding algorithms,Group Sparse Coding,0.074
+2005-2008,5,Efficient sparse coding algorithms,Nonlinear Learning using Local Coordinate Coding,0.342
+2005-2008,5,Efficient sparse coding algorithms,Deep Coding Network,99.7
+2005-2008,5,Efficient sparse coding algorithms,Sparse Coding for Learning Interpretable Spatio-Temporal Primitives,1.6
+2005-2008,5,Efficient sparse coding algorithms,Factorized Latent Spaces with Structured Sparsity,3.2
+2005-2008,5,Efficient sparse coding algorithms,Adaptive Multi-Task Lasso: with Application to eQTL Detection,40.1
+2005-2008,5,Efficient sparse coding algorithms,Linear Complementarity for Regularized Policy Evaluation and Improvement,1.3
+2005-2008,5,Efficient sparse coding algorithms,Deciphering subsampled data: adaptive compressive sampling as a principle of brain communication,1.8
+2005-2008,5,Efficient sparse coding algorithms,Dimensionality Reduction Using the Sparse Linear Model,0.267
+2005-2008,5,Efficient sparse coding algorithms,Select and Sample - A Model of Efficient Neural Inference and Learning,1.418
+2005-2008,5,Efficient sparse coding algorithms,Learning Sparse Representations of High Dimensional Data on Large Scale Dictionaries,0.988
+2005-2008,5,Efficient sparse coding algorithms,A blind sparse deconvolution method for neural spike identification,0.323
+2005-2008,5,Efficient sparse coding algorithms,Generalized Lasso based Approximation of Sparse Coding for Visual Recognition,2.077
+2005-2008,5,Efficient sparse coding algorithms,Learning the Dependency Structure of Latent Factors,1.454
+2005-2008,5,Efficient sparse coding algorithms,Unsupervised Template Learning for Fine-Grained Object Recognition,0.676
+2005-2008,5,Efficient sparse coding algorithms,Learning to Align from Scratch,0.566
+2005-2008,5,Efficient sparse coding algorithms,General Stochastic Networks for Classification,3.633
+2005-2008,5,Efficient sparse coding algorithms,Encoding High Dimensional Local Features by Sparse Coding Based Fisher Vectors,0.226
+2005-2008,5,Efficient sparse coding algorithms,Projective dictionary pair learning for pattern classification,0.053
+2011-2014,6,Clustered factor analysis of multineuronal spike data,High-dimensional neural spike train analysis with generalized count linear dynamical systems,0.165
+2014-2017,7,Clustered factor analysis of multineuronal spike data,High-dimensional neural spike train analysis with generalized count linear dynamical systems,0.3
+1987-1990,8,Skeletonization: A Technique for Trimming the Fat from a Network via Relevance Assessment,Optimal Brain Damage,0.095
+2011-2014,9,On Iterative Hard Thresholding Methods for High-dimensional M-Estimation,Robust Regression via Hard Thresholding,0.44
+2014-2017,10,On Iterative Hard Thresholding Methods for High-dimensional M-Estimation,Robust Regression via Hard Thresholding,0.6
+1996-1999,11,Incorporating Contextual Information in White Blood Cell Identification,Image Recognition in Context: Application to Microscopic Urinalysis,4.802
+1990-1993,12,When will a Genetic Algorithm Outperform Hill Climbing,Genetic Algorithms and Explicit Search Statistics,0.338
+1993-1996,13,When will a Genetic Algorithm Outperform Hill Climbing,Genetic Algorithms and Explicit Search Statistics,1.063
+2011-2014,0,A new metric on the manifold of kernel matrices with application to matrix geometric means,Log-Hilbert-Schmidt metric between positive definite operators on Hilbert spaces,0.055
+1996-1999,1,The Nonnegative Boltzmann Machine,High-temperature Expansions for Learning Models of Nonnegative Data,0.51
+1999-2002,2,The Nonnegative Boltzmann Machine,High-temperature Expansions for Learning Models of Nonnegative Data,0.085
+2005-2008,3,Convergence of Laplacian Eigenmaps,Statistical Analysis of Semi-Supervised Learning: The Limit of Infinite Unlabelled Data,0.125
+1990-1993,4,Counting function theorem for multi-layer networks,MLP Can Provably Generalize Much Better than VC-bounds Indicate,0.075
+1993-1996,5,Counting function theorem for multi-layer networks,MLP Can Provably Generalize Much Better than VC-bounds Indicate,0.398
+2011-2014,6,Minimax-optimal Inference from Partial Rankings,Fast and Accurate Inference of Plackett?Luce Models,0.216
+2014-2017,7,Minimax-optimal Inference from Partial Rankings,Fast and Accurate Inference of Plackett?Luce Models,0.134
+2002-2005,8,Improved risk tail bounds for on-line algorithms,Generalization Error Bounds for Aggregation by Mirror Descent with Averaging,0.1
+2002-2005,8,Improved risk tail bounds for on-line algorithms,On the Generalization Ability of Online Strongly Convex Programming Algorithms,0.065
+2005-2008,9,Improved risk tail bounds for on-line algorithms,Generalization Error Bounds for Aggregation by Mirror Descent with Averaging,1.589
+2005-2008,9,Improved risk tail bounds for on-line algorithms,On the Generalization Ability of Online Strongly Convex Programming Algorithms,0.341
+2005-2008,10,Biasing Approximate Dynamic Programming with a Lower Discount Factor,On the Use of Non-Stationary Policies for Stationary Infinite-Horizon Markov Decision Processes,0.518
+2008-2011,11,Biasing Approximate Dynamic Programming with a Lower Discount Factor,On the Use of Non-Stationary Policies for Stationary Infinite-Horizon Markov Decision Processes,0.533
+1987-1990,12,Practical Characteristics of Neural Network and Conventional Pattern Classifiers on Artificial and Speech Problems,A Comparative Study of the Practical Characteristics of Neural Network and Conventional Pattern Classifiers,1.597
+2005-2008,13,Bayesian Exponential Family PCA,Variational bounds for mixed-data factor analysis,4.955
+2008-2011,0,Bayesian Exponential Family PCA,Variational bounds for mixed-data factor analysis,1.095
+2014-2017,1,Learnability of Influence in Networks,Learning Influence Functions from Incomplete Observations,5.002
+2008-2011,2,Streaming k-means approximation,Fast and Accurate k-means For Large Datasets,0.322
+2008-2011,2,Streaming k-means approximation,Optimistic Concurrency Control for Distributed Unsupervised Learning,0.238
+2008-2011,2,Streaming k-means approximation,Fast Distributed k-Center Clustering with Outliers on Massive Data,43.7
+2008-2011,2,Streaming k-means approximation,A Constant-Factor Bi-Criteria Approximation Guarantee for k-means++,0.5
+2008-2011,2,Streaming k-means approximation,Fast and Provably Good Seedings for k-Means,0.5
+2011-2014,3,Scalable nonconvex inexact proximal splitting,Communication Efficient Distributed Machine Learning with the Parameter Server,0.135
+2011-2014,3,Scalable nonconvex inexact proximal splitting,Proximal Stochastic Methods for Nonsmooth Nonconvex Finite-Sum Optimization,6.794
+2011-2014,3,Scalable nonconvex inexact proximal splitting,NESTT: A Nonconvex Primal-Dual Splitting Method for Distributed and Stochastic Optimization,0.237
+2011-2014,4,Probabilistic ODE Solvers with Runge-Kutta Means,Probabilistic Linear Multistep Methods,55
+2014-2017,5,Probabilistic ODE Solvers with Runge-Kutta Means,Probabilistic Linear Multistep Methods,12.9
+2005-2008,6,Sparse probabilistic projections,Multi-Label Prediction via Sparse Infinite CCA,3.1
+2005-2008,6,Sparse probabilistic projections,Factorized Latent Spaces with Structured Sparsity,0.1
+2005-2008,6,Sparse probabilistic projections,Sparse Bayesian Multi-Task Learning,0.8
+2005-2008,6,Sparse probabilistic projections,Spike and Slab Variational Inference for Multi-Task and Multiple Kernel Learning,0.1
+2005-2008,6,Sparse probabilistic projections,EigenNet: A Bayesian hybrid of generative and conditional models for sparse learning,0
+2005-2008,6,Sparse probabilistic projections,Convex Multi-view Subspace Learning,14.6
+2008-2011,7,Sparse probabilistic projections,Multi-Label Prediction via Sparse Infinite CCA,0.5
+2008-2011,7,Sparse probabilistic projections,Factorized Latent Spaces with Structured Sparsity,0.2
+2008-2011,7,Sparse probabilistic projections,Sparse Bayesian Multi-Task Learning,0.059
+2008-2011,7,Sparse probabilistic projections,Spike and Slab Variational Inference for Multi-Task and Multiple Kernel Learning,16.82
+2008-2011,7,Sparse probabilistic projections,EigenNet: A Bayesian hybrid of generative and conditional models for sparse learning,0.055
+2008-2011,7,Sparse probabilistic projections,Convex Multi-view Subspace Learning,12
+2002-2005,8,Bayesian model learning in human visual perception,Analyzing human feature learning as nonparametric Bayesian inference,18.486
+2005-2008,9,Bayesian model learning in human visual perception,Analyzing human feature learning as nonparametric Bayesian inference,8
+2005-2008,10,Probabilistic Matrix Factorization,Bayesian Sampling Using Stochastic Gradient Thermostats,0.937
+2008-2011,11,Compressed Least-Squares Regression,Scrambled Objects for Least-Squares Regression,1.586
+2008-2011,12,Gaussian process modulated renewal processes,Poisson Process Jumping between an Unknown Number of Rates: Application to Neural Spike Data,38.486
+2008-2011,12,Gaussian process modulated renewal processes,Gaussian Processes for Survival Analysis,0.151
+2011-2014,13,Gaussian process modulated renewal processes,Poisson Process Jumping between an Unknown Number of Rates: Application to Neural Spike Data,0.051
+2011-2014,13,Gaussian process modulated renewal processes,Gaussian Processes for Survival Analysis,41.115
+2011-2014,0,Bayesian nonparametric models for bipartite graphs,Restricting exchangeable nonparametric distributions,0.303
+2011-2014,0,Bayesian nonparametric models for bipartite graphs,Finite-Dimensional BFRY Priors and Variational Bayesian Inference for Power Law Models,0.086
+2005-2008,1,Receptive Fields without Spike-Triggering,Least Informative Dimensions,0.091
+1993-1996,2,Stochastic Hillclimbing as a Baseline Method for Evaluating Genetic Algorithms,Genetic Algorithms and Explicit Search Statistics,0.334
+2008-2011,3,Selecting Receptive Fields in Deep Networks,Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering,0.249
+2011-2014,4,Selecting Receptive Fields in Deep Networks,Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering,0.249
+1987-1990,5,Optimal Brain Damage,Competition Among Networks Improves Committee Performance,0.634
+1987-1990,5,Optimal Brain Damage,"Overfitting in Neural Nets: Backpropagation, Conjugate Gradient, and Early Stopping",0.148
+1987-1990,5,Optimal Brain Damage,Handwritten Digit Recognition with a Back-Propagation Network,1.423
+1987-1990,5,Optimal Brain Damage,Transforming Neural-Net Output Levels to Probability Distributions,0.337
+1987-1990,5,Optimal Brain Damage,Neural Control for Rolling Mills: Incorporating Domain Theories to Overcome Data Deficiency,0.136
+1987-1990,5,Optimal Brain Damage,Automatic Learning Rate Maximization by On-Line Estimation of the Hessian's Eigenvectors,1.089
+1987-1990,5,Optimal Brain Damage,Extended Regularization Methods for Nonconvergent Model Selection,0.864
+1987-1990,5,Optimal Brain Damage,Second order derivatives for network pruning: Optimal Brain Surgeon,0.088
+1987-1990,5,Optimal Brain Damage,Optimal Brain Surgeon: Extensions and performance comparisons,0.25
+1987-1990,5,Optimal Brain Damage,Constructive Learning Using Internal Representation Conflicts,0.116
+1987-1990,5,Optimal Brain Damage,Recurrent Networks: Second Order Properties and Pruning,1.895
+2005-2008,6,Sequential effects: Superstition or rational behavior?,Sequential effects reflect parallel learning of multiple environmental regularities,0.062
+2005-2008,6,Sequential effects: Superstition or rational behavior?,A rational decision making framework for inhibitory control,8.457
+2005-2008,6,Sequential effects: Superstition or rational behavior?,Context-sensitive active sensing in humans,0.117
+2008-2011,7,Sequential effects: Superstition or rational behavior?,Sequential effects reflect parallel learning of multiple environmental regularities,0.245
+2008-2011,7,Sequential effects: Superstition or rational behavior?,A rational decision making framework for inhibitory control,0.481
+2008-2011,7,Sequential effects: Superstition or rational behavior?,Context-sensitive active sensing in humans,0.42
+2005-2008,8,Bayesian Agglomerative Clustering with Coalescents,The Infinite Hierarchical Factor Regression Model,0.312
+2005-2008,9,Gates,An Incremental Nearest Neighbor Algorithm with Queries,0.126
+2005-2008,9,Gates,Modelling Seasonality and Trends in Daily Rainfall Data,1.46
+2005-2008,9,Gates,Breaking SVM Complexity with Cross-Training,3.292
+2005-2008,9,Gates,Localizing Bugs in Program Executions with Graphical Models,0.194
+2005-2008,9,Gates,Neuromorphic Networks Based on Sparse Optical Orthogonal Codes,6.721
+2005-2008,9,Gates,Learning to Pass Expectation Propagation Messages,3.456
+2005-2008,9,Gates,Neural Computing with Small Weights,0.142
+2005-2008,9,Gates,Near-optimal sample compression for nearest neighbors,2.917
+2005-2008,9,Gates,Computing with Almost Optimal Size Neural Networks,0.189
+2005-2008,9,Gates,Algorithmic Stability and Uniform Generalization,0.08
+2005-2008,9,Gates,Optimal Depth Neural Networks for Multiplication and Related Problems,0.126
+2008-2011,10,Gates,An Incremental Nearest Neighbor Algorithm with Queries,0.25
+2008-2011,10,Gates,Modelling Seasonality and Trends in Daily Rainfall Data,0.2
+2008-2011,10,Gates,Breaking SVM Complexity with Cross-Training,0.929
+2008-2011,10,Gates,Localizing Bugs in Program Executions with Graphical Models,2.916
+2008-2011,10,Gates,Neuromorphic Networks Based on Sparse Optical Orthogonal Codes,0.246
+2008-2011,10,Gates,Learning to Pass Expectation Propagation Messages,0.986
+2008-2011,10,Gates,Neural Computing with Small Weights,0.182
+2008-2011,10,Gates,Near-optimal sample compression for nearest neighbors,0.506
+2008-2011,10,Gates,Computing with Almost Optimal Size Neural Networks,0.201
+2008-2011,10,Gates,Algorithmic Stability and Uniform Generalization,0.15
+2008-2011,10,Gates,Optimal Depth Neural Networks for Multiplication and Related Problems,1.424
+1999-2002,11,Hyperkernels,Computing regularization paths for learning multiple kernels,6.406
+1999-2002,11,Hyperkernels,A General and Efficient Multiple Kernel Learning Algorithm,0.133
+1999-2002,11,Hyperkernels,Combining Graph Laplacians for Semi--Supervised Learning,1.992
+1999-2002,11,Hyperkernels,Gaussian and Wishart Hyperkernels,0.17
+2002-2005,12,Hyperkernels,Computing regularization paths for learning multiple kernels,0.11
+2002-2005,12,Hyperkernels,A General and Efficient Multiple Kernel Learning Algorithm,0.151
+2002-2005,12,Hyperkernels,Combining Graph Laplacians for Semi--Supervised Learning,0.11
+2002-2005,12,Hyperkernels,Gaussian and Wishart Hyperkernels,0.073
+2005-2008,13,Linearly-solvable Markov decision problems,Compositionality of optimal control laws,0.086
+2005-2008,13,Linearly-solvable Markov decision problems,Policy gradients in linearly-solvable MDPs,0.102
+2005-2008,13,Linearly-solvable Markov decision problems,Optimal Reinforcement Learning for Gaussian Systems,2.9
+2002-2005,0,Learning from Data of Variable Quality,Domain Adaptation with Multiple Sources,46.4
+2005-2008,1,Learning from Data of Variable Quality,Domain Adaptation with Multiple Sources,11.8
+1993-1996,2,Nonlinear Image Interpolation using Manifold Learning,Example-Based Image Synthesis of Articulated Figures,69.4
+2002-2005,3,A matching pursuit approach to sparse Gaussian process regression,Variational Mixture of Gaussian Process Experts,4.7
+2005-2008,4,A matching pursuit approach to sparse Gaussian process regression,Variational Mixture of Gaussian Process Experts,0
+2002-2005,5,Metric Learning by Collapsing Classes,Online Metric Learning and Fast Similarity Search,3.8
+2002-2005,5,Metric Learning by Collapsing Classes,An Online Algorithm for Large Scale Image Similarity Learning,12.9
+2002-2005,5,Metric Learning by Collapsing Classes,Similarity Component Analysis,75.5
+2005-2008,6,Metric Learning by Collapsing Classes,Online Metric Learning and Fast Similarity Search,4.2
+2005-2008,6,Metric Learning by Collapsing Classes,An Online Algorithm for Large Scale Image Similarity Learning,0
+2005-2008,6,Metric Learning by Collapsing Classes,Similarity Component Analysis,2.1
+2008-2011,7,Reconstruction of Sparse Circuits Using Multi-neuronal Excitation (RESCUME),Bayesian Inference and Online Experimental Design for Mapping Neural Microcircuits,0.9
+1993-1996,8,An experimental comparison of recurrent neural networks,Learning long-term dependencies is not as difficult with NARX networks,8.1
+2011-2014,9,Reducing statistical time-series problems to binary classification,Locating Changes in Highly Dependent Data with Unknown Number of Change Points,0.6
+1987-1990,10,Performance of a Stochastic Learning Microchip,Experimental Evaluation of Learning in a Neural Microsystem,0
+1996-1999,11,Ensemble Learning for Multi-Layer Networks,Affine Independent Variational Inference,0.4
+2005-2008,12,Learning from Multiple Sources,Multi-Label Prediction via Sparse Infinite CCA,11.6
+2005-2008,12,Learning from Multiple Sources,Graph-based Consensus Maximization among Multiple Supervised and Unsupervised Models,39
+2005-2008,12,Learning from Multiple Sources,Predictive Subspace Learning for Multi-view Data: a Large Margin Approach,9.5
+2005-2008,12,Learning from Multiple Sources,Generalization Bounds for Domain Adaptation,10.4
+2008-2011,13,From Bandits to Experts: On the Value of Side-Observations,Explore no more: Improved high-probability regret bounds for non-stochastic bandits,2.3
+2011-2014,0,From Bandits to Experts: On the Value of Side-Observations,Explore no more: Improved high-probability regret bounds for non-stochastic bandits,0.103
+1987-1990,1,Towards an Organizing Principle for a Layered Perceptual Network,Kernelized Infomax Clustering,1.258
+1990-1993,2,Practical Issues in Temporal Difference Learning,Stable LInear Approximations to Dynamic Programming for Stochastic Control Problems with Local Transitions,0.085
+1990-1993,2,Practical Issues in Temporal Difference Learning,Improving Elevator Performance Using Reinforcement Learning,0.303
+1990-1993,2,Practical Issues in Temporal Difference Learning,Multidimensional Triangulation and Interpolation for Reinforcement Learning,0.109
+1990-1993,2,Practical Issues in Temporal Difference Learning,Memory-Based Reinforcement Learning: Efficient Computation with Prioritized Sweeping,0.057
+1990-1993,2,Practical Issues in Temporal Difference Learning,Monte Carlo Matrix Inversion and Reinforcement Learning,0.08
+2005-2008,3,A learning framework for nearest neighbor search,Learning to Prune in Metric and Non-Metric Spaces,0.08
+1996-1999,4,Extended ICA Removes Artifacts from Electroencephalographic Recordings,Recognizing Evoked Potentials in a Virtual Environment,0.13
+1996-1999,5,A Neuromorphic Monaural Sound Localizer,Gradient Flow Independent Component Analysis in Micropower VLSI,0.109
+2005-2008,6,Multi-stage Convex Relaxation for Learning with Sparse Regularization,Identifying Alzheimer's Disease-Related Brain Regions from Multi-Modality Neuroimaging Data using Sparse Composite Linear Discrimination Analysis,0.081
+2008-2011,7,Multi-stage Convex Relaxation for Learning with Sparse Regularization,Identifying Alzheimer's Disease-Related Brain Regions from Multi-Modality Neuroimaging Data using Sparse Composite Linear Discrimination Analysis,0.524
+2005-2008,8,A neural network implementing optimal state estimation based on dynamic spike train decoding,Analytical Results for the Error in Filtering of Gaussian Processes,0.182
+2008-2011,9,The Fixed Points of Off-Policy TD,Regularized Off-Policy TD-Learning,0.13
+2011-2014,10,The Fixed Points of Off-Policy TD,Regularized Off-Policy TD-Learning,0.138
+2008-2011,11,Learning from Candidate Labeling Sets,A Conditional Multinomial Mixture Model for Superset Label Learning,0.426
+1996-1999,12,The Relevance Vector Machine,Sparse Kernel Principal Component Analysis,0.122
+1996-1999,12,The Relevance Vector Machine,Sparse Representation for Gaussian Process Models,0.092
+1996-1999,12,The Relevance Vector Machine,Analysis of Sparse Bayesian Learning,0.057
+1996-1999,12,The Relevance Vector Machine,Boosted Dyadic Kernel Discriminants,0.053
+1999-2002,13,The Relevance Vector Machine,Sparse Kernel Principal Component Analysis,0.144
+1999-2002,13,The Relevance Vector Machine,Sparse Representation for Gaussian Process Models,0.952
+1999-2002,13,The Relevance Vector Machine,Analysis of Sparse Bayesian Learning,0.159
+1999-2002,13,The Relevance Vector Machine,Boosted Dyadic Kernel Discriminants,0.079
+2008-2011,0,Ensemble Nystrom Method,Less is More: Nystr?m Computational Regularization,0.125
+1987-1990,1,Heterogeneous Neural Networks for Adaptive Behavior in Dynamic Environments,Neural Implementation of Motivated Behavior: Feeding in an Artificial Insect,0.092
+2014-2017,2,Deep Convolutional Inverse Graphics Network,"Attend, Infer, Repeat: Fast Scene Understanding with Generative Models",0.58
+2011-2014,3,Rates of Convergence for Nearest Neighbor Classification,Near-optimal sample compression for nearest neighbors,0.61
+2014-2017,4,Rates of Convergence for Nearest Neighbor Classification,Near-optimal sample compression for nearest neighbors,0.331
+2014-2017,5,Convolutional Networks on Graphs for Learning Molecular Fingerprints,Protein contact prediction from amino acid co-evolution using convolutional networks for graph-valued images,0.349
+2005-2008,6,Modeling image patches with a directed hierarchy of Markov random fields,The Recurrent Temporal Restricted Boltzmann Machine,0.075
+1990-1993,7,Supervised learning from incomplete data via an EM approach,Reconstruction of Sequential Data with Probabilistic Models and Continuity Constraints,0.11
+1990-1993,7,Supervised learning from incomplete data via an EM approach,An Alternative Infinite Mixture Of Gaussian Process Experts,0.097
+1990-1993,7,Supervised learning from incomplete data via an EM approach,Max-margin classification of incomplete data,0.125
+1990-1993,7,Supervised learning from incomplete data via an EM approach,Estimating Jaccard Index with Missing Observations: A Matrix Calibration Approach,2.225
+1993-1996,8,Supervised learning from incomplete data via an EM approach,Reconstruction of Sequential Data with Probabilistic Models and Continuity Constraints,5.036
+1993-1996,8,Supervised learning from incomplete data via an EM approach,An Alternative Infinite Mixture Of Gaussian Process Experts,4.365
+1993-1996,8,Supervised learning from incomplete data via an EM approach,Max-margin classification of incomplete data,0.352
+1993-1996,8,Supervised learning from incomplete data via an EM approach,Estimating Jaccard Index with Missing Observations: A Matrix Calibration Approach,0.31
+2008-2011,9,Static Analysis of Binary Executables Using Structural SVMs,Structured Learning for Cell Tracking,0.154
+1999-2002,10,Fractional Belief Propagation,Approximate inference in latent Gaussian-Markov models from continuous time observations,0.059
+2002-2005,11,Fractional Belief Propagation,Approximate inference in latent Gaussian-Markov models from continuous time observations,0.067
+2011-2014,12,Continuous Relaxations for Discrete Hamiltonian Monte Carlo,Auxiliary-variable Exact Hamiltonian Monte Carlo Samplers for Binary Distributions,0.082
+2008-2011,13,Zero-shot Learning with Semantic Output Codes,Zero-shot recognition with unreliable attributes,0.314
+1993-1996,0,GTM: A Principled Alternative to the Self-Organizing Map,Limitations of Self-organizing Maps for Vector Quantization and Multidimensional Scaling,0.824
+1996-1999,1,GTM: A Principled Alternative to the Self-Organizing Map,Limitations of Self-organizing Maps for Vector Quantization and Multidimensional Scaling,0.333
+2005-2008,2,Multi-Task Feature Learning,Supervised Dictionary Learning,0.1
+1990-1993,3,Efficient Pattern Recognition Using a New Transformation Distance,Nonlinear Image Interpolation using Manifold Learning,31.838
+1990-1993,3,Efficient Pattern Recognition Using a New Transformation Distance,Adaptive Elastic Input Field for Recognition Improvement,31.838
+2011-2014,4,Solving the multi-way matching problem by permutation synchronization,Permutation Diffusion Maps (PDM) with Application to the Image Association Problem in Computer Vision,41.5
+2011-2014,4,Solving the multi-way matching problem by permutation synchronization,Normalized Spectral Map Synchronization,3
+2011-2014,4,Solving the multi-way matching problem by permutation synchronization,On Valid Optimal Assignment Kernels and Applications to Graph Classification,25.5
+1999-2002,5,Efficient Learning Equilibrium,New Criteria and a New Algorithm for Learning in Multi-Agent Systems,8.1
+2002-2005,6,Efficient Learning Equilibrium,New Criteria and a New Algorithm for Learning in Multi-Agent Systems,0.3
+2014-2017,7,Training Very Deep Networks,Tensor Switching Networks,0
+1999-2002,8,PAC-Bayes & Margins,Tighter PAC-Bayes Bounds,1.1
+1999-2002,8,PAC-Bayes & Margins,Dimensionality Dependent PAC-Bayes Margin Bound,3.6
+2002-2005,9,PAC-Bayes & Margins,Tighter PAC-Bayes Bounds,0.8
+2002-2005,9,PAC-Bayes & Margins,Dimensionality Dependent PAC-Bayes Margin Bound,0
+1993-1996,10,A model of transparent motion and non-transparent motion aftereffects,Distributional Population Codes and Multiple Motion Models,1.4
+2002-2005,11,AUC Optimization vs. Error Rate Minimization,Confidence Intervals for the Area Under the ROC Curve,1
+2002-2005,11,AUC Optimization vs. Error Rate Minimization,Reconciling Real Scores with Binary Comparisons: A New Logistic Based Model for Ranking,2.144
+1993-1996,12,An Input Output HMM Architecture,A Dynamic HMM for On-line Segmentation of Sequential Data,0.248
+1993-1996,12,An Input Output HMM Architecture,Diffusion of Credit in Markovian Models,0.12
+2008-2011,13,Tiled convolutional neural networks,ICA with Reconstruction Cost for Efficient Overcomplete Feature Learning,0.398
+2008-2011,13,Tiled convolutional neural networks,Deep Learning of Invariant Features via Simulated Fixations in Video,0.466
+2008-2011,13,Tiled convolutional neural networks,Noise-Enhanced Associative Memories,3.958
+2008-2011,0,Non-stationary continuous dynamic Bayesian networks,Inter-time segment information sharing for non-homogeneous dynamic Bayesian networks,0.098
+2014-2017,1,Information-theoretic lower bounds for convex optimization with erroneous oracles,Algorithms and matching lower bounds for approximately-convex optimization,0.245
+2002-2005,2,Semi-Markov Conditional Random Fields for Information Extraction,Active Learning for Probabilistic Hypotheses Using the Maximum Gibbs Error Criterion,0.06
+2008-2011,3,Multi-Label Prediction via Sparse Infinite CCA,Reverse Multi-Label Learning,0.126
+2008-2011,3,Multi-Label Prediction via Sparse Infinite CCA,Submodular Multi-Label Learning,0.224
+2008-2011,4,Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials,Algorithms for Learning Markov Field Policies,0
+2008-2011,4,Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials,Message Passing Inference for Large Scale Graphical Models with High Order Potentials,0.07
+2011-2014,5,Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials,Algorithms for Learning Markov Field Policies,0.256
+2011-2014,5,Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials,Message Passing Inference for Large Scale Graphical Models with High Order Potentials,0.147
+2008-2011,6,Stochastic convex optimization with bandit feedback,Finite Sample Convergence Rates of Zero-Order Stochastic Optimization Methods,0.816
+2008-2011,6,Stochastic convex optimization with bandit feedback,Bandit Smooth Convex Optimization: Improving the Bias-Variance Tradeoff,0.182
+2008-2011,6,Stochastic convex optimization with bandit feedback,Algorithms and matching lower bounds for approximately-convex optimization,0.071
+2011-2014,7,Stochastic convex optimization with bandit feedback,Finite Sample Convergence Rates of Zero-Order Stochastic Optimization Methods,0.8
+2011-2014,7,Stochastic convex optimization with bandit feedback,Bandit Smooth Convex Optimization: Improving the Bias-Variance Tradeoff,4.271
+2011-2014,7,Stochastic convex optimization with bandit feedback,Algorithms and matching lower bounds for approximately-convex optimization,5
+2008-2011,8,AUC optimization and the two-sample problem,A More Powerful Two-Sample Test in High Dimensions using Random Projection,2.921
+2011-2014,9,Spectral methods for neural characterization using generalized quadratic models,Convolutional spike-triggered covariance analysis for neural subunit models,3.859
+1990-1993,10,Threshold Network Learning in the Presence of Equivalences,Generalisation of A Class of Continuous Neural Networks,0.173
+1987-1990,11,Recognizing Hand-Printed Letters and Digits,Simulation of the Neocognitron on a CCD Parallel Processing Architecture,0.545
+1990-1993,12,VISIT: A Neural Model of Covert Visual Attention,Selective Attention for Handwritten Digit Recognition,0.519
+2008-2011,13,Sequence learning with hidden units in spiking neural networks,Homeostatic plasticity in Bayesian spiking networks as Expectation Maximization with posterior constraints,17.093
+2008-2011,13,Sequence learning with hidden units in spiking neural networks,Learning visual motion in recurrent neural networks,1.515
+2008-2011,13,Sequence learning with hidden units in spiking neural networks,Synaptic Sampling: A Bayesian Approach to Neural Network Plasticity and Rewiring,0.139
+2011-2014,0,Sequence learning with hidden units in spiking neural networks,Homeostatic plasticity in Bayesian spiking networks as Expectation Maximization with posterior constraints,0.11
+2011-2014,0,Sequence learning with hidden units in spiking neural networks,Learning visual motion in recurrent neural networks,0.755
+2011-2014,0,Sequence learning with hidden units in spiking neural networks,Synaptic Sampling: A Bayesian Approach to Neural Network Plasticity and Rewiring,1.141
+1996-1999,1,Regularisation in Sequential Learning Algorithms,Adaptive Classification by Variational Kalman Filtering,0.092
+1999-2002,2,Categorization by Learning and Combining Object Parts,Discriminating Deformable Shape Classes,0.268
+1999-2002,3,Generalized Belief Propagation,High-temperature Expansions for Learning Models of Nonnegative Data,0.065
+1999-2002,3,Generalized Belief Propagation,Active Information Retrieval,0.102
+1999-2002,3,Generalized Belief Propagation,"TAP Gibbs Free Energy, Belief Propagation and Sparsity",0.388
+1999-2002,3,Generalized Belief Propagation,The g Factor: Relating Distributions on Features to Distributions on Images,0.105
+1999-2002,3,Generalized Belief Propagation,Local Algorithms for Approximate Inference in Minor-Excluded Graphs,3.12
+1999-2002,3,Generalized Belief Propagation,Message Passing for Max-weight Independent Set,0.076
+1999-2002,3,Generalized Belief Propagation,Minimization of Continuous Bethe Approximations: A Positive Variation,1.715
+1996-1999,4,DTs: Dynamic Trees,A MCMC Approach to Hierarchical Mixture Modelling,0.153
+1993-1996,5,Convergence Properties of the K-Means Algorithms,Limitations of Self-organizing Maps for Vector Quantization and Multidimensional Scaling,0.075
+2002-2005,6,Unsupervised Variational Bayesian Learning of Nonlinear Models,Affine Independent Variational Inference,0.075
+2005-2008,7,A Game-Theoretic Approach to Apprenticeship Learning,Bootstrapping Apprenticeship Learning,9.162
+2008-2011,8,Which graphical models are difficult to learn?,Structure learning of antiferromagnetic Ising models,0.415
+2008-2011,8,Which graphical models are difficult to learn?,Interaction Screening: Efficient and Sample-Optimal Learning of Ising Models,1.15
+2011-2014,9,Hardness of parameter estimation in graphical models,Interaction Screening: Efficient and Sample-Optimal Learning of Ising Models,0.163
+2014-2017,10,Hardness of parameter estimation in graphical models,Interaction Screening: Efficient and Sample-Optimal Learning of Ising Models,6.522
+2008-2011,11,Learning to combine foveal glimpses with a third-order Boltzmann machine,Deep Networks with Internal Selective Attention through Feedback Connections,1.395
+2005-2008,12,A Kernel Statistical Test of Independence,Kernel Measures of Conditional Dependence,1.207
+2002-2005,13,Bayesian Surprise Attracts Human Attention,Graph-Based Visual Saliency,0.96
+2002-2005,13,Bayesian Surprise Attracts Human Attention,Dynamic visual attention: searching for coding length increments,0.082
+2002-2005,13,Bayesian Surprise Attracts Human Attention,Balancing Suspense and Surprise: Timely Decision Making with Endogenous Information Acquisition,0.151
+2005-2008,0,Bayesian Surprise Attracts Human Attention,Graph-Based Visual Saliency,0.086
+2005-2008,0,Bayesian Surprise Attracts Human Attention,Dynamic visual attention: searching for coding length increments,0.178
+2005-2008,0,Bayesian Surprise Attracts Human Attention,Balancing Suspense and Surprise: Timely Decision Making with Endogenous Information Acquisition,1.135
+1990-1993,1,Non-Linear Dimensionality Reduction,MLLE: Modified Locally Linear Embedding Using Multiple Weights,0.337
+1999-2002,2,Adaptive Caching by Refetching,Nearly Tight Bounds for the Continuum-Armed Bandit Problem,0.478
+2002-2005,3,Adaptive Caching by Refetching,Nearly Tight Bounds for the Continuum-Armed Bandit Problem,0.083
+2008-2011,4,Gaussian process regression with Student-t likelihood,Copula Processes,0.613
+2011-2014,5,MCMC for continuous-time discrete-state systems,Approximate inference in latent Gaussian-Markov models from continuous time observations,0.095
+2008-2011,6,A reinterpretation of the policy oscillation phenomenon in approximate policy iteration,Optimistic policy iteration and natural actor-critic: A unifying view and a non-optimality result,0.857
+2011-2014,7,A reinterpretation of the policy oscillation phenomenon in approximate policy iteration,Optimistic policy iteration and natural actor-critic: A unifying view and a non-optimality result,0.27
+2008-2011,8,Heterogeneous multitask learning with joint sparsity constraints,Multi-Stage Multi-Task Feature Learning,0.081
+1999-2002,9,One Microphone Source Separation,Source Separation with a Sensor Array using Graphical Models and Subband Filtering,0.054
+2014-2017,10,Asynchronous Parallel Stochastic Gradient for Nonconvex Optimization,The Sound of APALM Clapping: Faster Nonsmooth Nonconvex Optimization with Stochastic Asynchronous PALM,0.15
+1999-2002,11,Sparse Representation for Gaussian Process Models,Incremental and Decremental Support Vector Machine Learning,0.244
+1996-1999,12,State Abstraction in MAXQ Hierarchical Reinforcement Learning,Automated State Abstraction for Options using the U-Tree Algorithm,0.177
+1999-2002,13,State Abstraction in MAXQ Hierarchical Reinforcement Learning,Automated State Abstraction for Options using the U-Tree Algorithm,0.054
+2008-2011,0,Learning Multiple Tasks with a Sparse Matrix-Normal Penalty,Simultaneously Leveraging Output and Task Structures for Multiple-Output Regression,0.092
+2008-2011,1,Active Classification based on Value of Classifier,Timely Object Recognition,0
+2011-2014,2,Active Classification based on Value of Classifier,Timely Object Recognition,2.6
+1990-1993,3,Feudal Reinforcement Learning,The Parti-Game Algorithm for Variable Resolution Reinforcement Learning in Multidimensional State-Spaces,0
+1990-1993,4,Recognizing Overlapping Hand-Printed Characters by Centered-Object Integrated Segmentation and Recognition,Adaptive Elastic Input Field for Recognition Improvement,3.1
+2008-2011,5,Dynamical segmentation of single trials from population neural data,Robust learning of low-dimensional dynamics from large neural ensembles,1.7
+2008-2011,5,Dynamical segmentation of single trials from population neural data,A framework for studying synaptic plasticity with neural spike train data,6.5
+2008-2011,5,Dynamical segmentation of single trials from population neural data,High-dimensional neural spike train analysis with generalized count linear dynamical systems,0
+2011-2014,6,Dynamical segmentation of single trials from population neural data,Robust learning of low-dimensional dynamics from large neural ensembles,0.1
+2011-2014,6,Dynamical segmentation of single trials from population neural data,A framework for studying synaptic plasticity with neural spike train data,0.1
+2011-2014,6,Dynamical segmentation of single trials from population neural data,High-dimensional neural spike train analysis with generalized count linear dynamical systems,2.4
+1990-1993,7,Adaptive Elastic Models for Hand-Printed Character Recognition,Adaptive Elastic Input Field for Recognition Improvement,0
+1987-1990,8,Performance Comparisons Between Backpropagation Networks and Classification Trees on Three Real-World Applications,Recurrent Networks and NARMA Modeling,0.5
+2008-2011,9,Locality-sensitive binary codes from shift-invariant kernels,PiCoDes: Learning a Compact Code for Novel-Category Recognition,0.2
+2008-2011,9,Locality-sensitive binary codes from shift-invariant kernels,Co-Regularized Hashing for Multimodal Data,1.3
+2008-2011,9,Locality-sensitive binary codes from shift-invariant kernels,Hamming Distance Metric Learning,2.144
+2008-2011,9,Locality-sensitive binary codes from shift-invariant kernels,Isotropic Hashing,1.705
+2008-2011,9,Locality-sensitive binary codes from shift-invariant kernels,The Power of Asymmetry in Binary Hashing,0.078
+2008-2011,9,Locality-sensitive binary codes from shift-invariant kernels,A Probabilistic Framework for Multimodal Retrieval using Integrative Indian Buffet Process,0.179
+1996-1999,10,Transductive Inference for Estimating Values of Functions,On Transductive Regression,0.09
+1999-2002,11,Transductive Inference for Estimating Values of Functions,On Transductive Regression,0.189
+2008-2011,12,Reading Tea Leaves: How Humans Interpret Topic Models,A Neural Autoregressive Topic Model,0.783
+2005-2008,13,Unsupervised Learning of Visual Sense Models for Polysemous Words,Filtering Abstract Senses From Image Search Results,0.463
+2008-2011,0,Unsupervised Learning of Visual Sense Models for Polysemous Words,Filtering Abstract Senses From Image Search Results,0.55
+2005-2008,1,Real-time adaptive information-theoretic optimization of neurophysiology experiments,Multivariate f-divergence Estimation With Confidence,1.668
+2005-2008,1,Real-time adaptive information-theoretic optimization of neurophysiology experiments,Finite-Sample Analysis of Fixed-k Nearest Neighbor Density Functional Estimators,0.223
+1990-1993,2,Reinforcement Learning Applied to Linear Quadratic Regulation,Advantage Updating Applied to a Differential Game,0.786
+2011-2014,3,Flexible sampling of discrete data correlations without the marginal distributions,Dynamic Rank Factor Model for Text Streams,0.764
+1990-1993,4,"Fast, Robust Adaptive Control by Learning only Forward Models",Memory-based Stochastic Optimization,1.529
+2002-2005,5,Stable adaptive control with online learning,A Constraint Generation Approach to Learning Stable Linear Dynamical Systems,0.07
+1999-2002,6,Active Information Retrieval,Mean Field Approach to a Probabilistic Model in Information Retrieval,0.271
+2008-2011,7,Variational bounds for mixed-data factor analysis,Infinite Latent SVM for Classification and Multi-task Learning,0.518
+2002-2005,8,Optimal cue selection strategy,Experience-Guided Search: A Theory of Attentional Control,0.218
+2002-2005,8,Optimal cue selection strategy,Load and Attentional Bayes,0.31
+2005-2008,9,Optimal cue selection strategy,Experience-Guided Search: A Theory of Attentional Control,0.945
+2005-2008,9,Optimal cue selection strategy,Load and Attentional Bayes,0.183
+2008-2011,10,Heavy-Tailed Process Priors for Selective Shrinkage,Robust Multi-Class Gaussian Process Classification,0.478
+2008-2011,11,An Inverse Power Method for Nonlinear Eigenproblems with Applications in 1-Spectral Clustering and Sparse PCA,Convergence and Energy Landscape for Cheeger Cut Clustering,1.01
+2008-2011,11,An Inverse Power Method for Nonlinear Eigenproblems with Applications in 1-Spectral Clustering and Sparse PCA,Multiclass Total Variation Clustering,1.682
+2011-2014,12,Annealing between distributions by averaging moments,Just-In-Time Learning for Fast and Flexible Inference,0.361
+1999-2002,13,Balancing Multiple Sources of Reward in Reinforcement Learning,Cobot: A Social Reinforcement Learning Agent,0.15
+1987-1990,0,Learning by Choice of Internal Representations,A Cost Function for Internal Representations,0.3
+1987-1990,1,Pulse-Firing Neural Chips for Hundreds of Neurons,Real-time autonomous robot navigation using VLSI neural networks,0.25
+2011-2014,2,Compete to Compute,Deep Networks with Internal Selective Attention through Feedback Connections,0.096
+2008-2011,3,Unsupervised feature learning for audio classification using convolutional deep belief networks,Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning,0.112
+2008-2011,4,Learning large-margin halfspaces with more malicious noise,Learning Halfspaces with the Zero-One Loss: Time-Accuracy Tradeoffs,0.175
+2008-2011,4,Learning large-margin halfspaces with more malicious noise,Learning as MAP Inference in Discrete Graphical Models,1.061
+2011-2014,5,Learning large-margin halfspaces with more malicious noise,Learning Halfspaces with the Zero-One Loss: Time-Accuracy Tradeoffs,0.925
+2011-2014,5,Learning large-margin halfspaces with more malicious noise,Learning as MAP Inference in Discrete Graphical Models,0.1
+1987-1990,6,Handwritten Digit Recognition with a Back-Propagation Network,Generalized Learning Vector Quantization,5.907
+1987-1990,6,Handwritten Digit Recognition with a Back-Propagation Network,Simulation of the Neocognitron on a CCD Parallel Processing Architecture,0.702
+1987-1990,6,Handwritten Digit Recognition with a Back-Propagation Network,CCD Neural Network Processors for Pattern Recognition,0.195
+1987-1990,6,Handwritten Digit Recognition with a Back-Propagation Network,Image Segmentation with Networks of Variable Scales,0.15
+1987-1990,6,Handwritten Digit Recognition with a Back-Propagation Network,Improving Performance in Neural Networks Using a Boosting Algorithm,0.2
+2005-2008,7,Kernel Measures of Conditional Dependence,Statistical analysis of coupled time series with Kernel Cross-Spectral Density operators.,0
+2011-2014,8,Fast Determinantal Point Process Sampling with Application to Clustering,Expectation-Maximization for Learning Determinantal Point Processes,62.7
+2005-2008,9,Colored Maximum Variance Unfolding,Fast Graph Laplacian Regularized Kernel Learning via Semidefinite?Quadratic?Linear Programming,8.2
+2011-2014,10,Bayesian nonparametric models for ranked data,Bayesian nonparametric models for bipartite graphs,6.8
+1999-2002,11,A Natural Policy Gradient,Biasing Approximate Dynamic Programming with a Lower Discount Factor,0.5
+1999-2002,11,A Natural Policy Gradient,A Unifying Perspective of Parametric Policy Search Methods for Markov Decision Processes,1.5
+1993-1996,12,Extracting Tree-Structured Representations of Trained Networks,Projection Retrieval for Classification,0.2
+2011-2014,13,Trading Computation for Communication: Distributed Stochastic Dual Coordinate Ascent,Communication-Efficient Distributed Dual Coordinate Ascent,4.9
+2005-2008,0,Multi-task Gaussian Process Prediction,Multi-task Gaussian Process Learning of Robot Inverse Dynamics,0.4
+2005-2008,0,Multi-task Gaussian Process Prediction,Fast Multivariate Spatio-temporal Analysis via Low Rank Tensor Learning,0
+2008-2011,1,Nonlinear Learning using Local Coordinate Coding,Learning Anchor Planes for Classification,0.876
+2008-2011,1,Nonlinear Learning using Local Coordinate Coding,Generalized Lasso based Approximation of Sparse Coding for Visual Recognition,0.078
+2008-2011,2,Submanifold density estimation,Learning Probability Measures with respect to Optimal Transport Metrics,0.241
+2008-2011,3,Variational Inference for the Nested Chinese Restaurant Process,Online Learning of Nonparametric Mixture Models via Sequential Variational Approximation,6.912
+2011-2014,4,Learning visual motion in recurrent neural networks,A Recurrent Latent Variable Model for Sequential Data,2.037
+2008-2011,5,t-logistic regression,t-divergence Based Approximate Inference,6.9
+2008-2011,5,t-logistic regression,Distributionally Robust Logistic Regression,0
+2008-2011,5,t-logistic regression,Learning with Symmetric Label Noise: The Importance of Being Unhinged,0
+2005-2008,6,The Price of Bandit Information for Online Optimization,Multi-armed bandits on implicit metric spaces,0
+2008-2011,7,Multi-Label Prediction via Compressed Sensing,On the Optimality of Classifier Chain for Multi-label Classification,0.126
+2002-2005,8,Interpolating between types and tokens by estimating power-law generators,Indian Buffet Processes with Power-law Behavior,0.245
+2005-2008,9,Interpolating between types and tokens by estimating power-law generators,Indian Buffet Processes with Power-law Behavior,0.291
+1993-1996,10,Adaptive Access Control Applied to Ethernet Data,Optimizing Admission Control while Ensuring Quality of Service in Multimedia Networks via Reinforcement Learning,0.251
+1996-1999,11,Adaptive Access Control Applied to Ethernet Data,Optimizing Admission Control while Ensuring Quality of Service in Multimedia Networks via Reinforcement Learning,0.154
+2002-2005,12,Distance Metric Learning for Large Margin Nearest Neighbor Classification,Similarity Component Analysis,0.582
+2005-2008,13,Distance Metric Learning for Large Margin Nearest Neighbor Classification,Similarity Component Analysis,0.491
+2008-2011,0,Practical Variational Inference for Neural Networks,Affine Independent Variational Inference,0.297
+2011-2014,1,Practical Variational Inference for Neural Networks,Affine Independent Variational Inference,1.867
+1987-1990,2,Fast Learning in Multi-Resolution Hierarchies,The Cascade-Correlation Learning Architecture,7.795
+1987-1990,2,Fast Learning in Multi-Resolution Hierarchies,Leaning by Combining Memorization and Gradient Descent,0.158
+1987-1990,2,Fast Learning in Multi-Resolution Hierarchies,Neural Control for Rolling Mills: Incorporating Domain Theories to Overcome Data Deficiency,0.105
+2014-2017,3,A Nonconvex Optimization Framework for Low Rank Matrix Estimation,A Non-convex One-Pass Framework for Generalized Factorization Machine and Rank-One Matrix Sensing,0.133
+2011-2014,4,Deep Neural Networks Segment Neuronal Membranes in Electron Microscopy Images,Deep Networks with Internal Selective Attention through Feedback Connections,0.236
+1987-1990,5,A competitive modular connectionist architecture,Evaluation of Adaptive Mixtures of Competing Experts,0.299
+1987-1990,5,A competitive modular connectionist architecture,Recognition of Manipulated Objects by Motor Learning,0.1
+1987-1990,5,A competitive modular connectionist architecture,Mixtures of Controllers for Jump Linear and Non-Linear Plants,0.394
+1990-1993,6,A competitive modular connectionist architecture,Evaluation of Adaptive Mixtures of Competing Experts,0.198
+1990-1993,6,A competitive modular connectionist architecture,Recognition of Manipulated Objects by Motor Learning,1.216
+1990-1993,6,A competitive modular connectionist architecture,Mixtures of Controllers for Jump Linear and Non-Linear Plants,0.497
+2011-2014,7,Constrained convex minimization via model-based excessive gap,A Universal Primal-Dual Convex Optimization Framework,0.068
+2014-2017,8,Constrained convex minimization via model-based excessive gap,A Universal Primal-Dual Convex Optimization Framework,0.071
+2005-2008,9,Multiple-Instance Active Learning,Multi-Level Active Prediction of Useful Image Annotations for Recognition,0.071
+1996-1999,10,"Orientation, Scale, and Discontinuity as Emergent Properties of Illusory Contour Shape",A Rotation and Translation Invariant Discrete Saliency Network,0.705
+2005-2008,11,Characterizing response behavior in multisensory perception with conflicting cues,A Framework for Testing Identifiability of Bayesian Models of Perception,0.288
+2008-2011,12,Characterizing response behavior in multisensory perception with conflicting cues,A Framework for Testing Identifiability of Bayesian Models of Perception,0.182
+1999-2002,13,The Infinite Hidden Markov Model,Analysis of Brain States from Multi-Region LFP Time-Series,0.156
+1999-2002,0,Classifying Single Trial EEG: Towards Brain Computer Interfacing,Combining Features for BCI,0.208
+1999-2002,0,Classifying Single Trial EEG: Towards Brain Computer Interfacing,Increase Information Transfer Rates in BCI by CSP Extension to Multi-class,0.056
+1999-2002,0,Classifying Single Trial EEG: Towards Brain Computer Interfacing,Optimizing spatio-temporal filters for improving Brain-Computer Interfacing,0.16
+1999-2002,0,Classifying Single Trial EEG: Towards Brain Computer Interfacing,Reducing Calibration Time For Brain-Computer Interfaces: A Clustering Approach,0.062
+1999-2002,0,Classifying Single Trial EEG: Towards Brain Computer Interfacing,Invariant Common Spatial Patterns: Alleviating Nonstationarities in Brain-Computer Interfacing,1.159
+2002-2005,1,Extending Q-Learning to General Adaptive Multi-Agent Systems,New Criteria and a New Algorithm for Learning in Multi-Agent Systems,0.5
+1990-1993,2,Statistics of Natural Images: Scaling in the Woods,A Phase Space Approach to Minimax Entropy Learning and the Minutemax Approximations,1.216
+1993-1996,3,Statistics of Natural Images: Scaling in the Woods,A Phase Space Approach to Minimax Entropy Learning and the Minutemax Approximations,0.259
+2008-2011,4,Batch Bayesian Optimization via Simulation Matching,Parallel Predictive Entropy Search for Batch Global Optimization of Expensive Objective Functions,0.717
+1999-2002,5,Adaptive Scaling for Feature Selection in SVMs,From Lasso regression to Feature vector machine,0.1
+2002-2005,6,Adaptive Scaling for Feature Selection in SVMs,From Lasso regression to Feature vector machine,4.035
+2011-2014,7,Sparse Prediction with the ,A New Convex Relaxation for Tensor Completion,0.12
+2011-2014,7,Sparse Prediction with the ,High Dimensional Structured Superposition Models,0.425
+2011-2014,8,From MAP to Marginals: Variational Inference in Bayesian Submodular Models,Variational Inference in Mixed Probabilistic Submodular Models,0.2
+2014-2017,9,From MAP to Marginals: Variational Inference in Bayesian Submodular Models,Variational Inference in Mixed Probabilistic Submodular Models,8
+2008-2011,10,Distributed Delayed Stochastic Optimization,Communication-Efficient Distributed Dual Coordinate Ascent,0.3
+2011-2014,11,Distributed Delayed Stochastic Optimization,Communication-Efficient Distributed Dual Coordinate Ascent,0.1
+1993-1996,12,Monotonicity Hints,Monotonic Networks,26.9
+1996-1999,13,Monotonicity Hints,Monotonic Networks,1.5
+1996-1999,0,Risk Sensitive Reinforcement Learning,Nonparametric Representation of Policies and Value Functions: A Trajectory-Based Approach,1.2
+1996-1999,0,Risk Sensitive Reinforcement Learning,Minimax Differential Dynamic Programming: An Application to Robust Biped Walking,3.4
+2005-2008,1,Regret Minimization in Games with Incomplete Information,Strategy Grafting in Extensive Games,31.3
+1987-1990,2,Associative Learning via Inhibitory Search,Fast Learning with Predictive Forward Models,23.5
+2002-2005,3,Kernels for Structured Natural Language Data,Sequence and Tree Kernels with Statistical Feature Mining,2.1
+2005-2008,4,Sparse deep belief net model for visual area V2,"Slow, Decorrelated Features for Pretraining Complex Cell-like Networks",3.876
+2005-2008,4,Sparse deep belief net model for visual area V2,Gated Softmax Classification,0.812
+2005-2008,4,Sparse deep belief net model for visual area V2,Hallucinations in Charles Bonnet Syndrome Induced by Homeostasis: a Deep Boltzmann Machine Model,2.743
+2005-2008,4,Sparse deep belief net model for visual area V2,Unsupervised learning models of primary cortical receptive fields and receptive field plasticity,1.011
+2005-2008,4,Sparse deep belief net model for visual area V2,Shallow vs. Deep Sum-Product Networks,0.061
+2005-2008,4,Sparse deep belief net model for visual area V2,ICA with Reconstruction Cost for Efficient Overcomplete Feature Learning,0.104
+2005-2008,4,Sparse deep belief net model for visual area V2,Cardinality Restricted Boltzmann Machines,1.011
+2005-2008,4,Sparse deep belief net model for visual area V2,Image Denoising and Inpainting with Deep Neural Networks,0.211
+2005-2008,4,Sparse deep belief net model for visual area V2,Learning to Align from Scratch,1.202
+2005-2008,4,Sparse deep belief net model for visual area V2,Adaptive Multi-Column Deep Neural Networks with Application to Robust Image Denoising,0.106
+2005-2008,4,Sparse deep belief net model for visual area V2,Top-Down Regularization of Deep Belief Networks,0.155
+1990-1993,5,Bayesian Model Comparison and Backprop Nets,Assessing and Improving Neural Network Predictions by the Bootstrap Algorithm,0.065
+2005-2008,6,Random Features for Large-Scale Kernel Machines,Correlated random features for fast semi-supervised learning,0.377
+2005-2008,6,Random Features for Large-Scale Kernel Machines,Parallel Predictive Entropy Search for Batch Global Optimization of Expensive Objective Functions,1.732
+2005-2008,6,Random Features for Large-Scale Kernel Machines,Less is More: Nystr?m Computational Regularization,2.184
+2002-2005,7,Transfer learning for text classification,Flexible Transfer Learning under Support and Model Shift,0.057
+2005-2008,8,Transfer learning for text classification,Flexible Transfer Learning under Support and Model Shift,0.057
+1987-1990,9,Constrained Differential Optimization,Analog Circuits for Constrained Optimization,0.1
+2011-2014,10,RNADE: The real-valued neural autoregressive density-estimator,Factoring Variations in Natural Images with Deep Gaussian Mixture Models,1.327
+2011-2014,10,RNADE: The real-valued neural autoregressive density-estimator,f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization,0.079
+2011-2014,11,High-Dimensional Gaussian Process Bandits,Gaussian Process Bandit Optimisation with Multi-fidelity Evaluations,0.096
+2005-2008,12,Privacy-preserving logistic regression,Probabilistic Inference and Differential Privacy,0.09
+2005-2008,12,Privacy-preserving logistic regression,Multiparty Differential Privacy via Aggregation of Locally Trained Classifiers,0.053
+2005-2008,12,Privacy-preserving logistic regression,Differentially Private M-Estimators,0.074
+2005-2008,12,Privacy-preserving logistic regression,(Nearly) Optimal Algorithms for Private Online Learning in Full-information and Bandit Settings,0.991
+2005-2008,12,Privacy-preserving logistic regression,A Safe Screening Rule for Sparse Logistic Regression,0.112
+2005-2008,12,Privacy-preserving logistic regression,Extremal Mechanisms for Local Differential Privacy,0.219
+2005-2008,12,Privacy-preserving logistic regression,Nearly Optimal Private LASSO,0.077
+2008-2011,13,Privacy-preserving logistic regression,Probabilistic Inference and Differential Privacy,0.174
+2008-2011,13,Privacy-preserving logistic regression,Multiparty Differential Privacy via Aggregation of Locally Trained Classifiers,0.081
+2008-2011,13,Privacy-preserving logistic regression,Differentially Private M-Estimators,0.082
+2008-2011,13,Privacy-preserving logistic regression,(Nearly) Optimal Algorithms for Private Online Learning in Full-information and Bandit Settings,0.153
+2008-2011,13,Privacy-preserving logistic regression,A Safe Screening Rule for Sparse Logistic Regression,0.849
+2008-2011,13,Privacy-preserving logistic regression,Extremal Mechanisms for Local Differential Privacy,0.061
+2008-2011,13,Privacy-preserving logistic regression,Nearly Optimal Private LASSO,0.054
+2008-2011,1,Structured output regression for detection with partial truncation,A Discriminative Latent Model of Image Region and Object Tag Correspondence,0
+2008-2011,1,Structured output regression for detection with partial truncation,Simultaneous Object Detection and Ranking with Weak Supervision,0.38
+2008-2011,1,Structured output regression for detection with partial truncation,Beyond Actions: Discriminative Models for Contextual Group Activities,0.893
+2008-2011,1,Structured output regression for detection with partial truncation,Max-Margin Structured Output Regression for Spatio-Temporal Action Localization,0.083
+2005-2008,2,Balanced Graph Matching,An Integer Projected Fixed Point Method for Graph Matching and MAP Inference,54.561
+2002-2005,3,Message Errors in Belief Propagation,Walk-Sum Interpretation and Analysis of Gaussian Belief Propagation,0.052
+2002-2005,4,A Machine Learning Approach to Conjoint Analysis,Global Analytic Solution for Variational Bayesian Matrix Factorization,0.105
+2014-2017,5,Learning structured densities via infinite dimensional exponential families,Learning Additive Exponential Family Graphical Models via ,83.099
+2014-2017,5,Learning structured densities via infinite dimensional exponential families,Statistical Inference for Pairwise Graphical Models Using Score Matching,2.075
+2002-2005,6,Nonparametric inference of prior probabilities from Bayes-optimal behavior,Optimal models of sound localization by barn owls,0.059
+2005-2008,7,Nonparametric inference of prior probabilities from Bayes-optimal behavior,Optimal models of sound localization by barn owls,0.146
+1996-1999,8,Actor-Critic Algorithms,Variance Reduction Techniques for Gradient Estimates in Reinforcement Learning,0.146
+1996-1999,8,Actor-Critic Algorithms,A Unifying Perspective of Parametric Policy Search Methods for Markov Decision Processes,61.661
+1996-1999,8,Actor-Critic Algorithms,Actor-Critic Algorithms for Risk-Sensitive MDPs,0.175
+1999-2002,9,Actor-Critic Algorithms,Variance Reduction Techniques for Gradient Estimates in Reinforcement Learning,25.456
+1999-2002,9,Actor-Critic Algorithms,A Unifying Perspective of Parametric Policy Search Methods for Markov Decision Processes,29.19
+1999-2002,9,Actor-Critic Algorithms,Actor-Critic Algorithms for Risk-Sensitive MDPs,2.629
+1999-2002,10,Unsupervised Learning of Human Motion Models,An Improved Scheme for Detection and Labelling in Johansson Displays,676.467
+2008-2011,11,Structured Determinantal Point Processes,Near-Optimal MAP Inference for Determinantal Point Processes,4.317
+2008-2011,11,Structured Determinantal Point Processes,Expectation-Maximization for Learning Determinantal Point Processes,2.495
+2005-2008,12,Learning Visual Attributes,Structural epitome: a way to summarize one?s visual experience,3.026
+2011-2014,13,A Kernel Test for Three-Variable Interactions,Cross-Domain Matching for Bag-of-Words Data via Kernel Embeddings of Latent Distributions,143.547
+2011-2014,0,Iterative ranking from pair-wise comparisons,Generalized Method-of-Moments for Rank Aggregation,0.16
+2011-2014,0,Iterative ranking from pair-wise comparisons,Learning Mixed Multinomial Logit Model from Ordinal Data,3.339
+2011-2014,0,Iterative ranking from pair-wise comparisons,Fast Bidirectional Probability Estimation in Markov Models,0.196
+2011-2014,0,Iterative ranking from pair-wise comparisons,Collaboratively Learning Preferences from Ordinal Data,6.953
+2011-2014,0,Iterative ranking from pair-wise comparisons,Copeland Dueling Bandits,3.649
+2008-2011,1,Trace Lasso: a trace norm regularization for correlated designs,Selecting Diverse Features via Spectral Regularization,0.59
+2008-2011,1,Trace Lasso: a trace norm regularization for correlated designs,Local Linear Convergence of Forward--Backward under Partial Smoothness,20.844
+2011-2014,2,Trace Lasso: a trace norm regularization for correlated designs,Selecting Diverse Features via Spectral Regularization,6.95
+2011-2014,2,Trace Lasso: a trace norm regularization for correlated designs,Local Linear Convergence of Forward--Backward under Partial Smoothness,21.257
+2008-2011,3,On fast approximate submodular minimization,Reflection methods for user-friendly submodular optimization,3.933
+2008-2011,3,On fast approximate submodular minimization,Provable Submodular Minimization using Wolfe's Algorithm,0.322
+2008-2011,3,On fast approximate submodular minimization,From MAP to Marginals: Variational Inference in Bayesian Submodular Models,14.103
+2011-2014,4,On fast approximate submodular minimization,Reflection methods for user-friendly submodular optimization,2.395
+2011-2014,4,On fast approximate submodular minimization,Provable Submodular Minimization using Wolfe's Algorithm,228.9
+2011-2014,4,On fast approximate submodular minimization,From MAP to Marginals: Variational Inference in Bayesian Submodular Models,5.4
+1999-2002,5,Cluster Kernels for Semi-Supervised Learning,Hyperparameter Learning for Graph Based Semi-supervised Learning Algorithms,0
+1999-2002,5,Cluster Kernels for Semi-Supervised Learning,Semi-supervised Eigenvectors for Locally-biased Learning,194.019
+2002-2005,6,Cluster Kernels for Semi-Supervised Learning,Hyperparameter Learning for Graph Based Semi-supervised Learning Algorithms,4.082
+2002-2005,6,Cluster Kernels for Semi-Supervised Learning,Semi-supervised Eigenvectors for Locally-biased Learning,8.985
+2008-2011,7,Fractionally Predictive Spiking Neurons,Efficient Spike-Coding with Multiplicative Adaptation in a Spike Response Model,0.215
+1993-1996,8,Learning Many Related Tasks at the Same Time with Backpropagation,Learning Model Bias,4.4
+2005-2008,9,Inferring rankings under constrained sensing,Riffled Independence for Ranked Data,0.424
+2005-2008,9,Inferring rankings under constrained sensing,A Data-Driven Approach to Modeling Choice,56.194
+2005-2008,9,Inferring rankings under constrained sensing,Minimax-optimal Inference from Partial Rankings,54.735
+2008-2011,10,Inferring rankings under constrained sensing,Riffled Independence for Ranked Data,5.87
+2008-2011,10,Inferring rankings under constrained sensing,A Data-Driven Approach to Modeling Choice,10.513
+2008-2011,10,Inferring rankings under constrained sensing,Minimax-optimal Inference from Partial Rankings,20.811
+2011-2014,11,The Noisy Power Method: A Meta Algorithm with Applications,A Non-convex One-Pass Framework for Generalized Factorization Machine and Rank-One Matrix Sensing,0.225
+2014-2017,12,The Noisy Power Method: A Meta Algorithm with Applications,A Non-convex One-Pass Framework for Generalized Factorization Machine and Rank-One Matrix Sensing,0.134
+2008-2011,13,The Fast Convergence of Boosting,Sparse Random Feature Algorithm as Coordinate Descent in Hilbert Space,1.126
+2011-2014,0,The Fast Convergence of Boosting,Sparse Random Feature Algorithm as Coordinate Descent in Hilbert Space,5.8
+2014-2017,1,Sampling from Probabilistic Submodular Models,Variational Inference in Mixed Probabilistic Submodular Models,0.672
+1999-2002,2,Learning Segmentation by Random Walks,Self-Tuning Spectral Clustering,3.552
+2008-2011,3,Monte-Carlo Planning in Large POMDPs,Variance Reduction in Monte-Carlo Tree Search,273.401
+2008-2011,3,Monte-Carlo Planning in Large POMDPs,Adaptive Stochastic Optimization: From Sets to Paths,3.761
+1996-1999,4,Perceptual Organization Based on Temporal Dynamics,Logic and MRF Circuitry for Labeling Occluding and Thinline Visual Contours,264.336
+1999-2002,5,Perceptual Organization Based on Temporal Dynamics,Logic and MRF Circuitry for Labeling Occluding and Thinline Visual Contours,2.195
+2005-2008,6,The Recurrent Temporal Restricted Boltzmann Machine,Sequence learning with hidden units in spiking neural networks,281.418
+2008-2011,7,The Recurrent Temporal Restricted Boltzmann Machine,Sequence learning with hidden units in spiking neural networks,0.399
+1999-2002,8,Spectral Relaxation for K-means Clustering,Size Regularized Cut for Data Clustering,75.119
+2008-2011,9,Inferring spike-timing-dependent plasticity from spike train data,A framework for studying synaptic plasticity with neural spike train data,0.61
+2011-2014,10,Inferring spike-timing-dependent plasticity from spike train data,A framework for studying synaptic plasticity with neural spike train data,0.767
+2005-2008,11,Influence of graph construction on graph-based clustering measures,Transfer Learning in a Transductive Setting,28.2
+2008-2011,12,Influence of graph construction on graph-based clustering measures,Transfer Learning in a Transductive Setting,72.6
+2008-2011,13,k-NN Regression Adapts to Local Intrinsic Dimension,Gradient Weights help Nonparametric Regressors,144.1
+2008-2011,13,k-NN Regression Adapts to Local Intrinsic Dimension,Regression-tree Tuning in a Streaming Setting,0
+2008-2011,13,k-NN Regression Adapts to Local Intrinsic Dimension,Adaptivity to Local Smoothness and Dimension in Kernel Regression,1.4
+2011-2014,0,k-NN Regression Adapts to Local Intrinsic Dimension,Gradient Weights help Nonparametric Regressors,6.2
+2011-2014,0,k-NN Regression Adapts to Local Intrinsic Dimension,Regression-tree Tuning in a Streaming Setting,0
+2011-2014,0,k-NN Regression Adapts to Local Intrinsic Dimension,Adaptivity to Local Smoothness and Dimension in Kernel Regression,0.6
+1987-1990,1,Meiosis Networks,The Tempo 2 Algorithm: Adjusting Time-Delays By Supervised Learning,3.2
+1987-1990,1,Meiosis Networks,Constructive Learning Using Internal Representation Conflicts,0
+2008-2011,2,On U-processes and clustering performance,Extending Gossip Algorithms to Distributed Estimation of U-statistics,0.115
+2008-2011,2,On U-processes and clustering performance,SGD Algorithms based on Incomplete U-statistics: Large-Scale Minimization of Empirical Risk,0.455
+2011-2014,3,On U-processes and clustering performance,Extending Gossip Algorithms to Distributed Estimation of U-statistics,0.373
+2011-2014,3,On U-processes and clustering performance,SGD Algorithms based on Incomplete U-statistics: Large-Scale Minimization of Empirical Risk,0.132
+2008-2011,4,Optimal learning rates for least squares SVMs using Gaussian kernels,A Stochastic Gradient Method with an Exponential Convergence _Rate for Finite Training Sets,0.051
+2011-2014,5,Optimal learning rates for least squares SVMs using Gaussian kernels,A Stochastic Gradient Method with an Exponential Convergence _Rate for Finite Training Sets,0.947
+1987-1990,6,How Neural Nets Work,Implications of Recursive Distributed Representations,2.496
+1990-1993,7,The Power of Amnesia,The Infinite Markov Model,0
+1993-1996,8,The Power of Amnesia,The Infinite Markov Model,0
+1999-2002,9,Combining Features for BCI,Increase Information Transfer Rates in BCI by CSP Extension to Multi-class,0
+1999-2002,9,Combining Features for BCI,Optimizing spatio-temporal filters for improving Brain-Computer Interfacing,0
+1999-2002,9,Combining Features for BCI,Reducing Calibration Time For Brain-Computer Interfaces: A Clustering Approach,0.15
+2002-2005,10,Combining Features for BCI,Increase Information Transfer Rates in BCI by CSP Extension to Multi-class,0.15
+2002-2005,10,Combining Features for BCI,Optimizing spatio-temporal filters for improving Brain-Computer Interfacing,0.265
+2002-2005,10,Combining Features for BCI,Reducing Calibration Time For Brain-Computer Interfaces: A Clustering Approach,0.569
+2005-2008,11,Non-rigid point set registration: Coherent Point Drift,Functional Geometry Alignment and Localization of Brain Areas,0.144
+2011-2014,12,Practical Bayesian Optimization of Machine Learning Algorithms,Preconditioned Spectral Descent for Deep Learning,0.194
+2011-2014,12,Practical Bayesian Optimization of Machine Learning Algorithms,Parallel Predictive Entropy Search for Batch Global Optimization of Expensive Objective Functions,0.201
+2011-2014,12,Practical Bayesian Optimization of Machine Learning Algorithms,Regularization Path of Cross-Validation Error Lower Bounds,0.712
+2011-2014,12,Practical Bayesian Optimization of Machine Learning Algorithms,Gaussian Process Bandit Optimisation with Multi-fidelity Evaluations,30.314
+1990-1993,13,Bayesian Self-Organization,JPMAX: Learning to Recognize Moving Objects as a Model-fitting Problem,0.167
+1993-1996,0,Bayesian Self-Organization,JPMAX: Learning to Recognize Moving Objects as a Model-fitting Problem,0.138
+2002-2005,1,Discriminative Fields for Modeling Spatial Dependencies in Natural Images,A Primal-Dual Message-Passing Algorithm for Approximated Large Scale Structured Prediction,0.051
+1999-2002,2,Dynamic Bayesian Networks with Deterministic Latent Tables,Learning in Spiking Neural Assemblies,0
+2002-2005,3,Dynamic Bayesian Networks with Deterministic Latent Tables,Learning in Spiking Neural Assemblies,0
+2005-2008,4,Spectral Clustering with Perturbed Data,Noise Thresholds for Spectral Clustering,0.175
+2008-2011,5,Spectral Clustering with Perturbed Data,Noise Thresholds for Spectral Clustering,0.056
+2005-2008,6,"Uncertainty, phase and oscillatory hippocampal recall",Hippocampal Contributions to Control: The Third Way,0.189
+2005-2008,6,"Uncertainty, phase and oscillatory hippocampal recall",Two is better than one: distinct roles for familiarity and recollection in retrieving palimpsest memories,0.2
+2005-2008,6,"Uncertainty, phase and oscillatory hippocampal recall",Correlations strike back (again): the case of associative memory retrieval,9.727
+2005-2008,7,Policy Search for Motor Primitives in Robotics,A Unifying Perspective of Parametric Policy Search Methods for Markov Decision Processes,0.282
+2005-2008,7,Policy Search for Motor Primitives in Robotics,Probabilistic Movement Primitives,10.97
+2005-2008,7,Policy Search for Motor Primitives in Robotics,Model-Based Relative Entropy Stochastic Search,2.912
+2008-2011,8,Policy Search for Motor Primitives in Robotics,A Unifying Perspective of Parametric Policy Search Methods for Markov Decision Processes,0.059
+2008-2011,8,Policy Search for Motor Primitives in Robotics,Probabilistic Movement Primitives,0.068
+2008-2011,8,Policy Search for Motor Primitives in Robotics,Model-Based Relative Entropy Stochastic Search,0.056
+2005-2008,9,Greedy Layer-Wise Training of Deep Networks,Natural Image Denoising with Convolutional Networks,0.175
+2005-2008,9,Greedy Layer-Wise Training of Deep Networks,Deep Spatio-Temporal Architectures and Learning for Protein Structure Prediction,0.134
+2005-2008,10,Structured ranking learning using cumulative distribution networks,Exponential Family Graph Matching and Ranking,0.061
+2008-2011,11,Structured ranking learning using cumulative distribution networks,Exponential Family Graph Matching and Ranking,0.359
+2011-2014,12,Searching for objects driven by context,Learning Generative Models with Visual Attention,2.463
+2005-2008,13,High-Dimensional Graphical Model Selection Using ,Learning Networks of Stochastic Differential Equations,3.181
+2011-2014,0,A Neural Autoregressive Topic Model,An Autoencoder Approach to Learning Bilingual Word Representations,1.679
+2011-2014,1,Deep Neural Networks for Object Detection,Deep Joint Task Learning for Generic Object Extraction,0.242
+2002-2005,2,Maximum Margin Clustering,Q-Clustering,4.161
+2002-2005,2,Maximum Margin Clustering,Which Space Partitioning Tree to Use for Search?,0.156
+2008-2011,3,Double Q-learning,Speedy Q-Learning,0.397
+2008-2011,3,Double Q-learning,Learning values across many orders of magnitude,1.936
+2011-2014,4,Consistency of weighted majority votes,"Data Programming: Creating Large Training Sets, Quickly",3.458
+2014-2017,5,Consistency of weighted majority votes,"Data Programming: Creating Large Training Sets, Quickly",0.077
+2011-2014,6,A Geometric take on Metric Learning,Similarity Component Analysis,0.161
+2014-2017,7,Learning feed-forward one-shot learners,Combining Low-Density Separators with CNNs,2.965
+2011-2014,8,Exploiting easy data in online optimization,The Pareto Regret Frontier for Bandits,0.343
+2011-2014,8,Exploiting easy data in online optimization,Following the Leader and Fast Rates in Linear Prediction: Curved Constraint Sets and Other Regularities,0.097
+2011-2014,8,Exploiting easy data in online optimization,Combining Adversarial Guarantees and Stochastic Fast Rates in Online Learning,0.08
+2014-2017,9,Exploiting easy data in online optimization,The Pareto Regret Frontier for Bandits,2.055
+2014-2017,9,Exploiting easy data in online optimization,Following the Leader and Fast Rates in Linear Prediction: Curved Constraint Sets and Other Regularities,1.087
+2014-2017,9,Exploiting easy data in online optimization,Combining Adversarial Guarantees and Stochastic Fast Rates in Online Learning,0.803
+2002-2005,10,Analysis of a greedy active learning strategy,Active Learning for Anomaly and Rare-Category Detection,0.468
+2002-2005,10,Analysis of a greedy active learning strategy,Query by Committee Made Real,282.819
+2002-2005,10,Analysis of a greedy active learning strategy,Coarse sample complexity bounds for active learning,10.027
+2002-2005,10,Analysis of a greedy active learning strategy,Noisy Generalized Binary Search,0.474
+2002-2005,10,Analysis of a greedy active learning strategy,Multi-View Active Learning in the Non-Realizable Case,1.09
+2002-2005,10,Analysis of a greedy active learning strategy,Near-Optimal Bayesian Active Learning with Noisy Observations,0.2
+2002-2005,10,Analysis of a greedy active learning strategy,Extensions of Generalized Binary Search to Group Identification and Exponential Costs,0.344
+2002-2005,10,Analysis of a greedy active learning strategy,Adaptive Submodular Maximization in Bandit Setting,0.418
+2002-2005,10,Analysis of a greedy active learning strategy,Auditing: Active Learning with Outcome-Dependent Query Costs,0.374
+2002-2005,10,Analysis of a greedy active learning strategy,Beyond Disagreement-Based Agnostic Active Learning,1.507
+2002-2005,10,Analysis of a greedy active learning strategy,Budgeted stream-based active learning via adaptive submodular maximization,0.426
+2002-2005,10,Analysis of a greedy active learning strategy,Active Nearest-Neighbor Learning in Metric Spaces,0.526
+2008-2011,11,Structured sparse coding via lateral inhibition,Learning the Dependency Structure of Latent Factors,0.069
+2008-2011,11,Structured sparse coding via lateral inhibition,Extracting regions of interest from biological images with convolutional sparse block coding,0.057
+2011-2014,12,Structured sparse coding via lateral inhibition,Learning the Dependency Structure of Latent Factors,337.8
+2011-2014,12,Structured sparse coding via lateral inhibition,Extracting regions of interest from biological images with convolutional sparse block coding,7.1
+1999-2002,13,Learning with Multiple Labels,A Conditional Multinomial Mixture Model for Superset Label Learning,397
+2002-2005,0,Learning with Multiple Labels,A Conditional Multinomial Mixture Model for Superset Label Learning,0.103
+2014-2017,1,A Universal Catalyst for First-Order Optimization,Exploiting the Structure: Stochastic Gradient Methods Using Raw Clusters,0.673
+2002-2005,2,Approximate Policy Iteration with a Policy Language Bias,Approximate Dynamic Programming Finally Performs Well in the Game of Tetris,0.82
+2011-2014,3,Optimizing Instructional Policies,Optimal Teaching for Limited-Capacity Human Learners,4.426
+2005-2008,4,Phase transitions for high-dimensional joint support recovery,Group Sparse Coding,0.12
+2008-2011,5,Phase transitions for high-dimensional joint support recovery,Group Sparse Coding,0.123
+2011-2014,6,Learning word embeddings efficiently with noise-contrastive estimation,Efficient Exact Gradient Update for training Deep Networks with Very Large Sparse Targets,1.26
+2011-2014,6,Learning word embeddings efficiently with noise-contrastive estimation,Efficient Exact Gradient Update for training Deep Networks with Very Large Sparse Targets,0.323
+2011-2014,6,Learning word embeddings efficiently with noise-contrastive estimation,Exponential Family Embeddings,15.364
+2005-2008,7,Learning to Rank with Nonsmooth Cost Functions,Polynomial Semantic Indexing,1.305
+2011-2014,8,Delay Compensation with Dynamical Synapses,Spike Frequency Adaptation Implements Anticipative Tracking in Continuous Attractor Neural Networks,0.494
+2005-2008,9,Nonlinear causal discovery with additive noise models,Causal discovery in multiple models from different experiments,0.685
+2008-2011,10,Nonlinear causal discovery with additive noise models,Causal discovery in multiple models from different experiments,12.475
+2008-2011,11,Policy gradients in linearly-solvable MDPs,Variational Policy Search via Trajectory Optimization,0.208
+2011-2014,12,Sparse nonnegative deconvolution for compressive calcium imaging: algorithms and phase transitions,Sparse Space-Time Deconvolution for Calcium Image Analysis,1.679
+1996-1999,13,The Infinite Gaussian Mixture Model,Occam's Razor,19.577
+1996-1999,13,The Infinite Gaussian Mixture Model,Infinite Mixtures of Gaussian Process Experts,0.06
+1996-1999,13,The Infinite Gaussian Mixture Model,Copula Processes,104.4
+1996-1999,13,The Infinite Gaussian Mixture Model,Construction of Dependent Dirichlet Processes based on Poisson Processes,413.3
+1996-1999,13,The Infinite Gaussian Mixture Model,Coupling Nonparametric Mixtures via Latent Dirichlet Processes,40.3
+1996-1999,13,The Infinite Gaussian Mixture Model,Online Learning of Nonparametric Mixture Models via Sequential Variational Approximation,17.1
+1999-2002,0,The Infinite Gaussian Mixture Model,Occam's Razor,7.541
+1999-2002,0,The Infinite Gaussian Mixture Model,Infinite Mixtures of Gaussian Process Experts,3.39
+1999-2002,0,The Infinite Gaussian Mixture Model,Copula Processes,28.709
+1999-2002,0,The Infinite Gaussian Mixture Model,Construction of Dependent Dirichlet Processes based on Poisson Processes,0.648
+1999-2002,0,The Infinite Gaussian Mixture Model,Coupling Nonparametric Mixtures via Latent Dirichlet Processes,0.063
+1999-2002,0,The Infinite Gaussian Mixture Model,Online Learning of Nonparametric Mixture Models via Sequential Variational Approximation,0.124
+2011-2014,1,Large-scale L-BFGS using MapReduce,Fast Classification Rates for High-dimensional Gaussian Generative Models,0.361
+2011-2014,1,Large-scale L-BFGS using MapReduce,A Multi-Batch L-BFGS Method for Machine Learning,1.554
+2014-2017,2,Large-scale L-BFGS using MapReduce,Fast Classification Rates for High-dimensional Gaussian Generative Models,0.444
+2014-2017,2,Large-scale L-BFGS using MapReduce,A Multi-Batch L-BFGS Method for Machine Learning,0.234
+2002-2005,3,Learning in Silicon: Timing is Everything,An in-silico Neural Model of Dynamic Routing through Neuronal Coherence,24.105
+2005-2008,4,Learning in Silicon: Timing is Everything,An in-silico Neural Model of Dynamic Routing through Neuronal Coherence,13.553
+2008-2011,5,Similarity-based Learning via Data Driven Embeddings,Supervised Learning with Similarity Functions,1.041
+2011-2014,6,Similarity-based Learning via Data Driven Embeddings,Supervised Learning with Similarity Functions,0.29
+1993-1996,7,Generalization in Reinforcement Learning: Safely Approximating the Value Function,Convergent Temporal-Difference Learning with Arbitrary Smooth Function Approximation,0.335
+1987-1990,8,Chaitin-Kolmogorov Complexity and Generalization in Neural Networks,Assessing and Improving Neural Network Predictions by the Bootstrap Algorithm,0.244
+1990-1993,9,Chaitin-Kolmogorov Complexity and Generalization in Neural Networks,Assessing and Improving Neural Network Predictions by the Bootstrap Algorithm,24
+1999-2002,10,Exponential Family PCA for Belief Compression in POMDPs,Timely Object Recognition,206
+2002-2005,11,Exponential Family PCA for Belief Compression in POMDPs,Timely Object Recognition,4
+2011-2014,12,Rational inference of relative preferences,Magnitude-sensitive preference formation`,22.4
+2011-2014,12,Rational inference of relative preferences,A Theory of Decision Making Under Dynamic Context,0.3
+2011-2014,12,Rational inference of relative preferences,Human Decision-Making under Limited Time,6
+1990-1993,13,Improving the Performance of Radial Basis Function Networks by Learning Center Locations,Boosting the Performance of RBF Networks with Dynamic Decay Adjustment,6.47
+1993-1996,0,Bayesian Query Construction for Neural Network Models,Minimizing Statistical Bias with Queries,5.864
+1999-2002,1,Algorithms for Non-negative Matrix Factorization,Simplicial Mixtures of Markov Chains: Distributed Modelling of Dynamic User Profiles,0.88
+1999-2002,1,Algorithms for Non-negative Matrix Factorization,Sparse Overcomplete Latent Variable Decomposition of Counts Data,0.15
+1999-2002,1,Algorithms for Non-negative Matrix Factorization,Capturing Semantically Meaningful Word Dependencies with an Admixture of Poisson MRFs,0.296
+1996-1999,2,Nonlinear Markov Networks for Continuous Variables,Mixtures of Gaussian Processes,0.254
+2005-2008,3,Map-Reduce for Machine Learning on Multicore,Large-scale L-BFGS using MapReduce,0
+2005-2008,4,MAS: a multiplicative approximation scheme for probabilistic inference,Approximate Inference by Compilation to Arithmetic Circuits,0
+2008-2011,5,MAS: a multiplicative approximation scheme for probabilistic inference,Approximate Inference by Compilation to Arithmetic Circuits,0
+2011-2014,6,Near-Optimal MAP Inference for Determinantal Point Processes,From MAP to Marginals: Variational Inference in Bayesian Submodular Models,0.074
+2011-2014,6,Near-Optimal MAP Inference for Determinantal Point Processes,Expectation-Maximization for Learning Determinantal Point Processes,0.476
+1996-1999,7,Learning from Dyadic Data,Kernel Expansions with Unlabeled Examples,0.452
+2002-2005,8,Two-Dimensional Linear Discriminant Analysis,Tensor Subspace Analysis,0.409
+1987-1990,9,Implications of Recursive Distributed Representations,Higher Order Recurrent Networks and Grammatical Inference,0.053
+1987-1990,9,Implications of Recursive Distributed Representations,Language Induction by Phase Transition in Dynamical Recognizers,0.445
+2002-2005,10,Modeling User Rating Profiles For Collaborative Filtering,Unsupervised Feature Selection for Accurate Recommendation of High-Dimensional Image Data,0.107
+1999-2002,11,Robust Reinforcement Learning,Nonparametric Representation of Policies and Value Functions: A Trajectory-Based Approach,0.159
+1999-2002,11,Robust Reinforcement Learning,Minimax Differential Dynamic Programming: An Application to Robust Biped Walking,0.664
+2002-2005,12,Multiple Instance Boosting for Object Detection,MCBoost: Multiple Classifier Boosting for Perceptual Co-clustering of Images and Visual Features,0.158
+2002-2005,12,Multiple Instance Boosting for Object Detection,Multi-Level Active Prediction of Useful Image Annotations for Recognition,0.129
+2005-2008,13,Multiple Instance Boosting for Object Detection,MCBoost: Multiple Classifier Boosting for Perceptual Co-clustering of Images and Visual Features,0.052
+2005-2008,13,Multiple Instance Boosting for Object Detection,Multi-Level Active Prediction of Useful Image Annotations for Recognition,0.26
+2008-2011,0,Improved Algorithms for Linear Stochastic Bandits,Combinatorial semi-bandit with known covariance,12.147
+2011-2014,1,Improved Algorithms for Linear Stochastic Bandits,Combinatorial semi-bandit with known covariance,0.102
+1999-2002,2,Bayesian Monte Carlo,Bayesian Policy Gradient Algorithms,2.919
+1999-2002,2,Bayesian Monte Carlo,Active Learning of Model Evidence Using Bayesian Quadrature,0.612
+1999-2002,2,Bayesian Monte Carlo,Sampling for Inference in Probabilistic Models with Fast Bayesian Quadrature,0.156
+1999-2002,2,Bayesian Monte Carlo,Frank-Wolfe Bayesian Quadrature: Probabilistic Integration with Theoretical Guarantees,0.351
+2002-2005,3,Bayesian Monte Carlo,Bayesian Policy Gradient Algorithms,0.078
+2002-2005,3,Bayesian Monte Carlo,Active Learning of Model Evidence Using Bayesian Quadrature,1.854
+2002-2005,3,Bayesian Monte Carlo,Sampling for Inference in Probabilistic Models with Fast Bayesian Quadrature,0.632
+2002-2005,3,Bayesian Monte Carlo,Frank-Wolfe Bayesian Quadrature: Probabilistic Integration with Theoretical Guarantees,0.793
+1996-1999,4,EM Algorithms for PCA and SPCA,Robust Kernel Principal Component Analysis,0.925
+2008-2011,5,A unified framework for high-dimensional analysis of ,Generalized Dantzig Selector: Application to the k-support norm,0.182
+2011-2014,6,How transferable are features in deep neural networks?,Unsupervised Domain Adaptation with Residual Transfer Networks,0.615
+2011-2014,6,How transferable are features in deep neural networks?,Combining Low-Density Separators with CNNs,0.115
+2014-2017,7,How transferable are features in deep neural networks?,Unsupervised Domain Adaptation with Residual Transfer Networks,0.233
+2014-2017,7,How transferable are features in deep neural networks?,Combining Low-Density Separators with CNNs,0.549
+2008-2011,8,Identifying graph-structured activation patterns in networks,"Total Variation Classes Beyond 1d: Minimax Rates, and the Limitations of Linear Smoothers",0.101
+2008-2011,9,Im2Text: Describing Images Using 1 Million Captioned Photographs,Expressing an Image Stream with a Sequence of Natural Sentences,0.082
+2011-2014,10,Im2Text: Describing Images Using 1 Million Captioned Photographs,Expressing an Image Stream with a Sequence of Natural Sentences,0.357
+2011-2014,11,Estimation with Norm Regularization,Beyond Sub-Gaussian Measurements: High-Dimensional Structured Estimation with Sub-Exponential Designs,0.288
+2011-2014,11,Estimation with Norm Regularization,High Dimensional Structured Superposition Models,0.137
+2014-2017,12,Estimation with Norm Regularization,Beyond Sub-Gaussian Measurements: High-Dimensional Structured Estimation with Sub-Exponential Designs,0.215
+2014-2017,12,Estimation with Norm Regularization,High Dimensional Structured Superposition Models,3.292
+1999-2002,13,The Unified Propagation and Scaling Algorithm,The g Factor: Relating Distributions on Features to Distributions on Images,0.084
+1999-2002,0,Feature Selection by Maximum Marginal Diversity,Discriminant Saliency for Visual Recognition from Cluttered Scenes,0.209
+2002-2005,1,Feature Selection by Maximum Marginal Diversity,Discriminant Saliency for Visual Recognition from Cluttered Scenes,0.266
+2008-2011,2,Slow Learners are Fast,Delay-Tolerant Algorithms for Asynchronous Distributed Online Learning,0.536
+2011-2014,3,Tight convex relaxations for sparse matrix factorization,Sparse PCA via Bipartite Matchings,0.209
+2011-2014,3,Tight convex relaxations for sparse matrix factorization,Unified View of Matrix Completion under General Structural Constraints,0.181
+2014-2017,4,Tight convex relaxations for sparse matrix factorization,Sparse PCA via Bipartite Matchings,0.068
+2014-2017,4,Tight convex relaxations for sparse matrix factorization,Unified View of Matrix Completion under General Structural Constraints,0.063
+2014-2017,5,Neural Adaptive Sequential Monte Carlo,Neurally-Guided Procedural Models: Amortized Inference for Procedural Graphics Programs using Neural Networks,0.47
+2014-2017,5,Neural Adaptive Sequential Monte Carlo,Neurally-Guided Procedural Models: Amortized Inference for Procedural Graphics Programs using Neural Networks,1.792
+2014-2017,6,Convergence rates of sub-sampled Newton methods,Newton-Stein Method: A Second Order Method for GLMs via Stein's Lemma,9.463
+2014-2017,6,Convergence rates of sub-sampled Newton methods,Sub-sampled Newton Methods with Non-uniform Sampling,0.379
+2014-2017,6,Convergence rates of sub-sampled Newton methods,Adaptive Newton Method for Empirical Risk Minimization to Statistical Accuracy,1.756
+2005-2008,7,Subordinate class recognition using relational object models,"Beyond Novelty Detection: Incongruent Events, when General and Specific Classifiers Disagree",0
+1996-1999,8,Learning Mixture Hierarchies,A MCMC Approach to Hierarchical Mixture Modelling,16.4
+1987-1990,9,Using Local Models to Control Movement,Memory-based Stochastic Optimization,9.8
+1987-1990,9,Using Local Models to Control Movement,"Fast, Robust Adaptive Control by Learning only Forward Models",0.9
+1999-2002,10,Latent Dirichlet Allocation,Integrating Topics and Syntax,0.8
+1999-2002,10,Latent Dirichlet Allocation,Context as Filtering,0.2
+1999-2002,10,Latent Dirichlet Allocation,Sparse Overcomplete Latent Variable Decomposition of Counts Data,0.6
+1999-2002,10,Latent Dirichlet Allocation,A ``Shape Aware'' Model for semi-supervised Learning of Objects and its Context,26.9
+1999-2002,10,Latent Dirichlet Allocation,Correlated Bigram LSA for Unsupervised Language Model Adaptation,0
+1999-2002,10,Latent Dirichlet Allocation,Large Margin Taxonomy Embedding for Document Categorization,0
+1999-2002,10,Latent Dirichlet Allocation,Dirichlet-Bernoulli Alignment: A Generative Model for Multi-Class Multi-Label Multi-Instance Corpora,0
+1999-2002,10,Latent Dirichlet Allocation,Large Scale Nonparametric Bayesian Inference: Data Parallelisation in the Indian Buffet Process,0.156
+1999-2002,10,Latent Dirichlet Allocation,Efficient Optimization for Discriminative Latent Class Models,0.082
+1999-2002,10,Latent Dirichlet Allocation,Co-regularized Multi-view Spectral Clustering,0.068
+1999-2002,10,Latent Dirichlet Allocation,Complex Inference in Neural Circuits with Probabilistic Population Codes and Topic Models,0.097
+1999-2002,10,Latent Dirichlet Allocation,A Neural Autoregressive Topic Model,0.087
+1999-2002,10,Latent Dirichlet Allocation,Coupling Nonparametric Mixtures via Latent Dirichlet Processes,0.213
+1999-2002,10,Latent Dirichlet Allocation,Small-Variance Asymptotics for Exponential Family Dirichlet Process Mixture Models,0.322
+1999-2002,10,Latent Dirichlet Allocation,When are Overcomplete Topic Models Identifiable? Uniqueness of Tensor Tucker Decompositions with Structured Sparsity,0.37
+1999-2002,10,Latent Dirichlet Allocation,Similarity Component Analysis,0.055
+1999-2002,10,Latent Dirichlet Allocation,Optimistic Concurrency Control for Distributed Unsupervised Learning,41.696
+1999-2002,10,Latent Dirichlet Allocation,Analyzing Hogwild Parallel Gaussian Gibbs Sampling,1.482
+1999-2002,10,Latent Dirichlet Allocation,Latent Support Measure Machines for Bag-of-Words Data Classification,0.304
+1999-2002,10,Latent Dirichlet Allocation,Bayesian Sampling Using Stochastic Gradient Thermostats,9.65
+1999-2002,10,Latent Dirichlet Allocation,Geometric Dirichlet Means Algorithm for topic inference,0.309
+2011-2014,11,Hamming Distance Metric Learning,SGD Algorithms based on Incomplete U-statistics: Large-Scale Minimization of Empirical Risk,0.251
+2008-2011,12,Maximin affinity learning of image segmentation,Recursive Training of 2D-3D Convolutional Networks for Neuronal Boundary Prediction,33.605
+1987-1990,13,The Cascade-Correlation Learning Architecture,Leaning by Combining Memorization and Gradient Descent,0.393
+1987-1990,13,The Cascade-Correlation Learning Architecture,The Tempo 2 Algorithm: Adjusting Time-Delays By Supervised Learning,46.692
+1987-1990,13,The Cascade-Correlation Learning Architecture,Supervised Learning with Growing Cell Structures,1.349
+1987-1990,13,The Cascade-Correlation Learning Architecture,Dynamic Cell Structures,76.108
+2014-2017,0,A Theoretically Grounded Application of Dropout in Recurrent Neural Networks,Multimodal Residual Learning for Visual QA,7.377
+2008-2011,1,Replicated Softmax: an Undirected Topic Model,A Neural Autoregressive Topic Model,3.212
+1990-1993,2,Networks with Learned Unit Response Functions,Perturbing Hebbian Rules,8.809
+1987-1990,3,Stochastic Neurodynamics,Stochastic Dynamics of Three-State Neural Networks,0.465
+1990-1993,4,Stochastic Neurodynamics,Stochastic Dynamics of Three-State Neural Networks,0.356
+1999-2002,5,A Bilinear Model for Sparse Coding,Learning transport operators for image manifolds,50.33
+2002-2005,6,A Bilinear Model for Sparse Coding,Learning transport operators for image manifolds,3.307
+2008-2011,7,Kernel Descriptors for Visual Recognition,Hierarchical Matching Pursuit for Image Classification: Architecture and Fast Algorithms,6.064
+2008-2011,7,Kernel Descriptors for Visual Recognition,Unsupervised Template Learning for Fine-Grained Object Recognition,0.078
+1999-2002,8,Predictive Representations of State,Exponential Family Predictive Representations of State,0.951
+2011-2014,9,Wavelets on Graphs via Deep Learning,Unsupervised Deep Haar Scattering on Graphs,0.225
+1999-2002,10,Sparse Greedy Gaussian Process Regression,Infinite Mixtures of Gaussian Process Experts,0.162
+2005-2008,11,Support Vector Machine Classification with Indefinite Kernels,Supervised Learning with Similarity Functions,0.904
+1999-2002,12,Feature Selection for SVMs,From Lasso regression to Feature vector machine,2.598
+2008-2011,13,Energy Disaggregation via Discriminative Sparse Coding,SDP Relaxation with Randomized Rounding for Energy Disaggregation,0.78
+2005-2008,0,Stochastic Relational Models for Discriminative Link Prediction,Multi-task Gaussian Process Prediction,18.601
+2011-2014,1,Finding a sparse vector in a subspace: Linear sparsity using alternating directions,Online ICA: Understanding Global Dynamics of Nonconvex Optimization via Diffusion Processes,3.32
+2014-2017,2,Finding a sparse vector in a subspace: Linear sparsity using alternating directions,Online ICA: Understanding Global Dynamics of Nonconvex Optimization via Diffusion Processes,1.322
+2002-2005,3,Max-Margin Markov Networks,Multiple Choice Learning: Learning to Produce Multiple Structured Outputs,14.034
+1993-1996,4,Factorial Learning and the EM Algorithm,Learning About Multiple Objects in Images: Factorial Learning without Factorial Search,5.595
+2011-2014,5,Factoring nonnegative matrices with linear programs,Matrix factorization with binary components,6.818
+2011-2014,5,Factoring nonnegative matrices with linear programs,Scalable Methods for Nonnegative Matrix Factorizations of Near-separable Tall-and-skinny Matrices,1.694
+2011-2014,5,Factoring nonnegative matrices with linear programs,Spectral Methods for Supervised Topic Models,3.114
+2011-2014,5,Factoring nonnegative matrices with linear programs,Orthogonal NMF through Subspace Exploration,2.946
+2011-2014,5,Factoring nonnegative matrices with linear programs,Anchor-Free Correlated Topic Modeling: Identifiability and Algorithm,12.416
+2008-2011,6,Brain covariance selection: better individual functional connectivity models using population prior,Robust Multimodal Graph Matching: Sparse Coding Meets Graph Matching,2.052
+2005-2008,7,Characterizing neural dependencies with copula models,Correlation Coefficients are Insufficient for Analyzing Spike Count Dependencies,4.658
+2005-2008,7,Characterizing neural dependencies with copula models,"Rescaling, thinning or complementing? On goodness-of-fit procedures for point process models and Generalized Linear Models",15.824
+2008-2011,8,Characterizing neural dependencies with copula models,Correlation Coefficients are Insufficient for Analyzing Spike Count Dependencies,0.928
+2008-2011,8,Characterizing neural dependencies with copula models,"Rescaling, thinning or complementing? On goodness-of-fit procedures for point process models and Generalized Linear Models",5.747
+2002-2005,10,Learning the k in k-means,PG-means: learning the number of clusters in data,0.065
+2002-2005,10,Learning the k in k-means,Dip-means: an incremental clustering method for estimating the number of clusters,19.494
+2002-2005,10,Learning the k in k-means,Efficient and Robust Automated Machine Learning,0.999
+1999-2002,11,Support Vector Machines for Multiple-Instance Learning,Multi-Level Active Prediction of Useful Image Annotations for Recognition,0.136
+2002-2005,12,Support Vector Machines for Multiple-Instance Learning,Multi-Level Active Prediction of Useful Image Annotations for Recognition,1.417
+2005-2008,13,Accelerating Bayesian Inference over Nonlinear Differential Equations with Gaussian Processes,Efficient Sampling for Gaussian Process Inference using Control Variables,17.416
+2008-2011,0,Accelerating Bayesian Inference over Nonlinear Differential Equations with Gaussian Processes,Efficient Sampling for Gaussian Process Inference using Control Variables,9.579
+2011-2014,1,Stochastic Gradient Riemannian Langevin Dynamics on the Probability Simplex,Bayesian Sampling Using Stochastic Gradient Thermostats,26.151
+1999-2002,2,Incremental and Decremental Support Vector Machine Learning,Multi-Level Active Prediction of Useful Image Annotations for Recognition,18.492
+2005-2008,3,Non-stationary dynamic Bayesian networks,Non-stationary continuous dynamic Bayesian networks,0.182
+2005-2008,3,Non-stationary dynamic Bayesian networks,Inter-time segment information sharing for non-homogeneous dynamic Bayesian networks,3.267
+2008-2011,4,Non-stationary dynamic Bayesian networks,Non-stationary continuous dynamic Bayesian networks,0.083
+2008-2011,4,Non-stationary dynamic Bayesian networks,Inter-time segment information sharing for non-homogeneous dynamic Bayesian networks,7.286
+2014-2017,5,Explore no more: Improved high-probability regret bounds for non-stochastic bandits,Contextual semibandits via supervised learning oracles,0.723
+2002-2005,6,Maximum-Margin Matrix Factorization,Approximating Concavely Parameterized Optimization Problems,0.342
+2002-2005,6,Maximum-Margin Matrix Factorization,Probabilistic Low-Rank Matrix Completion with Adaptive Spectral Regularization Algorithms,1.492
+2011-2014,7,An Accelerated Proximal Coordinate Gradient Method,Exploiting the Structure: Stochastic Gradient Methods Using Raw Clusters,0.251
+2014-2017,8,An Accelerated Proximal Coordinate Gradient Method,Exploiting the Structure: Stochastic Gradient Methods Using Raw Clusters,0.12
+1990-1993,9,A Neural Network for Motion Detection of Drift-Balanced Stimuli,Recurrent Eye Tracking Network Using a Distributed Representation of Image Motion,3.621
+1999-2002,10,Gaussianization,Reducing statistical dependencies in natural signals using radial Gaussianization,0.365
+1999-2002,10,Gaussianization,The Conjoint Effect of Divisive Normalization and Orientation Selectivity on Redundancy Reduction,1.337
+1999-2002,10,Gaussianization,Hierarchical Modeling of Local Image Features through ,0.472
+1999-2002,10,Gaussianization,The 'tree-dependent components' of natural scenes are edge filters,0.144
+1999-2002,10,Gaussianization,Divisive Normalization: Justification and Effectiveness as Efficient Coding Transform,0.582
+1999-2002,10,Gaussianization,"Natural Images, Gaussian Mixtures and Dead Leaves",0.098
+1996-1999,11,Fisher Scoring and a Mixture of Modes Approach for Approximate Inference and Learning in Nonlinear State Space Models,Learning Nonlinear Dynamical Systems Using an EM Algorithm,0.378
+1990-1993,12,Tangent Prop - A formalism for specifying selected invariances in an adaptive network,A Rapid Graph-based Method for Arbitrary Transformation-Invariant Pattern Classification,0.301
+1990-1993,12,Tangent Prop - A formalism for specifying selected invariances in an adaptive network,Efficient Pattern Recognition Using a New Transformation Distance,0.48
+1987-1990,13,A Comparative Study of the Practical Characteristics of Neural Network and Conventional Pattern Classifiers,Using Genetic Algorithms to Improve Pattern Classification Performance,0.051
+1990-1993,0,A Comparative Study of the Practical Characteristics of Neural Network and Conventional Pattern Classifiers,Using Genetic Algorithms to Improve Pattern Classification Performance,1.543
+1999-2002,1,Partially labeled classification with Markov random walks,Semi-Supervised Learning with Trees,1.609
+1999-2002,1,Partially labeled classification with Markov random walks,Semi-supervised Protein Classification Using Cluster Kernels,0.051
+1999-2002,1,Partially labeled classification with Markov random walks,Nonparametric Transforms of Graph Kernels for Semi-Supervised Learning,0.51
+1999-2002,1,Partially labeled classification with Markov random walks,Learning on Graph with Laplacian Regularization,1.409
+1999-2002,1,Partially labeled classification with Markov random walks,Entropic Graph Regularization in Non-Parametric Semi-Supervised Classification,1.097
+1999-2002,1,Partially labeled classification with Markov random walks,Analyzing the Harmonic Structure in Graph-Based Learning,0.135
+1999-2002,1,Partially labeled classification with Markov random walks,Learning on graphs using Orthonormal Representation is Statistically Consistent,0.108
+1999-2002,1,Partially labeled classification with Markov random walks,Semi-supervised Learning with Ladder Networks,0.274
+2005-2008,2,Efficient Inference for Distributions on Permutations,Inferring rankings under constrained sensing,1.184
+2005-2008,2,Efficient Inference for Distributions on Permutations,Fast Resampling Weighted v-Statistics,0.739
+2011-2014,3,Exponential Concentration of a Density Functional Estimator,"Nonparametric von Mises Estimators for Entropies, Divergences and Mutual Informations",0.142
+2014-2017,4,Exponential Concentration of a Density Functional Estimator,"Nonparametric von Mises Estimators for Entropies, Divergences and Mutual Informations",0.081
+2002-2005,5,Ranking on Data Manifolds,Graph-based Consensus Maximization among Multiple Supervised and Unsupervised Models,2.052
+1990-1993,6,Input Reconstruction Reliability Estimation,Non-Intrusive Gaze Tracking Using Artificial Neural Networks,0.428
+1990-1993,6,Input Reconstruction Reliability Estimation,Using a Saliency Map for Active Spatial Selective Attention: Implementation & Initial Results,0.746
+2008-2011,7,Priors over Recurrent Continuous Time Processes,MCMC for continuous-time discrete-state systems,1.211
+2008-2011,7,Priors over Recurrent Continuous Time Processes,Poisson Process Jumping between an Unknown Number of Rates: Application to Neural Spike Data,0.143
+2011-2014,8,Priors over Recurrent Continuous Time Processes,MCMC for continuous-time discrete-state systems,0.227
+2011-2014,8,Priors over Recurrent Continuous Time Processes,Poisson Process Jumping between an Unknown Number of Rates: Application to Neural Spike Data,14.037
+2008-2011,9,Learning a Distance Metric from a Network,On Graph Reconstruction via Empirical Risk Minimization: Fast Learning Rates and Scalability,0.686
+2011-2014,10,Learning a Distance Metric from a Network,On Graph Reconstruction via Empirical Risk Minimization: Fast Learning Rates and Scalability,1.917
+1996-1999,11,Probabilistic Methods for Support Vector Machines,Mixtures of Gaussian Processes,27.827
+1999-2002,12,Probabilistic Methods for Support Vector Machines,Mixtures of Gaussian Processes,49.731
+2008-2011,13,A Dirty Model for Multi-task Learning,On the Universality of Online Mirror Descent,8.813
+2002-2005,0,Integrating Topics and Syntax,A ``Shape Aware'' Model for semi-supervised Learning of Objects and its Context,4.518
+2005-2008,1,Supervised Dictionary Learning,Generalized Lasso based Approximation of Sparse Coding for Visual Recognition,29.464
+2008-2011,2,Supervised Dictionary Learning,Generalized Lasso based Approximation of Sparse Coding for Visual Recognition,1.738
+2002-2005,3,Learning to Find Pre-Images,Robust Kernel Principal Component Analysis,3.228
+2005-2008,4,Spectral Hashing,Learning to Hash with Binary Reconstructive Embeddings,6.95
+2005-2008,4,Spectral Hashing,Hashing Hyperplane Queries to Near Points with Applications to Large-Scale Active Learning,1.26
+2005-2008,4,Spectral Hashing,Learning Image Descriptors with the Boosting-Trick,0.129
+2005-2008,4,Spectral Hashing,Which Space Partitioning Tree to Use for Search?,0.964
+2008-2011,5,Spectral Hashing,Learning to Hash with Binary Reconstructive Embeddings,6.186
+2008-2011,5,Spectral Hashing,Hashing Hyperplane Queries to Near Points with Applications to Large-Scale Active Learning,0.07
+2008-2011,5,Spectral Hashing,Learning Image Descriptors with the Boosting-Trick,7.753
+2008-2011,5,Spectral Hashing,Which Space Partitioning Tree to Use for Search?,2.669
+2008-2011,6,Approximate inference in continuous time Gaussian-Jump processes,Approximate inference in latent Gaussian-Markov models from continuous time observations,0.432
+1987-1990,7,Generalization and Parameter Estimation in Feedforward Nets: Some Experiments,A Continuous Speech Recognition System Embedding MLP into HMM,1.06
+1987-1990,7,Generalization and Parameter Estimation in Feedforward Nets: Some Experiments,Connectionist Approaches to the Use of Markov Models for Speech Recognition,0.108
+1999-2002,8,Occam's Razor,What Size Net Gives Valid Generalization?,0.055
+2005-2008,9,Fitted Q-iteration in continuous action-space MDPs,Regularized Policy Iteration,0.06
+2005-2008,9,Fitted Q-iteration in continuous action-space MDPs,Fitted Q-iteration by Advantage Weighted Regression,5.041
+2005-2008,9,Fitted Q-iteration in continuous action-space MDPs,Speedy Q-Learning,0.06
+2005-2008,9,Fitted Q-iteration in continuous action-space MDPs,Convergent Fitted Value Iteration with Linear Function Approximation,0.06
+2008-2011,10,Over-complete representations on recurrent neural networks can support persistent percepts,Structured sparse coding via lateral inhibition,67.179
+2008-2011,11,Occlusive Components Analysis,The Maximal Causes of Natural Scenes are Edge Filters,67.179
+2008-2011,11,Occlusive Components Analysis,What Are the Invariant Occlusive Components of Image Patches? A Probabilistic Generative Approach,3.633
+1990-1993,12,Bayesian Learning via Stochastic Dynamics,Gaussian Processes for Regression,3.633
+1990-1993,12,Bayesian Learning via Stochastic Dynamics,"Bayesian Backprop in Action: Pruning, Committees, Error Bars and an Application to Spectroscopy",0.184
+2008-2011,13,High-dimensional regression with noisy and missing data: Provable guarantees with non-convexity,Structure estimation for discrete graphical models: Generalized covariance matrices and their inverses,0.342
+2008-2011,13,High-dimensional regression with noisy and missing data: Provable guarantees with non-convexity,Regularized M-estimators with nonconvexity: Statistical and algorithmic theory for local optima,1.259
+2008-2011,13,High-dimensional regression with noisy and missing data: Provable guarantees with non-convexity,Regularized EM Algorithms: A Unified Framework and Statistical Guarantees,0.066
+2011-2014,0,High-dimensional regression with noisy and missing data: Provable guarantees with non-convexity,Structure estimation for discrete graphical models: Generalized covariance matrices and their inverses,0.514
+2011-2014,0,High-dimensional regression with noisy and missing data: Provable guarantees with non-convexity,Regularized M-estimators with nonconvexity: Statistical and algorithmic theory for local optima,0.054
+2011-2014,0,High-dimensional regression with noisy and missing data: Provable guarantees with non-convexity,Regularized EM Algorithms: A Unified Framework and Statistical Guarantees,0.553
+2008-2011,1,STDP enables spiking neurons to detect hidden causes of their inputs,Synaptic Sampling: A Bayesian Approach to Neural Network Plasticity and Rewiring,0.553

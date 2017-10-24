@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Vizuly - Weighted Tree</title>
+
+    <!-- We use google fonts for many of the examples, but they are not necessary -->
+    <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto|Raleway:600,400,200' rel='stylesheet' type='text/css'>
+
+    <!-- Test container style sheets -->
+    <link rel="stylesheet" href="styles/examples.css">
+
+    <!-- Vizuly specific style sheets -->
+    <link rel="stylesheet" href="styles/styles/vizuly.css">
+    <link rel="stylesheet" href="styles/styles/vizuly_weightedtree.css">
+
+    <!-- Supporting test container files:  Vizuly does NOT rely on these -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="styles/styles/cssmenu.css">
+    <script type="text/javascript" src="styles/jquery-2.1.1.min.js"></script>
+    <script src="styles/cssmenu.js"></script>
+
+    <!-- D3.js ... of course! -->
+    <script src="lib/d3.min.js"></script>
+
+    <!-- debug source scripts: start --> <!--
+    <script src="src/core/_namespace.js"></script>
+
+    Latest compiled and minified CSS -->
+
+    <script src="assets/js/bootstrap-transition.js"></script>
+<script src="assets/js/bootstrap-modal.js"></script>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+
+
+
+
+
+    <script src="src/core/component.js"></script>
+    <script src="src/core/data.js"></script>
+    <script src="src/core/util.js"></script>
+
+    <script src="src/core/format.js"></script>
+
+    <script src="src/svg/gradient.js"></script>
+    <script src="src/svg/filter.js"></script>
+    <script src="src/viz/weightedtree.js"></script>
+    <script src="src/theme/weightedtree.js"></script>
+
+    --> <!-- debug source scripts: end -->
+
+    <script src="lib/vizuly_core.min.js"></script>
+	<script src="lib/vizuly_weightedtree.min.js"></script>
+
+    <script src="weightedtree_test.js"></script>
+    <style>
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+}
+
+/* The Close Button */
+.close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+</style>
+
+</head>
+
+<body>
+<h1 align="center">Author clusters on year ranges </h1>
+
+<!-- Our main content container-->
+<div class="container" style="width:100%">
+    <div id="viz_container" class="z-depth-3">
+     </div>
+     <div id="1987-1990" class="w3-modal" tabindex='-1'>
+          <div class="w3-modal-content w3-animate-zoom w3-card-4">
+            <img class="w3-modal-content" src="clusters/87-90.png">
+          </div>
+        <span class="close">&times;</span>
+    </div>
+    <div id="1990-1993" class="w3-modal" tabindex='-1'>
+          <div class="w3-modal-content w3-animate-zoom w3-card-4">
+            <img class="w3-modal-content" src="clusters/90-93.png">
+          </div>
+        <span class="close">&times;</span>
+    </div>
+    <div id="1993-1996" class="w3-modal" tabindex='-1'>
+          <div class="w3-modal-content w3-animate-zoom w3-card-4">
+            <img class="w3-modal-content" src="clusters/93-96.png">
+          </div>
+        <span class="close">&times;</span>
+    </div>
+    <div id="1996-1999" class="w3-modal" tabindex='-1'>
+          <div class="w3-modal-content w3-animate-zoom w3-card-4">
+            <img class="w3-modal-content" src="clusters/96-99.png">
+          </div>
+        <span class="close">&times;</span>
+    </div>
+    <div id="1999-2002" class="w3-modal" tabindex='-1'>
+         <div class="w3-modal-content w3-animate-zoom w3-card-4">
+          <div class="w3-modal-content">
+        </div>
+            <img class="w3-modal-content" src="clusters/99-02.png">
+        </div>
+        <span class="close">&times;</span>
+    </div>
+    <div id="2002-2005" class="w3-modal" tabindex='-1'>
+         <div class="w3-modal-content w3-animate-zoom w3-card-4">
+          <div class="w3-modal-content">
+        </div>
+            <img class="w3-modal-content" src="clusters/02-06.png">
+        </div>
+        <span class="close">&times;</span>
+    </div>
+    <div id="2005-2008" class="w3-modal" tabindex='-1'>
+         <div class="w3-modal-content w3-animate-zoom w3-card-4">
+          <div class="w3-modal-content">
+        </div>
+            <img class="w3-modal-content" src="clusters/06-09.png">
+        </div>
+        <span class="close">&times;</span>
+    </div>
+    <div id="2008-2011" class="w3-modal" tabindex='-1'>
+         <div class="w3-modal-content w3-animate-zoom w3-card-4">
+          <div class="w3-modal-content">
+        </div>
+            <img class="w3-modal-content" src="clusters/09-12.png">
+        </div>
+        <span class="close">&times;</span>
+    </div>
+    <div id="2011-2014" class="w3-modal" tabindex='-1'>
+         <div class="w3-modal-content w3-animate-zoom w3-card-4">
+          <div class="w3-modal-content">
+        </div>
+            <img class="w3-modal-content" src="clusters/12-15.png">
+        </div>
+        <span class="close">&times;</span>
+    </div>
+
+
+</div>
+
+
+
+<script>
+    //Once the document is ready we set javascript and page settings
+    var screenWidth;
+    var screenHeight;
+
+    $(document).ready(function () {
+
+        var rect;
+        if (self==top) {
+            rect = document.body.getBoundingClientRect();
+        }
+        else {
+            rect =  parent.document.body.getBoundingClientRect();
+        }
+
+        //Set display size based on window size.
+        screenWidth = (rect.width < 960) ? Math.round(rect.width*1) : Math.round((rect.width ) *1);
+
+        screenHeight=950;
+
+        d3.select("#currentDisplay")
+                .attr("item_value", (String(screenWidth) + "," + String(screenHeight)))
+                .attr("class", "selected")
+                .html("<a>" + screenWidth + "px - " + screenHeight + "px</a>");
+
+
+        $("#cssmenu").menumaker({
+            title: "VIZULY WEIGHTED TREE",
+            format: "multitoggle"
+        });
+
+        // Set the size of our container element.
+        viz_container = d3.selectAll("#viz_container")
+                .style("width", screenWidth + "px")
+                .style("height", screenHeight + "px");
+
+
+        loadData();
+
+
+    });
+
+</script>
+
+
+</body>
+
+
+</html>
