@@ -42,8 +42,8 @@ var theme;
 var data = {};
 
 // stores the currently selected value field
-var valueField = "Citations";
-var valueFields = ["Citations", "Papers"];
+var valueField = "Comunities";
+var valueFields = ["Comunities", "Papers"];
 
 
 var formatCurrency = function (d) { if (isNaN(d)) d = 0; return d3.format(",.0f")(d); };
@@ -202,7 +202,7 @@ function onMouseOver(e,d,i) {
     if (d == data) return;
     var rect = e.getBoundingClientRect();
     if (d.target) d = d.target; //This if for link elements
-	createDataTip(rect.left, (rect.top+viz.height() *.05), (d.key || (d['Level' + d.depth])), formatCurrency(d["agg_" + valueFields[0]]) + " Papers","");
+	createDataTip(rect.left, (rect.top+viz.height() *.05), (d.key || (d['Level' + d.depth])), formatCurrency(d["agg_" + valueFields[0]]) + " Comunities","");
 
 }
 
@@ -217,14 +217,6 @@ function onClick(g,d,i) {
     var modal = document.getElementById(d.key);
 
     modal.style.display = "block";
-    // Get the <span> element that closes the modal
-    var span = document.getElementsByClassName("close")[0];
-
-
-    // When the user clicks on <span> (x), close the modal
-    span.onclick = function() {
-        modal.style.display = "none";
-    }
 
     // When the user clicks anywhere outside of the modal, close it
     window.onclick = function(event) {
@@ -252,7 +244,7 @@ function changeSkin(val) {
 //This changes the size of the component by adjusting the width/height;
 function changeSize(val) {
     var s = String(val).split(",");
-    viz_container.transition().duration(400).style('width', s[0] + 'px').style('height', s[1] + 'px');
+    viz_container.transition().duration(400).style('width', 2000 + "px").style('height', 1000 + "px");
     viz.width(s[0]).height(s[1]*.8).update();
 }
 

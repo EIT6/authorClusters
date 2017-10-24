@@ -73,7 +73,7 @@ vizuly.viz.weighted_tree = function (parent) {
          * @default  {top:'5%', bottom:'5%', left:'8%', right:'10%'}
          */
         "margin" : {
-            "top": "5%",
+            "top": "50%",
             "bottom" : "5%",
             "left" : "8%",
             "right" : "7%"
